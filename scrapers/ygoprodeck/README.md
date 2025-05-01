@@ -7,13 +7,18 @@ tier - premier
 
 # STEP 1
 
-downloaded all tournaments metadata, "/raw/tournaments-TCG-3.csv" and downloaded all html pages
-of all tournaments to be parsed in r
+downloaded all tournaments metadata, "/raw/tournaments-TCG-3.csv"
+`generate_tournament_names_data`
+
+
+and downloaded all html pages of all tournaments to be parsed in r
+`download_all_tournament_pages()`
 
 # STEP 2
 
 parsed all tournaments html to csv in "parsed/tournaments-TCG-3/<>.csv"
 it has placement of player, name, what they played and deck link
+`parse_all_tournament_html()`
 
 # STEP 3
 

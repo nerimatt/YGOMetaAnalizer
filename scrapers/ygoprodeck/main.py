@@ -54,6 +54,15 @@ def get_tournament_page_html(slug):
     session.close()
 
 
+def parse_all_tournament_html():
+    from os import listdir
+
+    tournaments_html = listdir(f"raw/tournaments-{FORMAT}-{TIER}/")
+
+    for tournament in tournaments_html:
+        get_tournament_data_from_html(tournament.split(".")[0])
+
+
 def get_tournament_data_from_html(slug):
     TOURNAMENT_ENDPOINT = "https://ygoprodeck.com/tournament/"
     webpage = TOURNAMENT_ENDPOINT + slug
@@ -115,14 +124,6 @@ def get_tournament_data_from_html(slug):
     file.close()
     # session.close()
     # del session
-
-def parse_all_tournament_html():
-    from os import listdir
-
-    tournaments_html = listdir(f"raw/tournaments-{FORMAT}-{TIER}/")
-
-    for tournament in tournaments_html:
-        get_tournament_data_from_html(tournament.split(".")[0])
 
 
 
