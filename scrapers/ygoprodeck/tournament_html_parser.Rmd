@@ -1,0 +1,19 @@
+# transform html files scraped with python to usable csv
+
+```{r}
+library("xml2")
+getwd()
+```
+
+```{r}
+tournament = "ycs-houston-2930"
+html = read_html(paste("./raw/tournaments-TCG-3/", tournament, ".html", sep = ""))
+```
+
+partecipants_elem = soup.find_all(class_ = "tournament_table_row")
+
+```{r}
+
+partecipants_elem = html_find_all(html, '//*[@class="tournament_table_row"]')
+```
+
