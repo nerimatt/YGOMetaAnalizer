@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Poe Jiang,Sky Striker,mystic-mine-sky-striker-284444
-1,2,James Jin-Young Kim,Branded,
-2,3,Justin Andrew Singh,Drytron,magikey-drytron-284503
-3,4,Andrew Dolich,Swordsoul,tenyi-swordsoul-284774
-4,5,Braedon Hooker,Synchron,adventurer-p-u-n-k-synchro-gs-284770
-5,6,Hani Jawhari,Synchron,adventurer-p-u-n-k-synchro-gs-284781
-6,7,Panagiotis Mitrothanasis,Sky Striker,mystic-mine-sky-striker-285084
-7,8,Pascal Manigat,Floowandereeze,
-8,9,David Creti,Synchron,adventurer-p-u-n-k-synchro-gs-285080
-9,10,Dominic Couch,P.U.N.K,therion-adventurer-p-u-n-k-284796
-10,11,Jordan Gallacher,Despia,branded-snow-despia-285848
-11,12,Tej Amin,Swordsoul,tenyi-swordsoul-284746
-12,13,James Miles Valentino,Drytron,amorphactor-drytron-284456
-13,14,Isaiah Thomas Houston,P.U.N.K.,
-14,15,Kyle Botelho,Floowandereeze,floowandereeze-284800
-15,16,Noah Koel Sullivan,Floowandereeze,floowandereeze-285070
-16,17,Noah Harris Yahney,Eldlich,60-card-branded-zombie-eldlich-285066
-17,18,Raymond Dai,Sky Striker,adventurer-enforcer-heatsoul-sky-striker-284828
-18,19,Luke Parkes,Despia,branded-snow-despia-284816
-19,20,Cristian Urena,Synchro,adventurer-p-u-n-k-synchro-gs-284820
-20,21,Matthew Ellis,Despia,branded-despia-284804
-21,22,Kassim Abdool Hakim,P.U.N.K.,
-22,23,Calvin Tahan,Swordsoul,tenyi-swordsoul-284808
-23,24,Thomas Connor Newman,Swordsoul,
-24,25,Gary PA Chen,Swordsoul,tenyi-swordsoul-284824
-25,26,Sebastian Andres FL Sanchez,Swordsoul,
-26,27,Matthew Evan Harris Vanden Heuvel,ABC,
-27,28,Benito Enrique MI Garcia,Swordsoul,
-28,29,Mohammed Faisal Khan,Dragon Link,
-29,30,Matthew David Beck,D/D/D,d-d-d-284452
-30,31,Nicolas Charles FL Ortiz,Floowandereeze,floowandereeze-285074
-31,32,Jingyang Guo,@Ignister,blind-second-ignister-284812
+,placement,player,archetype,deck_id,deck_cost
+0,1,Poe Jiang,Sky Striker,mystic-mine-sky-striker-284444,$69.10
+1,2,James Jin-Young Kim,Branded,,
+2,3,Justin Andrew Singh,Drytron,magikey-drytron-284503,$117.61
+3,4,Andrew Dolich,Swordsoul,tenyi-swordsoul-284774,$96.45
+4,5,Braedon Hooker,Synchron,adventurer-p-u-n-k-synchro-gs-284770,$83.23
+5,6,Hani Jawhari,Synchron,adventurer-p-u-n-k-synchro-gs-284781,$75.96
+6,7,Panagiotis Mitrothanasis,Sky Striker,mystic-mine-sky-striker-285084,$69.85
+7,8,Pascal Manigat,Floowandereeze,,
+8,9,David Creti,Synchron,adventurer-p-u-n-k-synchro-gs-285080,$55.49
+9,10,Dominic Couch,P.U.N.K,therion-adventurer-p-u-n-k-284796,$71.87
+10,11,Jordan Gallacher,Despia,branded-snow-despia-285848,$53.81
+11,12,Tej Amin,Swordsoul,tenyi-swordsoul-284746,$93.94
+12,13,James Miles Valentino,Drytron,amorphactor-drytron-284456,$143.77
+13,14,Isaiah Thomas Houston,P.U.N.K.,,
+14,15,Kyle Botelho,Floowandereeze,floowandereeze-284800,$74.97
+15,16,Noah Koel Sullivan,Floowandereeze,floowandereeze-285070,$89.30
+16,17,Noah Harris Yahney,Eldlich,60-card-branded-zombie-eldlich-285066,$35.34
+17,18,Raymond Dai,Sky Striker,adventurer-enforcer-heatsoul-sky-striker-284828,$87.26
+18,19,Luke Parkes,Despia,branded-snow-despia-284816,$48.91
+19,20,Cristian Urena,Synchro,adventurer-p-u-n-k-synchro-gs-284820,$64.64
+20,21,Matthew Ellis,Despia,branded-despia-284804,$36.69
+21,22,Kassim Abdool Hakim,P.U.N.K.,,
+22,23,Calvin Tahan,Swordsoul,tenyi-swordsoul-284808,$88.77
+23,24,Thomas Connor Newman,Swordsoul,,
+24,25,Gary PA Chen,Swordsoul,tenyi-swordsoul-284824,$115.17
+25,26,Sebastian Andres FL Sanchez,Swordsoul,,
+26,27,Matthew Evan Harris Vanden Heuvel,ABC,,
+27,28,Benito Enrique MI Garcia,Swordsoul,,
+28,29,Mohammed Faisal Khan,Dragon Link,,
+29,30,Matthew David Beck,D/D/D,d-d-d-284452,$53.77
+30,31,Nicolas Charles FL Ortiz,Floowandereeze,floowandereeze-285074,$54.22
+31,32,Jingyang Guo,@Ignister,blind-second-ignister-284812,$70.31

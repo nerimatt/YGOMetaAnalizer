@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Matthieu Bricard,Fiendsmith,magical-musketeer-fiendsmith-548265
-1,2,Francesco Gargiulo,Yubel,fiendsmith-kashtira-yubel-548099
-2,3,Mario De Micco,Tenpai Dragon,
-3,4,Flaminio Rossi,Memento,memento-548733
-4,5,Julius Schwarzkopf,Mermail,atlantean-mermail-548352
-5,6,Pakawat Pamornsut,Fiendsmith,kashtira-fiendsmith-548259
-6,7,Francesco Simoncelli,Orcust,horus-orcust-548322
-7,8,Julio Valls,Ritual Beast,ritual-beast-548319
-8,9,Noël Hamel,Snake-Eye,fiendsmith-azamina-snake-eye-548350
-9,10,Daniel Heffernan,Fire King,azamina-snake-eye-fire-king-548411
-10,11,Giannis Tato,Snake-Eye,azamina-kashtira-snake-eye-548732
-11,12,Dimitris Rafailidis,Snake-Eye,azamina-snake-eye-549389
-12,13,Davide Bisagni,Chimera,fiendsmith-chimera-548324
-13,14,Lorenzo Muselli,Kashtira,kashtira-548049
-14,15,Norman Salemme,Ritual Beast,ritual-beast-549274
-15,16,Silvio Nikolov,Centur-Ion,fiendsmith-centur-ion-549953
-16,17,Filippo Cusin,Fire King,azamina-snake-eye-fire-king-548728
-17,18,Brenden Beckmann,Fire King,azamina-snake-eye-fire-king-549954
-18,19,Kostadin Kasabov,Snake-Eye,
-19,20,Jack Verma,Fiendsmith,kashtira-fiendsmith-548053
-20,21,John Dawson,Yubel,fiendsmith-yubel-548627
-21,22,Marco Campanini,Yubel,fiendsmith-yubel-548387
-22,23,Gianni Barone,Yubel,fiendsmith-yubel-548393
-23,24,Sven Rebmann,Memento,fiendsmith-memento-548438
-24,25,Joshua Schmidt,Fiendsmith,kashtira-fiendsmith-548402
-25,26,Dinh-Kha Bui,Fiendsmith,kashtira-fiendsmith-548052
-26,27,Pierangelo Campanelli,Labrynth,labrynth-549395
-27,28,Alessandro Boniolo,Kashtira,kashtira-548333
-28,29,Jonasz Pilat,Ritual Beast,ritual-beast-548320
-29,30,Gabriel Huart,Tenpai Dragon,tenpai-dragon-548384
-30,31,Sasha Tirabassi,Tenpai Dragon,tenpai-dragon-548421
-31,32,Christofer A.,Ritual Beast,
-32,33,Aleksandar Gerasimov,Yubel,fiendsmith-kashtira-yubel-548725
-33,34,Timoti Baggio,Fiendsmith,fiendsmith-azamina-adventurer-kashtira-548730
-34,35,Tom-Luca Menzel,Snake-Eye,fiendsmith-azamina-snake-eye-549963
-35,36,Luigi Picerno,Snake-Eye,azamina-kashtira-snake-eye-549388
-36,37,Themis Gkyzis,Snake-Eye,fiendsmith-azamina-kashtira-snake-eye-548282
-37,38,Simone Gianino,Fire King,azamina-snake-eye-fire-king-548405
-38,39,Giuseppe Marra,Snake-Eye,fiendsmith-azamina-snake-eye-548363
-39,40,Liborio Bobby Barone,Snake-Eye,azamina-snake-eye-548437
-40,41,Carmine Sommese,Yubel,fiendsmith-yubel-549126
-41,42,Michael Carillo,Snake-Eye,azamina-snake-eye-548344
-42,43,Guillaume Maron,Snake-Eye,azamina-snake-eye-549392
-43,44,Alberto Zucchetti ,Voiceless Voice,fiendsmith-voiceless-voice-548398
-44,45,Giuseppe Tarsitano,Snake-Eye,azamina-snake-eye-548360
-45,46,Patrick Baumann,Kashtira,heatsoul-kashtira-549117
-46,47,Felix Fertsch,Yubel,fiendsmith-yubel-549861
-47,48,Daniel Hartmann,Fiendsmith,kashtira-fiendsmith-548276
-48,49,Simone Papparella,Centur-Ion,horus-centur-ion-548720
-49,50,Niko Schlierkamp,Fiendsmith,kashtira-fiendsmith-548275
-50,51,Vincenzo Chiola,Centur-Ion,bystial-centur-ion-548391
-51,52,Manuel Scharfegger,Mermail,atlantean-mermail-548094
-52,53,Thomas Arend Kas,Yubel,fiendsmith-yubel-549329
-53,54,Bence Fervágner ,Tenpai Dragon,tenpai-dragon-548065
-54,55,Francesco Seminara,Kashtira,kashtira-548615
-55,56,Andrea Catalano,Salamangreat,salamangreat-548339
-56,57,Antonio Oliva,Ritual Beast,ritual-beast-548403
-57,58,Denis Nadas,Tenpai Dragon,tenpai-dragon-550458
-58,59,Mattia Bertogna,Tenpai Dragon,tenpai-dragon-548632
-59,60,Alfredo Orlando,Tenpai Dragon,
-60,61,Fatrim Zeqiri,Fire King,
-61,62,Agostyno Zito,Chimera,
-62,63,The-Phong Trinh,Ritual Beast,ritual-beast-548724
-63,64,<unknown duelist>,Fire King,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Matthieu Bricard,Fiendsmith,magical-musketeer-fiendsmith-548265,$769.24
+1,2,Francesco Gargiulo,Yubel,fiendsmith-kashtira-yubel-548099,$933.06
+2,3,Mario De Micco,Tenpai Dragon,,
+3,4,Flaminio Rossi,Memento,memento-548733,$821.97
+4,5,Julius Schwarzkopf,Mermail,atlantean-mermail-548352,$1016.97
+5,6,Pakawat Pamornsut,Fiendsmith,kashtira-fiendsmith-548259,$1130.36
+6,7,Francesco Simoncelli,Orcust,horus-orcust-548322,$967.37
+7,8,Julio Valls,Ritual Beast,ritual-beast-548319,$718.38
+8,9,Noël Hamel,Snake-Eye,fiendsmith-azamina-snake-eye-548350,$787.04
+9,10,Daniel Heffernan,Fire King,azamina-snake-eye-fire-king-548411,$1072.07
+10,11,Giannis Tato,Snake-Eye,azamina-kashtira-snake-eye-548732,$792.46
+11,12,Dimitris Rafailidis,Snake-Eye,azamina-snake-eye-549389,$1118.68
+12,13,Davide Bisagni,Chimera,fiendsmith-chimera-548324,$363.42
+13,14,Lorenzo Muselli,Kashtira,kashtira-548049,$613.90
+14,15,Norman Salemme,Ritual Beast,ritual-beast-549274,$126.55
+15,16,Silvio Nikolov,Centur-Ion,fiendsmith-centur-ion-549953,$796.48
+16,17,Filippo Cusin,Fire King,azamina-snake-eye-fire-king-548728,$1009.51
+17,18,Brenden Beckmann,Fire King,azamina-snake-eye-fire-king-549954,$1113.25
+18,19,Kostadin Kasabov,Snake-Eye,,
+19,20,Jack Verma,Fiendsmith,kashtira-fiendsmith-548053,$763.36
+20,21,John Dawson,Yubel,fiendsmith-yubel-548627,$1051.96
+21,22,Marco Campanini,Yubel,fiendsmith-yubel-548387,$1084.87
+22,23,Gianni Barone,Yubel,fiendsmith-yubel-548393,$863.10
+23,24,Sven Rebmann,Memento,fiendsmith-memento-548438,$625.55
+24,25,Joshua Schmidt,Fiendsmith,kashtira-fiendsmith-548402,$1136.33
+25,26,Dinh-Kha Bui,Fiendsmith,kashtira-fiendsmith-548052,$756.54
+26,27,Pierangelo Campanelli,Labrynth,labrynth-549395,$267.82
+27,28,Alessandro Boniolo,Kashtira,kashtira-548333,$206.94
+28,29,Jonasz Pilat,Ritual Beast,ritual-beast-548320,$719.76
+29,30,Gabriel Huart,Tenpai Dragon,tenpai-dragon-548384,$910.70
+30,31,Sasha Tirabassi,Tenpai Dragon,tenpai-dragon-548421,$970.47
+31,32,Christofer A.,Ritual Beast,,
+32,33,Aleksandar Gerasimov,Yubel,fiendsmith-kashtira-yubel-548725,$869.48
+33,34,Timoti Baggio,Fiendsmith,fiendsmith-azamina-adventurer-kashtira-548730,$1217.51
+34,35,Tom-Luca Menzel,Snake-Eye,fiendsmith-azamina-snake-eye-549963,$816.50
+35,36,Luigi Picerno,Snake-Eye,azamina-kashtira-snake-eye-549388,$981.46
+36,37,Themis Gkyzis,Snake-Eye,fiendsmith-azamina-kashtira-snake-eye-548282,$1038.42
+37,38,Simone Gianino,Fire King,azamina-snake-eye-fire-king-548405,$1043.06
+38,39,Giuseppe Marra,Snake-Eye,fiendsmith-azamina-snake-eye-548363,$1065.88
+39,40,Liborio Bobby Barone,Snake-Eye,azamina-snake-eye-548437,$1111.05
+40,41,Carmine Sommese,Yubel,fiendsmith-yubel-549126,$704.66
+41,42,Michael Carillo,Snake-Eye,azamina-snake-eye-548344,$1007.54
+42,43,Guillaume Maron,Snake-Eye,azamina-snake-eye-549392,$945.39
+43,44,Alberto Zucchetti ,Voiceless Voice,fiendsmith-voiceless-voice-548398,$456.74
+44,45,Giuseppe Tarsitano,Snake-Eye,azamina-snake-eye-548360,$1114.91
+45,46,Patrick Baumann,Kashtira,heatsoul-kashtira-549117,$824.68
+46,47,Felix Fertsch,Yubel,fiendsmith-yubel-549861,$1049.94
+47,48,Daniel Hartmann,Fiendsmith,kashtira-fiendsmith-548276,$1136.53
+48,49,Simone Papparella,Centur-Ion,horus-centur-ion-548720,$994.52
+49,50,Niko Schlierkamp,Fiendsmith,kashtira-fiendsmith-548275,$1007.02
+50,51,Vincenzo Chiola,Centur-Ion,bystial-centur-ion-548391,$964.22
+51,52,Manuel Scharfegger,Mermail,atlantean-mermail-548094,$981.56
+52,53,Thomas Arend Kas,Yubel,fiendsmith-yubel-549329,$696.90
+53,54,Bence Fervágner ,Tenpai Dragon,tenpai-dragon-548065,$888.86
+54,55,Francesco Seminara,Kashtira,kashtira-548615,$615.26
+55,56,Andrea Catalano,Salamangreat,salamangreat-548339,$1020.00
+56,57,Antonio Oliva,Ritual Beast,ritual-beast-548403,$494.67
+57,58,Denis Nadas,Tenpai Dragon,tenpai-dragon-550458,$922.57
+58,59,Mattia Bertogna,Tenpai Dragon,tenpai-dragon-548632,$552.66
+59,60,Alfredo Orlando,Tenpai Dragon,,
+60,61,Fatrim Zeqiri,Fire King,,
+61,62,Agostyno Zito,Chimera,,
+62,63,The-Phong Trinh,Ritual Beast,ritual-beast-548724,$598.80
+63,64,<unknown duelist>,Fire King,,

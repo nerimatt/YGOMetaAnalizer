@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Ruben Lima,Virtual World,virtual-world-494896
-1,2,Sergio Garcia,Melodious,melodious-494894
-2,3,Georgi Danev,Tearlaments,shaddoll-horus-tearlaments-495896
-3,4,Adonay Gonzalez,Tenpai Dragon,tenpai-dragon-496195
-4,5,Daniel Gutierrez,Snake-Eye,
-5,6,Jose Maria Garcia,Stun,dogmatika-stun-494716
-6,7,Pablo Vaquero,Tenpai Dragon,sky-striker-tenpai-dragon-494336
-7,8,<unknown duelist>,Tenpai Dragon,
-8,9,Mel Faci,Plant Link,ragnaraika-plant-link-495894
-9,10,Oscar Pastor,Drytron,
-10,11,David Lara Gonzalez,Tenpai Dragon,tenpai-dragon-494011
-11,12,<unknown duelist>,Fire King,
-12,13,<unknown duelist>,Snake-Eye,
-13,14,<unknown duelist>,Snake-Eye,
-14,15,<unknown duelist>,Kashtira,
-15,16,<unknown duelist>,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Ruben Lima,Virtual World,virtual-world-494896,$97.55
+1,2,Sergio Garcia,Melodious,melodious-494894,$95.46
+2,3,Georgi Danev,Tearlaments,shaddoll-horus-tearlaments-495896,$213.22
+3,4,Adonay Gonzalez,Tenpai Dragon,tenpai-dragon-496195,$125.06
+4,5,Daniel Gutierrez,Snake-Eye,,
+5,6,Jose Maria Garcia,Stun,dogmatika-stun-494716,$43.69
+6,7,Pablo Vaquero,Tenpai Dragon,sky-striker-tenpai-dragon-494336,$183.26
+7,8,<unknown duelist>,Tenpai Dragon,,
+8,9,Mel Faci,Plant Link,ragnaraika-plant-link-495894,$194.86
+9,10,Oscar Pastor,Drytron,,
+10,11,David Lara Gonzalez,Tenpai Dragon,tenpai-dragon-494011,$218.87
+11,12,<unknown duelist>,Fire King,,
+12,13,<unknown duelist>,Snake-Eye,,
+13,14,<unknown duelist>,Snake-Eye,,
+14,15,<unknown duelist>,Kashtira,,
+15,16,<unknown duelist>,Tenpai Dragon,,

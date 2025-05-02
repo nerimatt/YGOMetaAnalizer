@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Ittipat Arunnaveesiri,Yubel,fiendsmith-kashtira-yubel-534552
-1,2,Zachary Rodriguez,Yubel,fiendsmith-yubel-534896
-2,3,Victor Eduardo Figueroa Sanchez,Snake-Eye,fiendsmith-kashtira-snake-eye-534335
-3,4,Ethan Alejandro Islas Martinez,Tenpai Dragon,tenpai-dragon-535859
-4,5,Pakawat Pamornsut,Yubel,
-5,6,Joaquin Lichtig,Yubel,fiendsmith-yubel-534736
-6,7,Ulises Rodrigo Leal Sanchez,Yubel,fiendsmith-yubel-534728
-7,8,David Flores,Yubel,fiendsmith-yubel-534910
-8,9,Edgar Gerardo Rodriguez Munoz,Fire King,fiendsmith-snake-eye-fire-king-534726
-9,10,Rodrigo Manuel Lopez Gonzalez,Yubel,fiendsmith-yubel-535203
-10,11,Cesar Contreras Castillo,Snake-Eye,
-11,12,Hiram Montecillo Juarez,Spright,fiendsmith-spright-534725
-12,13,Jose Antonio Castillo Aramundiz ,Yubel,
-13,14,James Miles Valentino,Drytron,magikey-drytron-534547
-14,15,Jorge Bernal Rodriguez,Spright,spright-534549
-15,16,Luis Alfonso Ramirez Carmona,Tenpai Dragon,tenpai-dragon-534555
-16,17,Darwin Roberto Soberanis Claudio,Yubel,fiendsmith-kashtira-yubel-534922
-17,18,Cesar Alberto Salinas Magana,Yubel,fiendsmith-kashtira-yubel-534925
-18,19,Jesse Kotton,Crystal Beast,fiendsmith-snake-eye-crystal-beast-534327
-19,20,Ibra Wane,Yubel,
-20,21,Gilberto Hector Alcazar Jurado,Snake-Eye,fiendsmith-snake-eye-535200
-21,22,Mackey Chung,Yubel,fiendsmith-yubel-535197
-22,23,Brian Ramirez,Runick,stun-runick-534553
-23,24,Christopher Alvarado De la O,Yubel,fiendsmith-yubel-534924
-24,25,Ruben Penaranda,Yubel,fiendsmith-yubel-534913
-25,26,Juan Francisco Copado Figueroa,Drytron,drytron-534930
-26,27,Andony Sanchez,Kashtira,
-27,28,Juan Carlos Coronel Contreras,Ritual Beast,ritual-beast-535956
-28,29,Arturo Antonio Ordonez Mendez,Runick,
-29,30,Luis Aaron Mayorga Farfan,Tenpai Dragon,
-30,31,Alan Rodrigo Elias Chavez,Purrely,
-31,32,Jose Francisco Vidal Cervantes,Tenpai Dragon,tenpai-dragon-534894
+,placement,player,archetype,deck_id,deck_cost
+0,1,Ittipat Arunnaveesiri,Yubel,fiendsmith-kashtira-yubel-534552,$379.95
+1,2,Zachary Rodriguez,Yubel,fiendsmith-yubel-534896,$671.27
+2,3,Victor Eduardo Figueroa Sanchez,Snake-Eye,fiendsmith-kashtira-snake-eye-534335,$672.54
+3,4,Ethan Alejandro Islas Martinez,Tenpai Dragon,tenpai-dragon-535859,$349.17
+4,5,Pakawat Pamornsut,Yubel,,
+5,6,Joaquin Lichtig,Yubel,fiendsmith-yubel-534736,$695.37
+6,7,Ulises Rodrigo Leal Sanchez,Yubel,fiendsmith-yubel-534728,$651.75
+7,8,David Flores,Yubel,fiendsmith-yubel-534910,$681.04
+8,9,Edgar Gerardo Rodriguez Munoz,Fire King,fiendsmith-snake-eye-fire-king-534726,$597.94
+9,10,Rodrigo Manuel Lopez Gonzalez,Yubel,fiendsmith-yubel-535203,$689.72
+10,11,Cesar Contreras Castillo,Snake-Eye,,
+11,12,Hiram Montecillo Juarez,Spright,fiendsmith-spright-534725,$618.75
+12,13,Jose Antonio Castillo Aramundiz ,Yubel,,
+13,14,James Miles Valentino,Drytron,magikey-drytron-534547,$160.84
+14,15,Jorge Bernal Rodriguez,Spright,spright-534549,$341.22
+15,16,Luis Alfonso Ramirez Carmona,Tenpai Dragon,tenpai-dragon-534555,$326.24
+16,17,Darwin Roberto Soberanis Claudio,Yubel,fiendsmith-kashtira-yubel-534922,$461.35
+17,18,Cesar Alberto Salinas Magana,Yubel,fiendsmith-kashtira-yubel-534925,$753.82
+18,19,Jesse Kotton,Crystal Beast,fiendsmith-snake-eye-crystal-beast-534327,$558.12
+19,20,Ibra Wane,Yubel,,
+20,21,Gilberto Hector Alcazar Jurado,Snake-Eye,fiendsmith-snake-eye-535200,$629.59
+21,22,Mackey Chung,Yubel,fiendsmith-yubel-535197,$669.13
+22,23,Brian Ramirez,Runick,stun-runick-534553,$76.41
+23,24,Christopher Alvarado De la O,Yubel,fiendsmith-yubel-534924,$654.70
+24,25,Ruben Penaranda,Yubel,fiendsmith-yubel-534913,$465.04
+25,26,Juan Francisco Copado Figueroa,Drytron,drytron-534930,$126.66
+26,27,Andony Sanchez,Kashtira,,
+27,28,Juan Carlos Coronel Contreras,Ritual Beast,ritual-beast-535956,$289.84
+28,29,Arturo Antonio Ordonez Mendez,Runick,,
+29,30,Luis Aaron Mayorga Farfan,Tenpai Dragon,,
+30,31,Alan Rodrigo Elias Chavez,Purrely,,
+31,32,Jose Francisco Vidal Cervantes,Tenpai Dragon,tenpai-dragon-534894,$360.69

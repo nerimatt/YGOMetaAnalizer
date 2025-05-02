@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Luca Daniel Garcia Gonzalez,Mermail,atlantean-mermail-586777
-1,2,Juan Mateo Renteria Pastor,Ryzeal,fiendsmith-ryzeal-586641
-2,3,Paulo Roberto Goncalves da Silva,Ryzeal,
-3,4,Oscar Crespo Chugar,Maliss,maliss-588274
-4,5,Jhon David Guerrero Sanchez,Ryzeal,fiendsmith-ryzeal-587477
-5,6,Sebastian Andres Monsalves Moya,Crystron,kashtira-crystron-586790
-6,7,Taiel Fernandez,Maliss,maliss-586361
-7,8,Francisco Andres Osorio Bobadilla,Maliss,maliss-586341
-8,9,Miguel Ernesto Mollo Benavidez,Mitsurugi,ryzeal-dogmatika-mitsurugi-586357
-9,10,Rico Eichelberger,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-586633
-10,11,Andony Sanchez Aparicio,Blue-Eyes,primite-blue-eyes-586058
-11,12,Felipe Bisserier Zapata,Ryzeal,
-12,13,Matias Ivan Lopez Canton,Crystron,kashtira-crystron-585998
-13,14,Juan Carlos La Torre Infantas,Ryzeal,
-14,15,Benjamin Ignacio Munoz Mena,Memento,memento-586076
-15,16,Leonardo Rosendorn,Memento,memento-585997
-16,17,Brandon Tiago Perez Pelaez,Maliss,fiendsmith-maliss-586355
-17,18,Karthihan Viji,Ryzeal,fiendsmith-ryzeal-586639
-18,19,Ramiro Julian Jimenez,Maliss,
-19,20,Tomas Dughera,Ryzeal,fiendsmith-ryzeal-586344
-20,21,Joaquin Lichtig Alfonso,Ryzeal,
-21,22,Patrick Hoban,Yubel,fiendsmith-yubel-585983
-22,23,Ezequiel Adrian Ledesma,Blue-Eyes,primite-blue-eyes-586351
-23,24,Claudio Patricio Ulloa Salinas,Ryzeal,
-24,25,Luis Guillermo Soto Flores,Ryzeal,
-25,26,Fernan Gabriel Braganini,Ryzeal,fiendsmith-ryzeal-586349
-26,27,Franco Massola,Maliss,bystial-maliss-586342
-27,28,Fernando Daniel Magnotta Speranza,Maliss,maliss-586248
-28,29,Ariel Gonzalo Quispe,Ryzeal,ryzeal-586345
-29,30,Franco Persano,Fire King,fire-king-586346
-30,31,Jose Antonio Castillo Aramundiz,Maliss,
-31,32,Sebastian Alonso Serna Semame,Ryzeal,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Luca Daniel Garcia Gonzalez,Mermail,atlantean-mermail-586777,$504.75
+1,2,Juan Mateo Renteria Pastor,Ryzeal,fiendsmith-ryzeal-586641,$579.16
+2,3,Paulo Roberto Goncalves da Silva,Ryzeal,,
+3,4,Oscar Crespo Chugar,Maliss,maliss-588274,$433.94
+4,5,Jhon David Guerrero Sanchez,Ryzeal,fiendsmith-ryzeal-587477,$696.81
+5,6,Sebastian Andres Monsalves Moya,Crystron,kashtira-crystron-586790,$378.07
+6,7,Taiel Fernandez,Maliss,maliss-586361,$696.63
+7,8,Francisco Andres Osorio Bobadilla,Maliss,maliss-586341,$483.69
+8,9,Miguel Ernesto Mollo Benavidez,Mitsurugi,ryzeal-dogmatika-mitsurugi-586357,$548.16
+9,10,Rico Eichelberger,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-586633,$453.56
+10,11,Andony Sanchez Aparicio,Blue-Eyes,primite-blue-eyes-586058,$645.22
+11,12,Felipe Bisserier Zapata,Ryzeal,,
+12,13,Matias Ivan Lopez Canton,Crystron,kashtira-crystron-585998,$134.51
+13,14,Juan Carlos La Torre Infantas,Ryzeal,,
+14,15,Benjamin Ignacio Munoz Mena,Memento,memento-586076,$497.94
+15,16,Leonardo Rosendorn,Memento,memento-585997,$317.56
+16,17,Brandon Tiago Perez Pelaez,Maliss,fiendsmith-maliss-586355,$612.02
+17,18,Karthihan Viji,Ryzeal,fiendsmith-ryzeal-586639,$595.18
+18,19,Ramiro Julian Jimenez,Maliss,,
+19,20,Tomas Dughera,Ryzeal,fiendsmith-ryzeal-586344,$638.83
+20,21,Joaquin Lichtig Alfonso,Ryzeal,,
+21,22,Patrick Hoban,Yubel,fiendsmith-yubel-585983,$496.05
+22,23,Ezequiel Adrian Ledesma,Blue-Eyes,primite-blue-eyes-586351,$329.96
+23,24,Claudio Patricio Ulloa Salinas,Ryzeal,,
+24,25,Luis Guillermo Soto Flores,Ryzeal,,
+25,26,Fernan Gabriel Braganini,Ryzeal,fiendsmith-ryzeal-586349,$505.23
+26,27,Franco Massola,Maliss,bystial-maliss-586342,$299.31
+27,28,Fernando Daniel Magnotta Speranza,Maliss,maliss-586248,$607.42
+28,29,Ariel Gonzalo Quispe,Ryzeal,ryzeal-586345,$284.26
+29,30,Franco Persano,Fire King,fire-king-586346,$645.59
+30,31,Jose Antonio Castillo Aramundiz,Maliss,,
+31,32,Sebastian Alonso Serna Semame,Ryzeal,,

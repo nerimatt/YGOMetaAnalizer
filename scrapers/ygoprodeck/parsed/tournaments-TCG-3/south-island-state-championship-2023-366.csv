@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Andrew Doodson,Mathmech,
-1,2,Isaac Radford,Kashtira,
-2,3,James McIntyre,Spright,
-3,4,Brady Gillies,Spright,
-4,5,James Rondel,Scareclaw,kashtira-scareclaw-329423
-5,6,Shawn Hu,Superheavy Samurai,
-6,7,Michael Soper,Purrely,
-7,8,Cheng Xing,Virtual World,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Andrew Doodson,Mathmech,,
+1,2,Isaac Radford,Kashtira,,
+2,3,James McIntyre,Spright,,
+3,4,Brady Gillies,Spright,,
+4,5,James Rondel,Scareclaw,kashtira-scareclaw-329423,$125.04
+5,6,Shawn Hu,Superheavy Samurai,,
+6,7,Michael Soper,Purrely,,
+7,8,Cheng Xing,Virtual World,,

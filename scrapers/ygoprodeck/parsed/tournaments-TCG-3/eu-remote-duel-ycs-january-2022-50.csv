@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Simon He,Swordsoul,tenyi-swordsoul-243861
-1,2,Alessandro B.,Tri-Brigade,lyrilusc-tri-brigade-243894
-2,3,Jordi W,Drytron,dragoon-drytron-243903
-3,4,Ilias R.,Sky Striker,enforcer-sky-striker-243907
-4,5,Marco P.,Invoked,enforcer-dogmatika-invoked-244024
-5,6,Raphael Naven,Swordsoul,tenyi-swordsoul-244017
-6,7,Ifran K.,Drytron,dragoon-drytron-243951
-7,8,Zahab S.,Swordsoul,tenyi-swordsoul-311122
-8,9,Gjyzel G.,Tri-Brigade,enforcer-tri-brigade-509460
-9,10,Jake Quinsee,Lyrilusc,tri-brigade-lyrilusc-509467
-10,11,Ben M.,Dragon Link,dragon-link-509455
-11,12,Jimmy Y.,Lyrilusc,tri-brigade-lyrilusc-509493
-12,13,Michail P.,Swordsoul,tenyi-swordsoul-509500
-13,14,James M.,Swordsoul,tenyi-swordsoul-509473
-14,15,Jamie H.,Beetrooper,enforcer-beetrooper-509482
-15,16,Rafael R.,Lyrilusc,tri-brigade-lyrilusc-509504
-16,17,Pierluigi Sorrentino,Lyrilusc,tri-brigade-lyrilusc-509616
-17,18,Fabio P.,Sky Striker,enforcer-sky-striker-509613
-18,19,Gianluca S.,Lyrilusc,tri-brigade-lyrilusc-509635
-19,20,Herman Hansson,Beetrooper,enforcer-beetrooper-509662
-20,21,Giannis P.,Swordsoul,tenyi-swordsoul-509658
-21,22,Sebastian P.,Swordsoul,tenyi-swordsoul-509614
-22,23,Prenesh N.,Swordsoul,tenyi-swordsoul-509618
-23,24,Max V. N.,Tri-Brigade,enforcer-tri-brigade-509624
-24,25,Matteo R.,Prank-Kids,mystic-mine-prank-kids-509631
-25,26,Marcel B.,Lyrilusc,tri-brigade-lyrilusc-509647
-26,27,Luka K.,Phantom Knights,enforcer-phantom-knights-509657
-27,28,Andreas V.,Lyrilusc,tri-brigade-lyrilusc-509633
-28,29,Alexander C.,Swordsoul,tenyi-swordsoul-509510
-29,30,Pasquale A.,Drytron,drytron-509620
-30,31,Dennis K.,Floowandereeze,floowandereeze-509645
-31,32,Andrea V.,Floowandereeze,floowandereeze-509661
+,placement,player,archetype,deck_id,deck_cost
+0,1,Simon He,Swordsoul,tenyi-swordsoul-243861,$117.19
+1,2,Alessandro B.,Tri-Brigade,lyrilusc-tri-brigade-243894,$101.69
+2,3,Jordi W,Drytron,dragoon-drytron-243903,$138.71
+3,4,Ilias R.,Sky Striker,enforcer-sky-striker-243907,$73.37
+4,5,Marco P.,Invoked,enforcer-dogmatika-invoked-244024,$89.11
+5,6,Raphael Naven,Swordsoul,tenyi-swordsoul-244017,$110.22
+6,7,Ifran K.,Drytron,dragoon-drytron-243951,$110.97
+7,8,Zahab S.,Swordsoul,tenyi-swordsoul-311122,$93.79
+8,9,Gjyzel G.,Tri-Brigade,enforcer-tri-brigade-509460,$67.69
+9,10,Jake Quinsee,Lyrilusc,tri-brigade-lyrilusc-509467,$100.06
+10,11,Ben M.,Dragon Link,dragon-link-509455,$73.15
+11,12,Jimmy Y.,Lyrilusc,tri-brigade-lyrilusc-509493,$117.46
+12,13,Michail P.,Swordsoul,tenyi-swordsoul-509500,$127.32
+13,14,James M.,Swordsoul,tenyi-swordsoul-509473,$131.07
+14,15,Jamie H.,Beetrooper,enforcer-beetrooper-509482,$81.96
+15,16,Rafael R.,Lyrilusc,tri-brigade-lyrilusc-509504,$94.00
+16,17,Pierluigi Sorrentino,Lyrilusc,tri-brigade-lyrilusc-509616,$109.04
+17,18,Fabio P.,Sky Striker,enforcer-sky-striker-509613,$68.41
+18,19,Gianluca S.,Lyrilusc,tri-brigade-lyrilusc-509635,$102.05
+19,20,Herman Hansson,Beetrooper,enforcer-beetrooper-509662,$86.68
+20,21,Giannis P.,Swordsoul,tenyi-swordsoul-509658,$140.83
+21,22,Sebastian P.,Swordsoul,tenyi-swordsoul-509614,$139.69
+22,23,Prenesh N.,Swordsoul,tenyi-swordsoul-509618,$138.69
+23,24,Max V. N.,Tri-Brigade,enforcer-tri-brigade-509624,$99.36
+24,25,Matteo R.,Prank-Kids,mystic-mine-prank-kids-509631,$78.01
+25,26,Marcel B.,Lyrilusc,tri-brigade-lyrilusc-509647,$103.74
+26,27,Luka K.,Phantom Knights,enforcer-phantom-knights-509657,$91.38
+27,28,Andreas V.,Lyrilusc,tri-brigade-lyrilusc-509633,$105.30
+28,29,Alexander C.,Swordsoul,tenyi-swordsoul-509510,$139.30
+29,30,Pasquale A.,Drytron,drytron-509620,$129.07
+30,31,Dennis K.,Floowandereeze,floowandereeze-509645,$80.58
+31,32,Andrea V.,Floowandereeze,floowandereeze-509661,$101.06

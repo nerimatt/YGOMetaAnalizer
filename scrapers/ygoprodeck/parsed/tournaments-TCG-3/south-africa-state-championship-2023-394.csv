@@ -1,6 +1,6 @@
-,placement,player,archetype,deck_id
-0,1,<unknown duelist>,,
-1,2,<unknown duelist>,,
-2,3,Eric Knight,Labrynth,labrynth-329817
-3,4,<unknown duelist>,,
-4,5,<4 unknown Top 8 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,<unknown duelist>,,,
+1,2,<unknown duelist>,,,
+2,3,Eric Knight,Labrynth,labrynth-329817,$146.43
+3,4,<unknown duelist>,,,
+4,5,<4 unknown Top 8 duelists>,,,

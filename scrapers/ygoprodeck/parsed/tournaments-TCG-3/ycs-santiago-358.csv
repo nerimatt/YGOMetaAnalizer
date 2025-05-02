@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Eddie Andre Alba,Kashtira,
-1,2,Jesse Kotton,Kashtira,kashtira-329418
-2,3,Cristian Urena,,
-3,4,Taiel Fernandez,,
-4,5,Santiago Anaya Bermúdez,Kashtira,kashtira-329428
-5,6,Sebastian Ignacio Siegel,,
-6,7,Lucas Aquino,,
-7,8,Nestor Huanacuni Machaca,,
-8,9,Francisco Osorio,Plunder Patroll,adventurer-plunder-patroll-329254
-9,10,Jose Castillo,Runick,runick-329230
-10,11,Julian Ramiro Jimenez,Superheavy Samurai,superheavy-samurai-329240
-11,12,Pakawat Pamornsut,,
-12,13,Leonardo Vieira Martins,,
-13,14,Hernan Bravo,,
-14,15,Joaquin Alfonso Lichtig,,
-15,16,Pedro Dratwa Mutzenbruher,,
-16,17,Jorge Aurelio Dutzan,Swordsoul,tenyi-swordsoul-329427
-17,18,Alexander Panozo Avila,Stun,branded-stun-329226
-18,19,Rogger Antonio Vera,Superheavy Samurai,superheavy-samurai-329425
-19,20,Jorge Bernal Rodriguez,Kashtira,kashtira-329110
-20,21,Andres Alejandro Azocar,Superheavy Samurai,superheavy-samurai-329229
-21,22,Carlos Cristobal Sepulveda,,
-22,23,Leonel Ignacio Caceres,,
-23,24,Hani Yasser Jawhari,,
-24,25,Ciro Rafael Lazo,,
-25,26,David Samuel Rodriguez,,
-26,27,Jairo Jesus Pincheira,,
-27,28,Alvaro Camilo Rojas,,
-28,29,Hernan Guillermo Rodriguez,,
-29,30,Juan Pablo Rebolledo,,
-30,31,Diego Andres Cares,,
-31,32,Jhosep Miguel Lomelli,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Eddie Andre Alba,Kashtira,,
+1,2,Jesse Kotton,Kashtira,kashtira-329418,$201.52
+2,3,Cristian Urena,,,
+3,4,Taiel Fernandez,,,
+4,5,Santiago Anaya Bermúdez,Kashtira,kashtira-329428,$231.33
+5,6,Sebastian Ignacio Siegel,,,
+6,7,Lucas Aquino,,,
+7,8,Nestor Huanacuni Machaca,,,
+8,9,Francisco Osorio,Plunder Patroll,adventurer-plunder-patroll-329254,$134.98
+9,10,Jose Castillo,Runick,runick-329230,$44.47
+10,11,Julian Ramiro Jimenez,Superheavy Samurai,superheavy-samurai-329240,$109.41
+11,12,Pakawat Pamornsut,,,
+12,13,Leonardo Vieira Martins,,,
+13,14,Hernan Bravo,,,
+14,15,Joaquin Alfonso Lichtig,,,
+15,16,Pedro Dratwa Mutzenbruher,,,
+16,17,Jorge Aurelio Dutzan,Swordsoul,tenyi-swordsoul-329427,$111.09
+17,18,Alexander Panozo Avila,Stun,branded-stun-329226,$87.98
+18,19,Rogger Antonio Vera,Superheavy Samurai,superheavy-samurai-329425,$158.78
+19,20,Jorge Bernal Rodriguez,Kashtira,kashtira-329110,$211.12
+20,21,Andres Alejandro Azocar,Superheavy Samurai,superheavy-samurai-329229,$102.70
+21,22,Carlos Cristobal Sepulveda,,,
+22,23,Leonel Ignacio Caceres,,,
+23,24,Hani Yasser Jawhari,,,
+24,25,Ciro Rafael Lazo,,,
+25,26,David Samuel Rodriguez,,,
+26,27,Jairo Jesus Pincheira,,,
+27,28,Alvaro Camilo Rojas,,,
+28,29,Hernan Guillermo Rodriguez,,,
+29,30,Juan Pablo Rebolledo,,,
+30,31,Diego Andres Cares,,,
+31,32,Jhosep Miguel Lomelli,,,

@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,João Paulo Lima,Mystic Mine,mystic-mine-burn-303434
-1,2,Marcos Laurenco,@Ignister,mathmech-ignister-303537
-2,3,Jesse Kotton,Tearlaments,danger-tearlaments-303859
-3,4,Mateus Moreno,Mathmech,mathmech-303440
-4,5,Victor Rodrigues,Spright,spright-303653
-5,6,Steven Trifunoski,Tearlaments,danger-adventurer-spright-tearlaments-303525
-6,7,Ikaro Kauê,@Ignister,mathmech-ignister-303437
-7,8,Michel Veríssimo,Tearlaments,tearlaments-303599
-8,9,Matheus Cabral Pinheiro,Tearlaments,p-u-n-k-danger-tearlaments-303538
-9,10,Yacine Sahli,Tearlaments,p-u-n-k-tearlaments-303439
-10,11,Marco Batalha,Invoked,branded-invoked-303435
-11,12,Rodrigo Torres,Tearlaments,
-12,13,Gabriel Netz,Tearlaments,danger-tearlaments-303535
-13,14,Gaston Ian Cornejo,Mathmech,
-14,15,Nicolas Sugino,Spright,spright-303540
-15,16,Rafael Reich,Spright,spright-303542
-16,17,Carlos Sepulveda,Eldlich,branded-adventurer-eldlich-303647
-17,18,Patrick Hoban,Tearlaments,p-u-n-k-spright-tearlaments-303527
-18,19,Hani Jawhari,Tearlaments,danger-tearlaments-303883
-19,20,Lucas Vaz,Rikka,sunavalon-rikka-303646
-20,21,Carlos Viera,Tearlaments,
-21,22,Darren James Stephenson,Tearlaments,
-22,23,Kalil Missagia Garcia,Tearlaments,
-23,24,Kamal Crooks-Valdez,Spright,
-24,25,Yuri Santos,Tri-Brigade,lyrilusc-tri-brigade-303532
-25,26,Carlos Alberto Chaves,Floowandereeze,
-26,27,Pedro Antonio Vieira,Mathmech,
-27,28,Julio Gomes,Spright,spright-303543
-28,29,Paulo Roberto Goncalves da Silva,Spright,spright-303376
-29,30,Felipe Urias,Dinomorphia,dinomorphia-303377
-30,31,Gabriel Gh,Marincess,marincess-303544
-31,32,Pedro Nogueira,Spright,
+,placement,player,archetype,deck_id,deck_cost
+0,1,João Paulo Lima,Mystic Mine,mystic-mine-burn-303434,$29.70
+1,2,Marcos Laurenco,@Ignister,mathmech-ignister-303537,$62.86
+2,3,Jesse Kotton,Tearlaments,danger-tearlaments-303859,$69.86
+3,4,Mateus Moreno,Mathmech,mathmech-303440,$65.77
+4,5,Victor Rodrigues,Spright,spright-303653,$106.75
+5,6,Steven Trifunoski,Tearlaments,danger-adventurer-spright-tearlaments-303525,$47.81
+6,7,Ikaro Kauê,@Ignister,mathmech-ignister-303437,$64.37
+7,8,Michel Veríssimo,Tearlaments,tearlaments-303599,$96.83
+8,9,Matheus Cabral Pinheiro,Tearlaments,p-u-n-k-danger-tearlaments-303538,$73.90
+9,10,Yacine Sahli,Tearlaments,p-u-n-k-tearlaments-303439,$103.79
+10,11,Marco Batalha,Invoked,branded-invoked-303435,$95.47
+11,12,Rodrigo Torres,Tearlaments,,
+12,13,Gabriel Netz,Tearlaments,danger-tearlaments-303535,$81.19
+13,14,Gaston Ian Cornejo,Mathmech,,
+14,15,Nicolas Sugino,Spright,spright-303540,$134.74
+15,16,Rafael Reich,Spright,spright-303542,$108.31
+16,17,Carlos Sepulveda,Eldlich,branded-adventurer-eldlich-303647,$82.62
+17,18,Patrick Hoban,Tearlaments,p-u-n-k-spright-tearlaments-303527,$99.02
+18,19,Hani Jawhari,Tearlaments,danger-tearlaments-303883,$68.87
+19,20,Lucas Vaz,Rikka,sunavalon-rikka-303646,$105.92
+20,21,Carlos Viera,Tearlaments,,
+21,22,Darren James Stephenson,Tearlaments,,
+22,23,Kalil Missagia Garcia,Tearlaments,,
+23,24,Kamal Crooks-Valdez,Spright,,
+24,25,Yuri Santos,Tri-Brigade,lyrilusc-tri-brigade-303532,$60.75
+25,26,Carlos Alberto Chaves,Floowandereeze,,
+26,27,Pedro Antonio Vieira,Mathmech,,
+27,28,Julio Gomes,Spright,spright-303543,$110.45
+28,29,Paulo Roberto Goncalves da Silva,Spright,spright-303376,$103.16
+29,30,Felipe Urias,Dinomorphia,dinomorphia-303377,$62.62
+30,31,Gabriel Gh,Marincess,marincess-303544,$71.54
+31,32,Pedro Nogueira,Spright,,

@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Joshua Ng,Tenpai Dragon,tenpai-dragon-484580
-1,2,Leon Maier,Tenpai Dragon,
-2,3,Lachlan Robertson,Drytron,voiceless-voice-drytron-484656
-3,4,Daniel Peck,Tenpai Dragon,tenpai-dragon-484582
-4,5,Harrison Two,Snake-Eye,
-5,6,Dion Saraza,Phantom Knights,horus-adventurer-phantom-knights-485612
-6,7,Angus Lawrie,Voiceless Voice,
-7,8,Tom Harrison,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Joshua Ng,Tenpai Dragon,tenpai-dragon-484580,$222.44
+1,2,Leon Maier,Tenpai Dragon,,
+2,3,Lachlan Robertson,Drytron,voiceless-voice-drytron-484656,$231.39
+3,4,Daniel Peck,Tenpai Dragon,tenpai-dragon-484582,$179.47
+4,5,Harrison Two,Snake-Eye,,
+5,6,Dion Saraza,Phantom Knights,horus-adventurer-phantom-knights-485612,$170.95
+6,7,Angus Lawrie,Voiceless Voice,,
+7,8,Tom Harrison,Tenpai Dragon,,

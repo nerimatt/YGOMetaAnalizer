@@ -1,26 +1,26 @@
-,placement,player,archetype,deck_id
-0,1,Erik Christensen,Infernoid,infernoid-446099
-1,2,Matt Kolenda,Burning Abyss,
-2,3,Ryan Levine,Nekroz,nekroz-446101
-3,4,Ed Acepcion,Burning Abyss,burning-abyss-446103
-4,5,Jonathan Rosario,,
-5,6,Jonathon Castillo,,
-6,7,<2 unknown Top 8 duelists>,,
-7,8,Jake Mattern,Performage,heroic-challenger-performage-446109
-8,9,Tyree Tinsley,Nekroz,performage-nekroz-446111
-9,10,Louie Benitez,Nekroz,nekroz-446112
-10,11,Malvin Dionisio,Burning Abyss,burning-abyss-446115
-11,12,<4 unknown Top 16 duelists>,,
-12,13,Chalana Bel-Air,Traptrix,performage-heroic-challenger-traptrix-446118
-13,14,Patrick Hoban,Shaddoll,performage-shaddoll-446119
-14,15,Jovanny Castillo,Shaddoll,mathematician-shaddoll-446120
-15,16,Denny Yu,Nekroz,performage-nekroz-446122
-16,17,Fabricio Graniel,Kozmo,traptrix-kozmo-446130
-17,18,Omar Daoudi,Nekroz,performage-nekroz-446128
-18,19,Michael State,Kozmo,kozmo-446117
-19,20,Koty Angeloff,Burning Abyss,burning-abyss-446131
-20,21,John Wells,Burning Abyss,burning-abyss-446126
-21,22,Nicholas Reardon,Nekroz,nekroz-446125
-22,23,Joey Linch,Burning Abyss,burning-abyss-446124
-23,24,Michael Tamez,Burning Abyss,burning-abyss-446121
-24,25,<4 unknown Top 32 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Erik Christensen,Infernoid,infernoid-446099,$63.13
+1,2,Matt Kolenda,Burning Abyss,,
+2,3,Ryan Levine,Nekroz,nekroz-446101,$63.55
+3,4,Ed Acepcion,Burning Abyss,burning-abyss-446103,$31.90
+4,5,Jonathan Rosario,,,
+5,6,Jonathon Castillo,,,
+6,7,<2 unknown Top 8 duelists>,,,
+7,8,Jake Mattern,Performage,heroic-challenger-performage-446109,$80.74
+8,9,Tyree Tinsley,Nekroz,performage-nekroz-446111,$77.46
+9,10,Louie Benitez,Nekroz,nekroz-446112,$85.15
+10,11,Malvin Dionisio,Burning Abyss,burning-abyss-446115,$78.51
+11,12,<4 unknown Top 16 duelists>,,,
+12,13,Chalana Bel-Air,Traptrix,performage-heroic-challenger-traptrix-446118,$75.40
+13,14,Patrick Hoban,Shaddoll,performage-shaddoll-446119,$48.69
+14,15,Jovanny Castillo,Shaddoll,mathematician-shaddoll-446120,$65.77
+15,16,Denny Yu,Nekroz,performage-nekroz-446122,$79.37
+16,17,Fabricio Graniel,Kozmo,traptrix-kozmo-446130,$90.98
+17,18,Omar Daoudi,Nekroz,performage-nekroz-446128,$83.72
+18,19,Michael State,Kozmo,kozmo-446117,$93.96
+19,20,Koty Angeloff,Burning Abyss,burning-abyss-446131,$62.43
+20,21,John Wells,Burning Abyss,burning-abyss-446126,$60.78
+21,22,Nicholas Reardon,Nekroz,nekroz-446125,$65.12
+22,23,Joey Linch,Burning Abyss,burning-abyss-446124,$62.49
+23,24,Michael Tamez,Burning Abyss,burning-abyss-446121,$77.24
+24,25,<4 unknown Top 32 duelists>,,,

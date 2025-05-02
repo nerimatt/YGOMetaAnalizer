@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Vincenzo Orofino,Tearlaments,bystial-ishizu-tearlaments-309956
-1,2, Mario Argiro,Floowandereeze,floowandereeze-309959
-2,3, Errikos Bek,Tearlaments,bystial-ishizu-tearlaments-309961
-3,4,Joshua Schmidt,Tearlaments,bystial-ishizu-tearlaments-310161
-4,5,Piereluigi Sorrentino,Tearlaments,bystial-ishizu-tearlaments-309956
-5,6, Samir Bachar,Tearlaments,ishizu-tearlaments-310047
-6,7,Eteyeen Ita,Tearlaments,bystial-ishizu-tearlaments-309972
-7,8,Enzo Duval,,
-8,9,Jesse Kotton,Tearlaments,bystial-ishizu-tearlaments-310741
-9,10,Fabio Padovani,Tearlaments,spright-ishizu-tearlaments-310942
-10,11,Vladis Baranovskis,Tearlaments,bystial-ishizu-tearlaments-310048
-11,12,Gabriel Soussi,Tearlaments,
-12,13,Federico Mecozzi,Dracoslayer,dracoslayer-309958
-13,14,Carmine Avallone,Tearlaments,bystial-ishizu-tearlaments-310940
-14,15,Philipp Niehus,,
-15,16,Dennis Hager,,
-16,17,Georgios Styliadis,Spright,bystial-spright-311193
-17,18,Pascal Kihm,Tearlaments,ishizu-tearlaments-310057
-18,19,Hakan Yozgat,Tearlaments,bystial-ishizu-tearlaments-310056
-19,20,Herman Hansson,Madolche,ishizu-vernuslyph-madolche-309966
-20,21,Andrea Zanotti,Tearlaments,bystial-ishizu-tearlaments-309956
-21,22,Alexander Schmidt,Madolche,
-22,23,Christopher LeBalnc,Tearlaments,ishizu-tearlaments-310187
-23,24,Tiziano V.,Tearlaments,ishizu-tearlaments-310931
-24,25,Elia Carelli,Tearlaments,ishizu-tearlaments-309970
-25,26,Keno Mandrysch,Floowandereeze,floowandereeze-309971
-26,27,Jordan Gallacher,,
-27,28,Tom van den E.,,
-28,29,Antony Lopes,,
-29,30,Kostadin K.,,
-30,31,Nico Tämmler,,
-31,32,Vincenzo M. D.,,
-32,33,Din-Kha Bui,Naturia,ishizu-runick-naturia-310088
-33,34,Esala Wathuthantrige,Tearlaments,bystial-ishizu-tearlaments-310050
-34,35,Alessio Cefola,Tearlaments,spright-ishizu-tearlaments-310180
-35,36,Joo-Ho Ahn,Tearlaments,bystial-ishizu-tearlaments-310927
-36,37,Lukas Randegger,Tearlaments,bystial-ishizu-tearlaments-310937
-37,38,Bastien Sulyan,Tearlaments,bystial-ishizu-tearlaments-310941
-38,39,Guillaume Venier,Tearlaments,bystial-ishizu-tearlaments-310930
-39,40,Zio Mundry,Tearlaments,bystial-ishizu-tearlaments-310049
-40,41,Simon He,Tearlaments,mystic-mine-ishizu-tearlaments-310053
-41,42,Lucas Windel,Tearlaments,bystial-ishizu-tearlaments-310091
-42,43,Linus Thaler,Tearlaments,bystial-ishizu-tearlaments-310186
-43,44,Paul-Robert,Tearlaments,bystial-ishizu-tearlaments-310184
-44,45,Lars Junginger,Runick,runick-mystic-mine-310090
-45,46,Din Khang Pham,Spright,bystial-spright-310746
-46,47,Matu Manis,Runick,mystic-mine-runick-310089
-47,48,Adel Moussaoui,Tearlaments,ishizu-tearlaments-310059
-48,49,Artem Gussev,Floowandereeze,floowandereeze-310182
-49,50,Emre Kizilates,Floowandereeze,floowandereeze-309973
-50,51,Gabriel Nill,Floowandereeze,floowandereeze-309968
-51,52,Piyal Peiris,Mystic Mine,
-52,53,Diego Ganzerli,Floowandereeze,floowandereeze-309959
-53,54,Matthew Chen,,
-54,55,Matthéo Valcke,,
-55,56,Ivan A.,,
-56,57,Damjan Mitrovic,,
-57,58,Jonas Koschel,,
-58,59,Charlie Turner,,
-59,60,Florentin Darras,,
-60,61,Everton Tsai,,
-61,62,Felix Kienle,,
-62,63,Ben Kreutzkamp,,
-63,64,Mathooshan M.,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Vincenzo Orofino,Tearlaments,bystial-ishizu-tearlaments-309956,$173.73
+1,2, Mario Argiro,Floowandereeze,floowandereeze-309959,$70.87
+2,3, Errikos Bek,Tearlaments,bystial-ishizu-tearlaments-309961,$172.20
+3,4,Joshua Schmidt,Tearlaments,bystial-ishizu-tearlaments-310161,$151.43
+4,5,Piereluigi Sorrentino,Tearlaments,bystial-ishizu-tearlaments-309956,$173.73
+5,6, Samir Bachar,Tearlaments,ishizu-tearlaments-310047,$173.36
+6,7,Eteyeen Ita,Tearlaments,bystial-ishizu-tearlaments-309972,$140.40
+7,8,Enzo Duval,,,
+8,9,Jesse Kotton,Tearlaments,bystial-ishizu-tearlaments-310741,$172.09
+9,10,Fabio Padovani,Tearlaments,spright-ishizu-tearlaments-310942,$128.71
+10,11,Vladis Baranovskis,Tearlaments,bystial-ishizu-tearlaments-310048,$150.14
+11,12,Gabriel Soussi,Tearlaments,,
+12,13,Federico Mecozzi,Dracoslayer,dracoslayer-309958,$123.96
+13,14,Carmine Avallone,Tearlaments,bystial-ishizu-tearlaments-310940,$159.77
+14,15,Philipp Niehus,,,
+15,16,Dennis Hager,,,
+16,17,Georgios Styliadis,Spright,bystial-spright-311193,$181.38
+17,18,Pascal Kihm,Tearlaments,ishizu-tearlaments-310057,$117.83
+18,19,Hakan Yozgat,Tearlaments,bystial-ishizu-tearlaments-310056,$141.16
+19,20,Herman Hansson,Madolche,ishizu-vernuslyph-madolche-309966,$200.81
+20,21,Andrea Zanotti,Tearlaments,bystial-ishizu-tearlaments-309956,$173.73
+21,22,Alexander Schmidt,Madolche,,
+22,23,Christopher LeBalnc,Tearlaments,ishizu-tearlaments-310187,$142.03
+23,24,Tiziano V.,Tearlaments,ishizu-tearlaments-310931,$152.97
+24,25,Elia Carelli,Tearlaments,ishizu-tearlaments-309970,$116.86
+25,26,Keno Mandrysch,Floowandereeze,floowandereeze-309971,$83.11
+26,27,Jordan Gallacher,,,
+27,28,Tom van den E.,,,
+28,29,Antony Lopes,,,
+29,30,Kostadin K.,,,
+30,31,Nico Tämmler,,,
+31,32,Vincenzo M. D.,,,
+32,33,Din-Kha Bui,Naturia,ishizu-runick-naturia-310088,$102.30
+33,34,Esala Wathuthantrige,Tearlaments,bystial-ishizu-tearlaments-310050,$171.91
+34,35,Alessio Cefola,Tearlaments,spright-ishizu-tearlaments-310180,$115.60
+35,36,Joo-Ho Ahn,Tearlaments,bystial-ishizu-tearlaments-310927,$144.21
+36,37,Lukas Randegger,Tearlaments,bystial-ishizu-tearlaments-310937,$160.28
+37,38,Bastien Sulyan,Tearlaments,bystial-ishizu-tearlaments-310941,$152.90
+38,39,Guillaume Venier,Tearlaments,bystial-ishizu-tearlaments-310930,$152.67
+39,40,Zio Mundry,Tearlaments,bystial-ishizu-tearlaments-310049,$170.71
+40,41,Simon He,Tearlaments,mystic-mine-ishizu-tearlaments-310053,$113.43
+41,42,Lucas Windel,Tearlaments,bystial-ishizu-tearlaments-310091,$189.57
+42,43,Linus Thaler,Tearlaments,bystial-ishizu-tearlaments-310186,$170.03
+43,44,Paul-Robert,Tearlaments,bystial-ishizu-tearlaments-310184,$141.19
+44,45,Lars Junginger,Runick,runick-mystic-mine-310090,$46.45
+45,46,Din Khang Pham,Spright,bystial-spright-310746,$146.71
+46,47,Matu Manis,Runick,mystic-mine-runick-310089,$42.94
+47,48,Adel Moussaoui,Tearlaments,ishizu-tearlaments-310059,$107.77
+48,49,Artem Gussev,Floowandereeze,floowandereeze-310182,$65.82
+49,50,Emre Kizilates,Floowandereeze,floowandereeze-309973,$68.16
+50,51,Gabriel Nill,Floowandereeze,floowandereeze-309968,$58.87
+51,52,Piyal Peiris,Mystic Mine,,
+52,53,Diego Ganzerli,Floowandereeze,floowandereeze-309959,$70.87
+53,54,Matthew Chen,,,
+54,55,Matthéo Valcke,,,
+55,56,Ivan A.,,,
+56,57,Damjan Mitrovic,,,
+57,58,Jonas Koschel,,,
+58,59,Charlie Turner,,,
+59,60,Florentin Darras,,,
+60,61,Everton Tsai,,,
+61,62,Felix Kienle,,,
+62,63,Ben Kreutzkamp,,,
+63,64,Mathooshan M.,,,

@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Luke Smythe,Spright,evil-twin-spright-327568
-1,2,Lewis Tulodziecki,Labrynth,labrynth-328018
-2,3,Matthew Brady,Superheavy Samurai,superheavy-samurai-327562
-3,4,Ross Moffett,Superheavy Samurai,
-4,5,Jakob Heher,Purrely,dark-world-purrely-327536
-5,6,Sebastian Ma,Spright,spright-purrely-327566
-6,7,Ethan McDonagh,Kashtira,kashtira-327702
-7,8,Adam Murphy,Kashtira,kashtira-327701
-8,9,Dean Mcclelland,Despia,
-9,10,Vladis Baranovskis,Labrynth,
-10,11,Jason Woods,Kashtira,
-11,12,Ian Fagan Moran,Mathmech,mathmech-327565
-12,13,Lillie Fitzgerald,Kashtira,kashtira-327703
-13,14,Adam Costelloe,Purrely,
-14,15,Michael Barrett,Superheavy Samurai,superheavy-samurai-327560
-15,16,Racibor Jaskiewicz,HERO,hero-327853
+,placement,player,archetype,deck_id,deck_cost
+0,1,Luke Smythe,Spright,evil-twin-spright-327568,$151.83
+1,2,Lewis Tulodziecki,Labrynth,labrynth-328018,$83.11
+2,3,Matthew Brady,Superheavy Samurai,superheavy-samurai-327562,$93.15
+3,4,Ross Moffett,Superheavy Samurai,,
+4,5,Jakob Heher,Purrely,dark-world-purrely-327536,$87.90
+5,6,Sebastian Ma,Spright,spright-purrely-327566,$76.07
+6,7,Ethan McDonagh,Kashtira,kashtira-327702,$238.66
+7,8,Adam Murphy,Kashtira,kashtira-327701,$226.95
+8,9,Dean Mcclelland,Despia,,
+9,10,Vladis Baranovskis,Labrynth,,
+10,11,Jason Woods,Kashtira,,
+11,12,Ian Fagan Moran,Mathmech,mathmech-327565,$79.62
+12,13,Lillie Fitzgerald,Kashtira,kashtira-327703,$191.22
+13,14,Adam Costelloe,Purrely,,
+14,15,Michael Barrett,Superheavy Samurai,superheavy-samurai-327560,$110.80
+15,16,Racibor Jaskiewicz,HERO,hero-327853,$104.96

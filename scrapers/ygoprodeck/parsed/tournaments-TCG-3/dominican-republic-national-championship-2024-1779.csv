@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Alberto Imbert,Voiceless Voice,voiceless-voice-485561
-1,2,Johan Ruíz ,Spright,melffy-spright-485559
-2,3,Luis Miguel Sánchez,Snake-Eye,diabellstar-snake-eye-485558
-3,4,Miguel Sánchez,Voiceless Voice,voiceless-voice-485554
-4,5,<unknown duelist>,Snake-Eye,
-5,6,<unknown duelist>,Snake-Eye,
-6,7,<unknown duelist>,Despia,
-7,8,<unknown duelist>,Plunder Patroll,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Alberto Imbert,Voiceless Voice,voiceless-voice-485561,$272.53
+1,2,Johan Ruíz ,Spright,melffy-spright-485559,$172.76
+2,3,Luis Miguel Sánchez,Snake-Eye,diabellstar-snake-eye-485558,$238.46
+3,4,Miguel Sánchez,Voiceless Voice,voiceless-voice-485554,$240.66
+4,5,<unknown duelist>,Snake-Eye,,
+5,6,<unknown duelist>,Snake-Eye,,
+6,7,<unknown duelist>,Despia,,
+7,8,<unknown duelist>,Plunder Patroll,,

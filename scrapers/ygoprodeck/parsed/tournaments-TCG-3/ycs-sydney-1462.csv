@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Jason Huang,Snake-Eye,diabellstar-snake-eye-450294
-1,2,Kamal Crookz-Valdez,Snake-Eye,
-2,3,Christopher LeBlanc,Fire King,diabellstar-snake-eye-fire-king-451127
-3,4,Cristian Urena,Snake-Eye,diabellstar-snake-eye-459774
-4,5,Jonah Singer,Fire King,diabellstar-snake-eye-fire-king-450955
-5,6,Frederick Camell,Fire King,diabellstar-snake-eye-fire-king-451003
-6,7,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-451002
-7,8,Siris Wang,Snake-Eye,diabellstar-snake-eye-451073
-8,9,Mark Lopez,Fire King,diabellstar-snake-eye-fire-king-451074
-9,10,Zhuorui Quan,Fire King,
-10,11,Kodai Okamoto,Fire King,diabellstar-snake-eye-fire-king-450271
-11,12,Connor Tobin-Underwood,Voiceless Voice,branded-voiceless-voice-450307
-12,13,Braden Turner,Kashtira,heatsoul-kashtira-450270
-13,14,Xavier Zielonka,Kashtira,heatsoul-kashtira-451123
-14,15,Matthew Laughlin,Floowandereeze,floowandereeze-451281
-15,16,Jack Sprunt,Purrely,purrely-450308
-16,17,Cailan Newton,Fire King,diabellstar-snake-eye-fire-king-451202
-17,18,Dino Spasovski ,Fire King,diabellstar-snake-eye-fire-king-451279
-18,19,Jacob Gilham,Fire King,diabellstar-snake-eye-fire-king-453484
-19,20,Ryan Slot,Fire King,
-20,21,Micah Catelan,Phantom Knights,horus-adventurer-phantom-knights-451266
-21,22,Joseph Chou,Snake-Eye,diabellstar-snake-eye-451481
-22,23,Joshua Hole,Snake-Eye,diabellstar-snake-eye-453480
-23,24,Joak Dom,Shark,armored-shark-450882
-24,25,Kalist Uremovic,Despia,branded-despia-451471
-25,26,Katherine Mai,Snake-Eye,diabellstar-snake-eye-530619
-26,27,Nathan Ghattas,Snake-Eye,diabellstar-snake-eye-451125
-27,28,Oscar Carson,Kashtira,
-28,29,Duy Nguyen,Voiceless Voice,voiceless-voice-451009
-29,30,Beau West,Voiceless Voice,
-30,31,Joshua Glen,Salamangreat,salamangreat-450274
-31,32,Stephen Medhurst,Vanquish Soul,vanquish-soul-451000
+,placement,player,archetype,deck_id,deck_cost
+0,1,Jason Huang,Snake-Eye,diabellstar-snake-eye-450294,$204.14
+1,2,Kamal Crookz-Valdez,Snake-Eye,,
+2,3,Christopher LeBlanc,Fire King,diabellstar-snake-eye-fire-king-451127,$158.42
+3,4,Cristian Urena,Snake-Eye,diabellstar-snake-eye-459774,$267.59
+4,5,Jonah Singer,Fire King,diabellstar-snake-eye-fire-king-450955,$173.28
+5,6,Frederick Camell,Fire King,diabellstar-snake-eye-fire-king-451003,$179.07
+6,7,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-451002,$204.55
+7,8,Siris Wang,Snake-Eye,diabellstar-snake-eye-451073,$192.21
+8,9,Mark Lopez,Fire King,diabellstar-snake-eye-fire-king-451074,$177.06
+9,10,Zhuorui Quan,Fire King,,
+10,11,Kodai Okamoto,Fire King,diabellstar-snake-eye-fire-king-450271,$159.47
+11,12,Connor Tobin-Underwood,Voiceless Voice,branded-voiceless-voice-450307,$196.83
+12,13,Braden Turner,Kashtira,heatsoul-kashtira-450270,$237.74
+13,14,Xavier Zielonka,Kashtira,heatsoul-kashtira-451123,$224.93
+14,15,Matthew Laughlin,Floowandereeze,floowandereeze-451281,$75.94
+15,16,Jack Sprunt,Purrely,purrely-450308,$118.26
+16,17,Cailan Newton,Fire King,diabellstar-snake-eye-fire-king-451202,$269.31
+17,18,Dino Spasovski ,Fire King,diabellstar-snake-eye-fire-king-451279,$205.14
+18,19,Jacob Gilham,Fire King,diabellstar-snake-eye-fire-king-453484,$186.92
+19,20,Ryan Slot,Fire King,,
+20,21,Micah Catelan,Phantom Knights,horus-adventurer-phantom-knights-451266,$185.32
+21,22,Joseph Chou,Snake-Eye,diabellstar-snake-eye-451481,$217.50
+22,23,Joshua Hole,Snake-Eye,diabellstar-snake-eye-453480,$242.33
+23,24,Joak Dom,Shark,armored-shark-450882,$104.25
+24,25,Kalist Uremovic,Despia,branded-despia-451471,$163.86
+25,26,Katherine Mai,Snake-Eye,diabellstar-snake-eye-530619,$190.44
+26,27,Nathan Ghattas,Snake-Eye,diabellstar-snake-eye-451125,$207.45
+27,28,Oscar Carson,Kashtira,,
+28,29,Duy Nguyen,Voiceless Voice,voiceless-voice-451009,$196.70
+29,30,Beau West,Voiceless Voice,,
+30,31,Joshua Glen,Salamangreat,salamangreat-450274,$192.72
+31,32,Stephen Medhurst,Vanquish Soul,vanquish-soul-451000,$226.05

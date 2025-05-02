@@ -50,3 +50,6 @@ t3 tcg:
         - se giocano perche è forte: frega na sega
         - se giocano solo deck che gli piacciono scarsi: non vincono e non sono nei dataset
 
+    vedere pure se dei deck sono piu o meno prevalenti in alcuni posti, es brasile non ha
+    tanti deck meta perche non arrivano la e costano troppo
+

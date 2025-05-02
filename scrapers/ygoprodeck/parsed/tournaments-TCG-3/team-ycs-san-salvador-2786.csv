@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,,,
-1,2,Cameron Neal,Ryzeal,ryzeal-576499
-2,3,Cristian Urena,Mermail,atlantean-mermail-576644
-3,4,Kamal Crooks-Valdez,Mermail,atlantean-mermail-576646
-4,5,,,
-5,6,Luciano Jeronimo Bregion Junior,Ryzeal,fiendsmith-ryzeal-576502
-6,7,Paulo Roberto Goncalves da Silva,Ryzeal,fiendsmith-ryzeal-576502
-7,8,Pedro Nogueira,Ryzeal,fiendsmith-ryzeal-576502
-8,9,,,
-9,10,Austin Colling,Ryzeal,fiendsmith-ryzeal-577128
-10,11,Landon Oliver,Ryzeal,fiendsmith-ryzeal-577127
-11,12,Ruben Penaranda,Ryzeal,
-12,13,,,
-13,14,Joseph Liou Tello Wong,Ryzeal,fiendsmith-ryzeal-577732
-14,15,Kevin Martinez,Mitsurugi,ryzeal-mitsurugi-577731
-15,16,Ulises Tadeo Fonseca,Ryzeal,fiendsmith-ryzeal-577730
-16,17,,,
-17,18,Daniel Shogan,Ryzeal,
-18,19,David Flores,Ryzeal,fiendsmith-ryzeal-578331
-19,20,Patrick Hoban,Yubel,fiendsmith-yubel-576513
-20,21,,,
-21,22,Francisco Osorio Bobadilla	,Maliss,bystial-maliss-577125
-22,23,Juan Mateo Augusto Renteria Pastor	,Ryzeal,
-23,24,Rafael Reich,Ryzeal,fiendsmith-ryzeal-576584
-24,25,,,
-25,26,Ittipat Arunnaveesiri,Maliss,
-26,27,Pakawat Pamornsut,Bystial,maliss-fiendsmith-bystial-582229
-27,28,Steven Trifunoski,Bystial,maliss-fiendsmith-bystial-581281
-28,29,,,
-29,30,Eduardo Daniel Cortes Moreno	,Ryzeal,ryzeal-577769
-30,31,Guillermo Benjamin Morales Ramirez,Blue-Eyes,
-31,32,Jose Alberto Saltillo Gachuz	,Ryzeal,
-32,33,,,
-33,34,Alberto Francisco Campaignac Palacios,Ryzeal,
-34,35,Gary Estuardo Estrada Olivares,Maliss,
-35,36,Luis Fernando Padilla Citan,Maliss,
-36,37,,,
-37,38,Bequer Abdiel Ventura	,Mitsurugi,
-38,39,Carlos Eduardo Martinez	,Ryzeal,
-39,40,Gabriel Alejandro Martinez	,Ryzeal,
-40,41,,,
-41,42,Esteban Velasquez Prieto,Blue-Eyes,primite-blue-eyes-577126
-42,43,Pablo Cesar Dominguez Lamazares,Bystial,fiendsmith-bystial-577759
-43,44,Santiago Marin Lopez,Bystial,fiendsmith-bystial-577759
-44,45,,,
-45,46,Cesar Armando Nazarre,Ryzeal,
-46,47,Gabriel Martin Magdalena,Maliss,maliss-582823
-47,48,Luis Miguel Sanchez,Maliss,
-48,49,,,
-49,50,Jhon David Guerrero Sanchez,Ryzeal,
-50,51,Key Andree Chavez Curioso,Ryzeal,
-51,52,Sebastian Alonso Serna Samame,Ryzeal,
-52,53,,,
-53,54,Cesar David Espinoza Sanchez	,Maliss,maliss-577130
-54,55,Eduardo Antonio Vega Martinez	,Maliss,maliss-577132
-55,56,Oscar Eduardo Espinoza Mendez	,Ryzeal,fiendsmith-ryzeal-577133
-56,57,,,
-57,58,Christopher Bernard Penafiel Ramirez	,Ryzeal,
-58,59,Fabricio Arturo Bermudez Zambrabo	,Ryzeal,ryzeal-576647
-59,60,Luis David Cada Aguilera	,Maliss,
-60,61,,,
-61,62,Amilcar Enrique Murcia Salazar	,Maliss,maliss-576583
-62,63,David Q,Maliss,
-63,64,Efrain Humberto Salazar Peraza	,Ryzeal,fiendsmith-ryzeal-590023
+,placement,player,archetype,deck_id,deck_cost
+0,1,,,,
+1,2,Cameron Neal,Ryzeal,ryzeal-576499,$618.33
+2,3,Cristian Urena,Mermail,atlantean-mermail-576644,$833.47
+3,4,Kamal Crooks-Valdez,Mermail,atlantean-mermail-576646,$833.22
+4,5,,,,
+5,6,Luciano Jeronimo Bregion Junior,Ryzeal,fiendsmith-ryzeal-576502,$969.55
+6,7,Paulo Roberto Goncalves da Silva,Ryzeal,fiendsmith-ryzeal-576502,$969.55
+7,8,Pedro Nogueira,Ryzeal,fiendsmith-ryzeal-576502,$969.55
+8,9,,,,
+9,10,Austin Colling,Ryzeal,fiendsmith-ryzeal-577128,$799.00
+10,11,Landon Oliver,Ryzeal,fiendsmith-ryzeal-577127,$920.23
+11,12,Ruben Penaranda,Ryzeal,,
+12,13,,,,
+13,14,Joseph Liou Tello Wong,Ryzeal,fiendsmith-ryzeal-577732,$874.91
+14,15,Kevin Martinez,Mitsurugi,ryzeal-mitsurugi-577731,$750.31
+15,16,Ulises Tadeo Fonseca,Ryzeal,fiendsmith-ryzeal-577730,$937.56
+16,17,,,,
+17,18,Daniel Shogan,Ryzeal,,
+18,19,David Flores,Ryzeal,fiendsmith-ryzeal-578331,$916.91
+19,20,Patrick Hoban,Yubel,fiendsmith-yubel-576513,$762.82
+20,21,,,,
+21,22,Francisco Osorio Bobadilla	,Maliss,bystial-maliss-577125,$584.30
+22,23,Juan Mateo Augusto Renteria Pastor	,Ryzeal,,
+23,24,Rafael Reich,Ryzeal,fiendsmith-ryzeal-576584,$808.02
+24,25,,,,
+25,26,Ittipat Arunnaveesiri,Maliss,,
+26,27,Pakawat Pamornsut,Bystial,maliss-fiendsmith-bystial-582229,$744.25
+27,28,Steven Trifunoski,Bystial,maliss-fiendsmith-bystial-581281,$936.53
+28,29,,,,
+29,30,Eduardo Daniel Cortes Moreno	,Ryzeal,ryzeal-577769,$665.19
+30,31,Guillermo Benjamin Morales Ramirez,Blue-Eyes,,
+31,32,Jose Alberto Saltillo Gachuz	,Ryzeal,,
+32,33,,,,
+33,34,Alberto Francisco Campaignac Palacios,Ryzeal,,
+34,35,Gary Estuardo Estrada Olivares,Maliss,,
+35,36,Luis Fernando Padilla Citan,Maliss,,
+36,37,,,,
+37,38,Bequer Abdiel Ventura	,Mitsurugi,,
+38,39,Carlos Eduardo Martinez	,Ryzeal,,
+39,40,Gabriel Alejandro Martinez	,Ryzeal,,
+40,41,,,,
+41,42,Esteban Velasquez Prieto,Blue-Eyes,primite-blue-eyes-577126,$735.48
+42,43,Pablo Cesar Dominguez Lamazares,Bystial,fiendsmith-bystial-577759,$772.79
+43,44,Santiago Marin Lopez,Bystial,fiendsmith-bystial-577759,$772.79
+44,45,,,,
+45,46,Cesar Armando Nazarre,Ryzeal,,
+46,47,Gabriel Martin Magdalena,Maliss,maliss-582823,$733.60
+47,48,Luis Miguel Sanchez,Maliss,,
+48,49,,,,
+49,50,Jhon David Guerrero Sanchez,Ryzeal,,
+50,51,Key Andree Chavez Curioso,Ryzeal,,
+51,52,Sebastian Alonso Serna Samame,Ryzeal,,
+52,53,,,,
+53,54,Cesar David Espinoza Sanchez	,Maliss,maliss-577130,$585.14
+54,55,Eduardo Antonio Vega Martinez	,Maliss,maliss-577132,$841.47
+55,56,Oscar Eduardo Espinoza Mendez	,Ryzeal,fiendsmith-ryzeal-577133,$884.11
+56,57,,,,
+57,58,Christopher Bernard Penafiel Ramirez	,Ryzeal,,
+58,59,Fabricio Arturo Bermudez Zambrabo	,Ryzeal,ryzeal-576647,$466.52
+59,60,Luis David Cada Aguilera	,Maliss,,
+60,61,,,,
+61,62,Amilcar Enrique Murcia Salazar	,Maliss,maliss-576583,$401.64
+62,63,David Q,Maliss,,
+63,64,Efrain Humberto Salazar Peraza	,Ryzeal,fiendsmith-ryzeal-590023,$451.20

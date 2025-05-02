@@ -1,16 +1,16 @@
-,placement,player,archetype,deck_id
-0,1,Florian Gönner,Fire King,diabellstar-snake-eye-fire-king-491078
-1,2,Anton Gericke,Plant Link,ragnaraika-plant-link-490743
-2,3,Gerhard Beham,Despia,
-3,4,Benjamin Greiner,Runick,stun-runick-490654
-4,5,Philipp Gastberger,Fire King,diabellstar-snake-eye-fire-king-490722
-5,6,Kaan Cengiz,Tenpai Dragon,tenpai-dragon-490604
-6,7,Philipp Preiser,Kashtira,kashtira-490673
-7,8,Julian Strassl,Fire King,diabellstar-snake-eye-fire-king-493368
-8,9,Leon Jasionek,Dragon Link,bystial-dragon-link-491504
-9,10,Martin Seib,Tenpai Dragon,
-10,11,Marcel Nockemann,Tenpai Dragon,
-11,12,Erik Hoffman,Dinomorphia,dinomorphia-491767
-12,13,Raphael Schwind,Melodious,melodious-491542
-13,14,Chukwuma Brandel,Voiceless Voice,voiceless-voice-493285
-14,15,Gregor Mayer,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Florian Gönner,Fire King,diabellstar-snake-eye-fire-king-491078,$230.14
+1,2,Anton Gericke,Plant Link,ragnaraika-plant-link-490743,$178.34
+2,3,Gerhard Beham,Despia,,
+3,4,Benjamin Greiner,Runick,stun-runick-490654,$71.72
+4,5,Philipp Gastberger,Fire King,diabellstar-snake-eye-fire-king-490722,$222.04
+5,6,Kaan Cengiz,Tenpai Dragon,tenpai-dragon-490604,$213.11
+6,7,Philipp Preiser,Kashtira,kashtira-490673,$212.62
+7,8,Julian Strassl,Fire King,diabellstar-snake-eye-fire-king-493368,$222.04
+8,9,Leon Jasionek,Dragon Link,bystial-dragon-link-491504,$256.32
+9,10,Martin Seib,Tenpai Dragon,,
+10,11,Marcel Nockemann,Tenpai Dragon,,
+11,12,Erik Hoffman,Dinomorphia,dinomorphia-491767,$123.58
+12,13,Raphael Schwind,Melodious,melodious-491542,$101.03
+13,14,Chukwuma Brandel,Voiceless Voice,voiceless-voice-493285,$237.82
+14,15,Gregor Mayer,Tenpai Dragon,,

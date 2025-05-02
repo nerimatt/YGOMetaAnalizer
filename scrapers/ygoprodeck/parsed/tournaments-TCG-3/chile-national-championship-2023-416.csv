@@ -1,6 +1,6 @@
-,placement,player,archetype,deck_id
-0,1,<unknown duelist>,,
-1,2,<unknown duelist>,,
-2,3,<2 unknown Top 4 duelists>,,
-3,4,Alonso Arancibia,Spright,melffy-spright-331190
-4,5,<3 unknown Top 8 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,<unknown duelist>,,,
+1,2,<unknown duelist>,,,
+2,3,<2 unknown Top 4 duelists>,,,
+3,4,Alonso Arancibia,Spright,melffy-spright-331190,$141.93
+4,5,<3 unknown Top 8 duelists>,,,

@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Julius Schwarzkopf,Plant Link,ragnaraika-plant-link-502944
-1,2,Henrik U.,Snake-Eye,diabellstar-snake-eye-503302
-2,3,Philip Weidinger,Snake-Eye,diabellstar-kashtira-snake-eye-503350
-3,4,Cevin K.,Snake-Eye,diabellstar-snake-eye-502976
-4,5,Nils F.,Snake-Eye,diabellstar-kashtira-snake-eye-507053
-5,6,Dinh-Kha Bui,Chimera,branded-chimera-503855
-6,7,Dimitar Petrov,Despia,branded-despia-502758
-7,8,Eric Toppel,Despia,branded-despia-503311
-8,9,Neo Wolkober,Snake-Eye,diabellstar-kashtira-snake-eye-502988
-9,10,Lasse M.,Snake-Eye,
-10,11,Christoph R.,Tenpai Dragon,sky-striker-tenpai-dragon-502901
-11,12,Jack Verma,Chimera,branded-chimera-503903
-12,13,Felix Hamm,Unchained,unchained-503057
-13,14,Tri Tai N.,Labrynth,
-14,15,Junda Z.,Tenpai Dragon,
-15,16,Dennis Brechmann,Tenpai Dragon,tenpai-dragon-504101
-16,17,Aaron Niggemann,Fire King,diabellstar-kashtira-snake-eye-fire-king-503421
-17,18,Carl-Philipp Blaschke,Fire King,diabellstar-snake-eye-fire-king-502990
-18,19,Maximilian Henn,Snake-Eye,diabellstar-kashtira-snake-eye-503415
-19,20,Niko Schlierkamp,Snake-Eye,diabellstar-kashtira-snake-eye-503603
-20,21,Duy Nguyen,Plant Link,ragnaraika-plant-link-502944
-21,22,Eduard B.,Despia,
-22,23,Joshua Schmidt,Melodious,melodious-503575
-23,24,Sidar T.,Tenpai Dragon,tenpai-dragon-502680
-24,25,Alican Uksul,Centur-Ion,centur-ion-502936
-25,26,Sven Rebmann,Tenpai Dragon,tenpai-dragon-503028
-26,27,Eteeyeen Ita,Snake-Eye,diabellstar-kashtira-snake-eye-503353
-27,28,Shengyuan L.,Tri-Brigade,
-28,29,Marc H.,Snake-Eye,
-29,30,Batuhan G.,Snake-Eye,
-30,31,Paris M.,Tearlaments,
-31,32,Jannes B.,Salamangreat,
-32,33,Maximilian Muller,Snake-Eye,diabellstar-kashtira-snake-eye-502941
-33,34,Thomas T.,Snake-Eye,
-34,35,Kevin P.,Snake-Eye,diabellstar-kashtira-snake-eye-505254
-35,36,Eldin M.,Snake-Eye,diabellstar-melodious-snake-eye-504916
-36,37,Patrick Hoffmann,Snake-Eye,diabellstar-kashtira-snake-eye-503056
-37,38,Philip W.,Snake-Eye,
-38,39,Christian J.,Lightsworn,horus-bystial-centur-ion-lightsworn-502903
-39,40,Johannes B.,Snake-Eye,
-40,41,Tom Kleinegräber ,Fire King,diabellstar-kashtira-snake-eye-fire-king-503352
-41,42,Christian K.,Fire King,
-42,43,Joshua Lawson,Voiceless Voice,branded-voiceless-voice-502940
-43,44,Frank K.,Tenpai Dragon,sky-striker-tenpai-dragon-504098
-44,45,Calvin Ziolek,Snake-Eye,diabellstar-snake-eye-503207
-45,46,Simon N.,Tenpai Dragon,salvation-tenpai-dragon-503273
-46,47,Serkan E.,Snake-Eye,
-47,48,Marvin S.,Yubel,
-48,49,Leif B.,Snake-Eye,diabellstar-snake-eye-503740
-49,50,Servet Zeybek,Voiceless Voice,voiceless-voice-502685
-50,51,Jan-Niklas H.,Tenpai Dragon,tenpai-dragon-503379
-51,52,Silas E.,Tenpai Dragon,tenpai-dragon-502987
-52,53,Joel Trausi,Tenpai Dragon,tenpai-dragon-502682
-53,54,Patrick B.,Floowandereeze,
-54,55,Simon Friedrich S.,Salamangreat,
-55,56,Claus S.,Salamangreat,salamangreat-503736
-56,57,Marvin-Pascal F.,Snake-Eye,
-57,58,Kai H.,Plant Link,
-58,59,Viktor Y.,Despia,
-59,60,Michael L.,Snake-Eye,
-60,61,Andre W.,Voiceless Voice,
-61,62,Ugur D.,Tenpai Dragon,
-62,63,Zdravko D.,Tenpai Dragon,
-63,64,Batuhan S.,Blackwing,blackwing-503659
+,placement,player,archetype,deck_id,deck_cost
+0,1,Julius Schwarzkopf,Plant Link,ragnaraika-plant-link-502944,$201.29
+1,2,Henrik U.,Snake-Eye,diabellstar-snake-eye-503302,$216.17
+2,3,Philip Weidinger,Snake-Eye,diabellstar-kashtira-snake-eye-503350,$236.37
+3,4,Cevin K.,Snake-Eye,diabellstar-snake-eye-502976,$190.41
+4,5,Nils F.,Snake-Eye,diabellstar-kashtira-snake-eye-507053,$236.53
+5,6,Dinh-Kha Bui,Chimera,branded-chimera-503855,$214.13
+6,7,Dimitar Petrov,Despia,branded-despia-502758,$154.29
+7,8,Eric Toppel,Despia,branded-despia-503311,$143.75
+8,9,Neo Wolkober,Snake-Eye,diabellstar-kashtira-snake-eye-502988,$195.88
+9,10,Lasse M.,Snake-Eye,,
+10,11,Christoph R.,Tenpai Dragon,sky-striker-tenpai-dragon-502901,$237.88
+11,12,Jack Verma,Chimera,branded-chimera-503903,$214.13
+12,13,Felix Hamm,Unchained,unchained-503057,$165.80
+13,14,Tri Tai N.,Labrynth,,
+14,15,Junda Z.,Tenpai Dragon,,
+15,16,Dennis Brechmann,Tenpai Dragon,tenpai-dragon-504101,$171.78
+16,17,Aaron Niggemann,Fire King,diabellstar-kashtira-snake-eye-fire-king-503421,$190.34
+17,18,Carl-Philipp Blaschke,Fire King,diabellstar-snake-eye-fire-king-502990,$224.69
+18,19,Maximilian Henn,Snake-Eye,diabellstar-kashtira-snake-eye-503415,$241.76
+19,20,Niko Schlierkamp,Snake-Eye,diabellstar-kashtira-snake-eye-503603,$235.40
+20,21,Duy Nguyen,Plant Link,ragnaraika-plant-link-502944,$201.29
+21,22,Eduard B.,Despia,,
+22,23,Joshua Schmidt,Melodious,melodious-503575,$102.51
+23,24,Sidar T.,Tenpai Dragon,tenpai-dragon-502680,$211.78
+24,25,Alican Uksul,Centur-Ion,centur-ion-502936,$298.45
+25,26,Sven Rebmann,Tenpai Dragon,tenpai-dragon-503028,$125.43
+26,27,Eteeyeen Ita,Snake-Eye,diabellstar-kashtira-snake-eye-503353,$240.05
+27,28,Shengyuan L.,Tri-Brigade,,
+28,29,Marc H.,Snake-Eye,,
+29,30,Batuhan G.,Snake-Eye,,
+30,31,Paris M.,Tearlaments,,
+31,32,Jannes B.,Salamangreat,,
+32,33,Maximilian Muller,Snake-Eye,diabellstar-kashtira-snake-eye-502941,$227.80
+33,34,Thomas T.,Snake-Eye,,
+34,35,Kevin P.,Snake-Eye,diabellstar-kashtira-snake-eye-505254,$208.76
+35,36,Eldin M.,Snake-Eye,diabellstar-melodious-snake-eye-504916,$150.96
+36,37,Patrick Hoffmann,Snake-Eye,diabellstar-kashtira-snake-eye-503056,$234.44
+37,38,Philip W.,Snake-Eye,,
+38,39,Christian J.,Lightsworn,horus-bystial-centur-ion-lightsworn-502903,$340.82
+39,40,Johannes B.,Snake-Eye,,
+40,41,Tom Kleinegräber ,Fire King,diabellstar-kashtira-snake-eye-fire-king-503352,$242.65
+41,42,Christian K.,Fire King,,
+42,43,Joshua Lawson,Voiceless Voice,branded-voiceless-voice-502940,$204.88
+43,44,Frank K.,Tenpai Dragon,sky-striker-tenpai-dragon-504098,$185.56
+44,45,Calvin Ziolek,Snake-Eye,diabellstar-snake-eye-503207,$212.56
+45,46,Simon N.,Tenpai Dragon,salvation-tenpai-dragon-503273,$203.52
+46,47,Serkan E.,Snake-Eye,,
+47,48,Marvin S.,Yubel,,
+48,49,Leif B.,Snake-Eye,diabellstar-snake-eye-503740,$225.75
+49,50,Servet Zeybek,Voiceless Voice,voiceless-voice-502685,$210.80
+50,51,Jan-Niklas H.,Tenpai Dragon,tenpai-dragon-503379,$209.76
+51,52,Silas E.,Tenpai Dragon,tenpai-dragon-502987,$212.22
+52,53,Joel Trausi,Tenpai Dragon,tenpai-dragon-502682,$156.91
+53,54,Patrick B.,Floowandereeze,,
+54,55,Simon Friedrich S.,Salamangreat,,
+55,56,Claus S.,Salamangreat,salamangreat-503736,$220.01
+56,57,Marvin-Pascal F.,Snake-Eye,,
+57,58,Kai H.,Plant Link,,
+58,59,Viktor Y.,Despia,,
+59,60,Michael L.,Snake-Eye,,
+60,61,Andre W.,Voiceless Voice,,
+61,62,Ugur D.,Tenpai Dragon,,
+62,63,Zdravko D.,Tenpai Dragon,,
+63,64,Batuhan S.,Blackwing,blackwing-503659,$108.63

@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Firat Karatas,Fire King,diabellstar-snake-eye-fire-king-498208
-1,2,Kevin Z.,Fire King,diabellstar-snake-eye-fire-king-498209
-2,3,Jolen Lo-Arnoult,Salamangreat,salamangreat-500763
-3,4,Etienne P.,Tearlaments,horus-destiny-tearlaments-500758
-4,5,Leandro Teixeira,Tenpai Dragon,tenpai-dragon-500756
-5,6,Tanguy Resmond,Snake-Eye,diabellstar-snake-eye-500760
-6,7,Marvin Kammerer,Snake-Eye,diabellstar-snake-eye-497878
-7,8,Jarden Kalkman,Purrely,purrely-497860
-8,9,Thomas Gonzalez,Virtual World,virtual-world-497674
-9,10,Allessandro A.,Snake-Eye,diabellstar-kashtira-snake-eye-497865
-10,11,Jeremy Gomez,Tenpai Dragon,tenpai-dragon-498351
-11,12,<unknown duelist>,Runick,
-12,13,<unknown duelist>,Snake-Eye,
-13,14,<unknown duelist>,Tenpai Dragon,
-14,15,<unknown duelist>,Melodious,
-15,16,<unknown duelist>,Melodious,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Firat Karatas,Fire King,diabellstar-snake-eye-fire-king-498208,$229.36
+1,2,Kevin Z.,Fire King,diabellstar-snake-eye-fire-king-498209,$230.30
+2,3,Jolen Lo-Arnoult,Salamangreat,salamangreat-500763,$222.27
+3,4,Etienne P.,Tearlaments,horus-destiny-tearlaments-500758,$183.19
+4,5,Leandro Teixeira,Tenpai Dragon,tenpai-dragon-500756,$218.16
+5,6,Tanguy Resmond,Snake-Eye,diabellstar-snake-eye-500760,$202.17
+6,7,Marvin Kammerer,Snake-Eye,diabellstar-snake-eye-497878,$226.56
+7,8,Jarden Kalkman,Purrely,purrely-497860,$125.99
+8,9,Thomas Gonzalez,Virtual World,virtual-world-497674,$95.36
+9,10,Allessandro A.,Snake-Eye,diabellstar-kashtira-snake-eye-497865,$234.73
+10,11,Jeremy Gomez,Tenpai Dragon,tenpai-dragon-498351,$210.63
+11,12,<unknown duelist>,Runick,,
+12,13,<unknown duelist>,Snake-Eye,,
+13,14,<unknown duelist>,Tenpai Dragon,,
+14,15,<unknown duelist>,Melodious,,
+15,16,<unknown duelist>,Melodious,,

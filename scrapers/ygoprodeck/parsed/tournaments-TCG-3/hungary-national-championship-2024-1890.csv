@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,David Kovacs,Tri-Brigade,spright-tri-brigade-500711
-1,2,Attila Szeremi,Tenpai Dragon,tenpai-dragon-500668
-2,3,Nikolic Djordje,Runick,
-3,4,Paweł Kowol,Melodious,melodious-500462
-4,5,Andrea Vari,Chimera,melodious-chimera-500464
-5,6,Andras Gyimesi,Purrely,
-6,7,Jakub Pajak,Plant Link,ragnaraika-plant-link-500459
-7,8,Havasi Zsombor,Spright,
-8,9,Bence Bölöni,Snake-Eye,diabellstar-snake-eye-504102
-9,10,Kristijan Stankovic,Dragon Link,bystial-dragon-link-501544
-10,11,Daniel Finta,Voiceless Voice,
-11,12,Bendeguz Csuja,Ghoti,
-12,13,Tarcsa Tamas,Tenpai Dragon,
-13,14,Kárpi Péter,Salamangreat,salamangreat-500944
-14,15,Arandjel Maticevic,Kashtira,
-15,16,Balint Horvath,Labrynth,
+,placement,player,archetype,deck_id,deck_cost
+0,1,David Kovacs,Tri-Brigade,spright-tri-brigade-500711,$130.60
+1,2,Attila Szeremi,Tenpai Dragon,tenpai-dragon-500668,$156.45
+2,3,Nikolic Djordje,Runick,,
+3,4,Paweł Kowol,Melodious,melodious-500462,$153.10
+4,5,Andrea Vari,Chimera,melodious-chimera-500464,$211.76
+5,6,Andras Gyimesi,Purrely,,
+6,7,Jakub Pajak,Plant Link,ragnaraika-plant-link-500459,$165.26
+7,8,Havasi Zsombor,Spright,,
+8,9,Bence Bölöni,Snake-Eye,diabellstar-snake-eye-504102,$220.73
+9,10,Kristijan Stankovic,Dragon Link,bystial-dragon-link-501544,$309.49
+10,11,Daniel Finta,Voiceless Voice,,
+11,12,Bendeguz Csuja,Ghoti,,
+12,13,Tarcsa Tamas,Tenpai Dragon,,
+13,14,Kárpi Péter,Salamangreat,salamangreat-500944,$276.75
+14,15,Arandjel Maticevic,Kashtira,,
+15,16,Balint Horvath,Labrynth,,

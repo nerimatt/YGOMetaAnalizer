@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Anton Hjollund,Kashtira,kashtira-331513
-1,2,Christian Foldager,Spright,evil-twin-runick-spright-513689
-2,3,Christian Forsman,Floowandereeze,floowandereeze-331517
-3,4,Arham Farooq,Despia,
-4,5,Kristoffer Nielsen,Dragon Link,
-5,6,Mateusz Gozdan,Mathmech,
-6,7,Daniel Wittich,Despia,
-7,8,Davide Corriea,Kashtira,
-8,9,Sebastian Lemke,Spright,evil-twin-runick-spright-331523
-9,10,Anders Christensen,Gold Pride,
-10,11,Michael Durr,Labrynth,labrynth-331520
-11,12,Alan Smajlovic,Spright,melffy-adventurer-spright-331522
-12,13,Andrew Swann,Dragon Link,
-13,14,Ingvar Hjartason,Gold Pride,p-u-n-k-gold-pride-332065
-14,15,Daniel Bendtsen,Labrynth,
-15,16,Robin Dulin,Purrely,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Anton Hjollund,Kashtira,kashtira-331513,$208.48
+1,2,Christian Foldager,Spright,evil-twin-runick-spright-513689,$86.72
+2,3,Christian Forsman,Floowandereeze,floowandereeze-331517,$68.42
+3,4,Arham Farooq,Despia,,
+4,5,Kristoffer Nielsen,Dragon Link,,
+5,6,Mateusz Gozdan,Mathmech,,
+6,7,Daniel Wittich,Despia,,
+7,8,Davide Corriea,Kashtira,,
+8,9,Sebastian Lemke,Spright,evil-twin-runick-spright-331523,$98.98
+9,10,Anders Christensen,Gold Pride,,
+10,11,Michael Durr,Labrynth,labrynth-331520,$156.24
+11,12,Alan Smajlovic,Spright,melffy-adventurer-spright-331522,$159.75
+12,13,Andrew Swann,Dragon Link,,
+13,14,Ingvar Hjartason,Gold Pride,p-u-n-k-gold-pride-332065,$108.19
+14,15,Daniel Bendtsen,Labrynth,,
+15,16,Robin Dulin,Purrely,,

@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Juan Carlos La Torre Infantas,Spright,melffy-spright-507202
-1,2,Francisco Andres Osorio Bobadilla,Snake-Eye,diabellstar-kashtira-snake-eye-508843
-2,3,Sanjay Atmaram Manoo        ,Snake-Eye,diabellstar-kashtira-snake-eye-508633
-3,4,Jesus Marcelo Nava Flores        ,Snake-Eye,diabellstar-snake-eye-513067
-4,5,Joaquin Alfonso Lichtig,Snake-Eye,diabellstar-kashtira-snake-eye-513072
-5,6,Claudio Patricio Ulloa Salinas	,Yubel,unchained-yubel-508842
-6,7,Rafael Mariano Reich,Snake-Eye,diabellstar-snake-eye-507797
-7,8,David Alejandro Singer Ruiz,Ritual Beast,ritual-beast-507918
-8,9,Santiago Marin Lopez,Snake-Eye,diabellstar-kashtira-snake-eye-508500
-9,10,Pablo Cesar Dominguez Lamazares,Snake-Eye,diabellstar-kashtira-snake-eye-508499
-10,11,Luciano Juninho Bregion Jr.,Fire King,diabellstar-snake-eye-fire-king-507955
-11,12,Leonardo Nieto Aguirre,Snake-Eye,diabellstar-kashtira-snake-eye-513074
-12,13,Aldo Elvis Castillo Huarilloclla,Yubel,unchained-yubel-507792
-13,14,Key Andree Chavez Curioso,Floowandereeze,floowandereeze-507777
-14,15,Jose Antonio Castillo Aramundiz,Tenpai Dragon,tenpai-dragon-513073
-15,16,Agustin Alejandro Da Silva Medeiros,Tenpai Dragon,tenpai-dragon-507796
-16,17,Raul Jesus Villafuerte Rueda,Tearlaments,horus-destiny-tearlaments-508429
-17,18,Jhon David Guerrero Sanchez,Fire King,diabellstar-snake-eye-fire-king-507954
-18,19,Diego Andres Cifuentes Hernandez,Snake-Eye,diabellstar-kashtira-snake-eye-513080
-19,20,Jonathan Giancarlo Galarza Arevalo,Despia,dogmatika-branded-despia-513075
-20,21,Cesar Augusto Wiese Carrillo,Fire King,t-g-diabellstar-snake-eye-fire-king-507576
-21,22,Pedro Henrique Nogueira,Snake-Eye,diabellstar-melodious-snake-eye-513083
-22,23,Felix Gabriel Parra Suarez,Fire King,diabellstar-snake-eye-fire-king-513095
-23,24,Camilo Rojas Puertas,Snake-Eye,
-24,25,Francisco Christiansen Cafiero,Yubel,unchained-yubel-513098
-25,26,Henrique Cinque Figueira,Plant Link,ragnaraika-plant-link-513079
-26,27,Michael Virgilio Herrera Castro,Despia,branded-despia-507194
-27,28,Genaro Oroche,Despia,branded-despia-507357
-28,29,Adrian Gregory George,Ritual Beast,ritual-beast-507788
-29,30,Josue Samuel Becerra Duque,Tenpai Dragon,tenpai-dragon-507433
-30,31,Gustavo Vilella Maia do Carmo,Melodious,melodious-513078
-31,32,Johan de Castilho Hallack,Melodious,melodious-513077
-32,33,Joseph Brandon Mendez Medina,Snake-Eye,
-33,34,Paulo Roberto Goncalves da Silva,Snake-Eye,
-34,35,Edson Antonio Ramirez Revilla,Centur-Ion,melodious-centur-ion-507422
-35,36,Juan Mateo Augusto Renteria Pastor,Snake-Eye,
-36,37,Miguel Alejandro Chiriboga Bolanos,Snake-Eye,
-37,38,Ronald Gonzalo Soto Guerra,Snake-Eye,diabellstar-snake-eye-507790
-38,39,Renato Andre Menacho Vidal,Chimera,branded-chimera-507197
-39,40,Ivan Alberto Cerna Benites,Runick,
-40,41,Anthony Alexander Ramirez Medina,Snake-Eye,
-41,42,Taiel Fernandez,Snake-Eye,
-42,43,Carlos Julio Ceballos Cedeno,Yubel,unchained-yubel-507362
-43,44,Antonio Alvarez Reategui,Voiceless Voice,branded-voiceless-voice-507190
-44,45,David Humberto Campoblanco Nunovero,Runick,stun-runick-507774
-45,46,Andrew Fernando Huanacuni Campos,Melodious,melodious-507387
-46,47,Rodrigo Abanto Blanco,Tenpai Dragon,tenpai-dragon-507354
-47,48,Juan Fernando Sanchez Galvez,Tenpai Dragon,tenpai-dragon-507791
-48,49,Gerardo Jesus Delgado Portilla,Unchained,
-49,50,Joaquin Pojaghi,Unchained,
-50,51,Vinicius Jato Braga,Yubel,
-51,52,Victor Alfonso Ocrospoma Zeballos,Kashtira,
-52,53,Nicolas Agustin Zaccari,Tenpai Dragon,
-53,54,Lucas Da La Paula de Oliveira,Snake-Eye,
-54,55,Renzo Agustin Vasquez Tarrillo,Plant Link,
-55,56,Diego Said Lozano Diaz,Snake-Eye,
-56,57,Gustavo Eduardo Reyes Rodriguez,Dark World,danger-dark-world-507426
-57,58,Roberto Dallorto Gallegos,Yubel,unchained-yubel-507192
-58,59,Daniel Esteban Carreno Cartez,Snake-Eye,diabellstar-snake-eye-507193
-59,60,Alvaro Alonso Aramburu Valderrama,Plant Link,
-60,61,Joao Douglas Duarte Bezerra,Yubel,
-61,62,Renzo Alejandro Rodriguez Grados,Tenpai Dragon,
-62,63,Jorge Luis Lengua Navarro,Labrynth,
-63,64,Joaquin Kimura Yurich,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Juan Carlos La Torre Infantas,Spright,melffy-spright-507202,$139.37
+1,2,Francisco Andres Osorio Bobadilla,Snake-Eye,diabellstar-kashtira-snake-eye-508843,$240.11
+2,3,Sanjay Atmaram Manoo        ,Snake-Eye,diabellstar-kashtira-snake-eye-508633,$250.59
+3,4,Jesus Marcelo Nava Flores        ,Snake-Eye,diabellstar-snake-eye-513067,$181.77
+4,5,Joaquin Alfonso Lichtig,Snake-Eye,diabellstar-kashtira-snake-eye-513072,$241.72
+5,6,Claudio Patricio Ulloa Salinas	,Yubel,unchained-yubel-508842,$292.52
+6,7,Rafael Mariano Reich,Snake-Eye,diabellstar-snake-eye-507797,$208.56
+7,8,David Alejandro Singer Ruiz,Ritual Beast,ritual-beast-507918,$128.95
+8,9,Santiago Marin Lopez,Snake-Eye,diabellstar-kashtira-snake-eye-508500,$215.33
+9,10,Pablo Cesar Dominguez Lamazares,Snake-Eye,diabellstar-kashtira-snake-eye-508499,$215.33
+10,11,Luciano Juninho Bregion Jr.,Fire King,diabellstar-snake-eye-fire-king-507955,$208.72
+11,12,Leonardo Nieto Aguirre,Snake-Eye,diabellstar-kashtira-snake-eye-513074,$249.44
+12,13,Aldo Elvis Castillo Huarilloclla,Yubel,unchained-yubel-507792,$187.48
+13,14,Key Andree Chavez Curioso,Floowandereeze,floowandereeze-507777,$94.37
+14,15,Jose Antonio Castillo Aramundiz,Tenpai Dragon,tenpai-dragon-513073,$177.49
+15,16,Agustin Alejandro Da Silva Medeiros,Tenpai Dragon,tenpai-dragon-507796,$215.08
+16,17,Raul Jesus Villafuerte Rueda,Tearlaments,horus-destiny-tearlaments-508429,$265.77
+17,18,Jhon David Guerrero Sanchez,Fire King,diabellstar-snake-eye-fire-king-507954,$190.84
+18,19,Diego Andres Cifuentes Hernandez,Snake-Eye,diabellstar-kashtira-snake-eye-513080,$250.11
+19,20,Jonathan Giancarlo Galarza Arevalo,Despia,dogmatika-branded-despia-513075,$91.26
+20,21,Cesar Augusto Wiese Carrillo,Fire King,t-g-diabellstar-snake-eye-fire-king-507576,$154.95
+21,22,Pedro Henrique Nogueira,Snake-Eye,diabellstar-melodious-snake-eye-513083,$184.94
+22,23,Felix Gabriel Parra Suarez,Fire King,diabellstar-snake-eye-fire-king-513095,$187.54
+23,24,Camilo Rojas Puertas,Snake-Eye,,
+24,25,Francisco Christiansen Cafiero,Yubel,unchained-yubel-513098,$210.31
+25,26,Henrique Cinque Figueira,Plant Link,ragnaraika-plant-link-513079,$211.64
+26,27,Michael Virgilio Herrera Castro,Despia,branded-despia-507194,$122.16
+27,28,Genaro Oroche,Despia,branded-despia-507357,$134.64
+28,29,Adrian Gregory George,Ritual Beast,ritual-beast-507788,$159.80
+29,30,Josue Samuel Becerra Duque,Tenpai Dragon,tenpai-dragon-507433,$164.71
+30,31,Gustavo Vilella Maia do Carmo,Melodious,melodious-513078,$122.17
+31,32,Johan de Castilho Hallack,Melodious,melodious-513077,$95.10
+32,33,Joseph Brandon Mendez Medina,Snake-Eye,,
+33,34,Paulo Roberto Goncalves da Silva,Snake-Eye,,
+34,35,Edson Antonio Ramirez Revilla,Centur-Ion,melodious-centur-ion-507422,$223.60
+35,36,Juan Mateo Augusto Renteria Pastor,Snake-Eye,,
+36,37,Miguel Alejandro Chiriboga Bolanos,Snake-Eye,,
+37,38,Ronald Gonzalo Soto Guerra,Snake-Eye,diabellstar-snake-eye-507790,$194.75
+38,39,Renato Andre Menacho Vidal,Chimera,branded-chimera-507197,$246.32
+39,40,Ivan Alberto Cerna Benites,Runick,,
+40,41,Anthony Alexander Ramirez Medina,Snake-Eye,,
+41,42,Taiel Fernandez,Snake-Eye,,
+42,43,Carlos Julio Ceballos Cedeno,Yubel,unchained-yubel-507362,$248.11
+43,44,Antonio Alvarez Reategui,Voiceless Voice,branded-voiceless-voice-507190,$197.99
+44,45,David Humberto Campoblanco Nunovero,Runick,stun-runick-507774,$72.92
+45,46,Andrew Fernando Huanacuni Campos,Melodious,melodious-507387,$129.95
+46,47,Rodrigo Abanto Blanco,Tenpai Dragon,tenpai-dragon-507354,$190.03
+47,48,Juan Fernando Sanchez Galvez,Tenpai Dragon,tenpai-dragon-507791,$193.75
+48,49,Gerardo Jesus Delgado Portilla,Unchained,,
+49,50,Joaquin Pojaghi,Unchained,,
+50,51,Vinicius Jato Braga,Yubel,,
+51,52,Victor Alfonso Ocrospoma Zeballos,Kashtira,,
+52,53,Nicolas Agustin Zaccari,Tenpai Dragon,,
+53,54,Lucas Da La Paula de Oliveira,Snake-Eye,,
+54,55,Renzo Agustin Vasquez Tarrillo,Plant Link,,
+55,56,Diego Said Lozano Diaz,Snake-Eye,,
+56,57,Gustavo Eduardo Reyes Rodriguez,Dark World,danger-dark-world-507426,$70.96
+57,58,Roberto Dallorto Gallegos,Yubel,unchained-yubel-507192,$203.72
+58,59,Daniel Esteban Carreno Cartez,Snake-Eye,diabellstar-snake-eye-507193,$194.97
+59,60,Alvaro Alonso Aramburu Valderrama,Plant Link,,
+60,61,Joao Douglas Duarte Bezerra,Yubel,,
+61,62,Renzo Alejandro Rodriguez Grados,Tenpai Dragon,,
+62,63,Jorge Luis Lengua Navarro,Labrynth,,
+63,64,Joaquin Kimura Yurich,Tenpai Dragon,,

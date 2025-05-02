@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Gustavo Vilella,Melodious,melodious-501051
-1,2,Marcelo Soares,Labrynth,labrynth-506293
-2,3,Paulo Roberto Goncalves da Silva,Snake-Eye,
-3,4,Guilherme Souza Ribeiro,Runick,stun-runick-501038
-4,5,Daniel Okuno,Snake-Eye,diabellstar-snake-eye-506294
-5,6,Leonardo Ferreira,Snake-Eye,diabellstar-snake-eye-500765
-6,7,Gabriel Monteiro,Tenpai Dragon,tenpai-dragon-500447
-7,8,William Moreira,Tenpai Dragon,tenpai-dragon-506296
-8,9,Luahn Pereira,Snake-Eye,
-9,10,Lucas Castro,Kashtira,heatsoul-kashtira-500452
-10,11,Lucas Gondim,Snake-Eye,
-11,12,Isaac Sampaio,Tenpai Dragon,tenpai-dragon-500449
-12,13,João Marcos,Tenpai Dragon,
-13,14,Felipe Urias,Dinomorphia,
-14,15,Bruno Aurelio Cabral,Labrynth,labrynth-501624
-15,16,Lucas Luna,Tenpai Dragon,tenpai-dragon-500231
-16,17,Rafael Mariano Reich,Snake-Eye,diabellstar-kashtira-snake-eye-501019
-17,18,Ricardo Lima,Fire King,diabellstar-snake-eye-fire-king-500770
-18,19,Matheus Daniel Alves,Snake-Eye,
-19,20,Matheus Soares,Fire King,
-20,21,Pedro Henrique Nogueira,Snake-Eye,
-21,22,Lucas Simão,Tearlaments,
-22,23,Jhonathan Rios,Horus,stun-horus-501736
-23,24,Raphael Carlos,Snake-Eye,
-24,25,Leonardo Bittencourt,Tenpai Dragon,kashtira-tenpai-dragon-501003
-25,26,Yuri Rego,Snake-Eye,
-26,27,Anderson Scharlau,Tenpai Dragon,
-27,28,Jose Augusto,Tenpai Dragon,
-28,29,Henrique Braga,Voiceless Voice,voiceless-voice-500171
-29,30,Pedro Dinamarco,Tenpai Dragon,tenpai-dragon-500178
-30,31,Álvaro Rambaldi,Salamangreat,salamangreat-500190
-31,32,Mateus Monteiro,Voiceless Voice,voiceless-voice-500767
+,placement,player,archetype,deck_id,deck_cost
+0,1,Gustavo Vilella,Melodious,melodious-501051,$144.27
+1,2,Marcelo Soares,Labrynth,labrynth-506293,$137.63
+2,3,Paulo Roberto Goncalves da Silva,Snake-Eye,,
+3,4,Guilherme Souza Ribeiro,Runick,stun-runick-501038,$74.85
+4,5,Daniel Okuno,Snake-Eye,diabellstar-snake-eye-506294,$183.82
+5,6,Leonardo Ferreira,Snake-Eye,diabellstar-snake-eye-500765,$183.12
+6,7,Gabriel Monteiro,Tenpai Dragon,tenpai-dragon-500447,$153.65
+7,8,William Moreira,Tenpai Dragon,tenpai-dragon-506296,$157.87
+8,9,Luahn Pereira,Snake-Eye,,
+9,10,Lucas Castro,Kashtira,heatsoul-kashtira-500452,$208.10
+10,11,Lucas Gondim,Snake-Eye,,
+11,12,Isaac Sampaio,Tenpai Dragon,tenpai-dragon-500449,$193.53
+12,13,João Marcos,Tenpai Dragon,,
+13,14,Felipe Urias,Dinomorphia,,
+14,15,Bruno Aurelio Cabral,Labrynth,labrynth-501624,$181.13
+15,16,Lucas Luna,Tenpai Dragon,tenpai-dragon-500231,$118.81
+16,17,Rafael Mariano Reich,Snake-Eye,diabellstar-kashtira-snake-eye-501019,$203.27
+17,18,Ricardo Lima,Fire King,diabellstar-snake-eye-fire-king-500770,$177.52
+18,19,Matheus Daniel Alves,Snake-Eye,,
+19,20,Matheus Soares,Fire King,,
+20,21,Pedro Henrique Nogueira,Snake-Eye,,
+21,22,Lucas Simão,Tearlaments,,
+22,23,Jhonathan Rios,Horus,stun-horus-501736,$226.14
+23,24,Raphael Carlos,Snake-Eye,,
+24,25,Leonardo Bittencourt,Tenpai Dragon,kashtira-tenpai-dragon-501003,$191.80
+25,26,Yuri Rego,Snake-Eye,,
+26,27,Anderson Scharlau,Tenpai Dragon,,
+27,28,Jose Augusto,Tenpai Dragon,,
+28,29,Henrique Braga,Voiceless Voice,voiceless-voice-500171,$214.27
+29,30,Pedro Dinamarco,Tenpai Dragon,tenpai-dragon-500178,$210.41
+30,31,Álvaro Rambaldi,Salamangreat,salamangreat-500190,$170.66
+31,32,Mateus Monteiro,Voiceless Voice,voiceless-voice-500767,$208.09

@@ -1,24 +1,24 @@
-,placement,player,archetype,deck_id
-0,1,Christopher LeBlanc ,Tearlaments,spright-tearlaments-307792
-1,2,Michael Tamez,Floowandereeze,floowandereeze-307793
-2,3, Marcus Hayden,Runick,spright-runick-307796
-3,4,"Dakota ""Koty"" Angeloff",Tearlaments,danger-tearlaments-307812
-4,5,Cameron Neal,Tearlaments,bystial-branded-tearlaments-307979
-5,6,Denis Nadas,Tearlaments,bystial-tearlaments-307815
-6,7,Evan Yang,Floowandereeze,floowandereeze-307911
-7,8,Clifton Land,Dragon Link,bystial-dragon-link-307896
-8,9,Zohair Khan,Tearlaments,bystial-tearlaments-308144
-9,10,Walter Jule,Tearlaments,bystial-tearlaments-307814
-10,11,Calvin Chow,Tearlaments,bystial-tearlaments-307897
-11,12,Jibriel Braithwaite,Tearlaments,tearlaments-307818
-12,13,Pete Navarro,Spright,bystial-tearlaments-307897
-13,14,David Erpen,Thunder Dragon,bystial-danger-thunder-dragon-307824
-14,15,Vladis Baranovskis,Tearlaments,salvation-scareclaw-tearlaments-307905
-15,16,Cristian Urena,Tearlaments,salvation-tearlaments-307822
-16,17,Aldo Garcia,Spright,bystial-spright-307908
-17,18,Dominic Couch,Tearlaments,bystial-tearlaments-307901
-18,19,Shunping Xu,Tearlaments,salvation-tearlaments-307822
-19,20,Ricardo Rojas,Tearlaments,bystial-tearlaments-308146
-20,21,Brenden Beckmann,Spright,spright-307910
-21,22,Lyric Bruner,Exosister,exosister-307899
-22,23,Steve Hernandez,Tearlaments,tearlaments-308145
+,placement,player,archetype,deck_id,deck_cost
+0,1,Christopher LeBlanc ,Tearlaments,spright-tearlaments-307792,$207.90
+1,2,Michael Tamez,Floowandereeze,floowandereeze-307793,$79.56
+2,3, Marcus Hayden,Runick,spright-runick-307796,$129.94
+3,4,"Dakota ""Koty"" Angeloff",Tearlaments,danger-tearlaments-307812,$71.87
+4,5,Cameron Neal,Tearlaments,bystial-branded-tearlaments-307979,$233.44
+5,6,Denis Nadas,Tearlaments,bystial-tearlaments-307815,$145.48
+6,7,Evan Yang,Floowandereeze,floowandereeze-307911,$60.03
+7,8,Clifton Land,Dragon Link,bystial-dragon-link-307896,$186.87
+8,9,Zohair Khan,Tearlaments,bystial-tearlaments-308144,$154.39
+9,10,Walter Jule,Tearlaments,bystial-tearlaments-307814,$159.03
+10,11,Calvin Chow,Tearlaments,bystial-tearlaments-307897,$247.14
+11,12,Jibriel Braithwaite,Tearlaments,tearlaments-307818,$139.21
+12,13,Pete Navarro,Spright,bystial-tearlaments-307897,$247.14
+13,14,David Erpen,Thunder Dragon,bystial-danger-thunder-dragon-307824,$214.19
+14,15,Vladis Baranovskis,Tearlaments,salvation-scareclaw-tearlaments-307905,$106.86
+15,16,Cristian Urena,Tearlaments,salvation-tearlaments-307822,$109.66
+16,17,Aldo Garcia,Spright,bystial-spright-307908,$204.80
+17,18,Dominic Couch,Tearlaments,bystial-tearlaments-307901,$233.73
+18,19,Shunping Xu,Tearlaments,salvation-tearlaments-307822,$109.66
+19,20,Ricardo Rojas,Tearlaments,bystial-tearlaments-308146,$217.99
+20,21,Brenden Beckmann,Spright,spright-307910,$197.36
+21,22,Lyric Bruner,Exosister,exosister-307899,$82.40
+22,23,Steve Hernandez,Tearlaments,tearlaments-308145,$147.91

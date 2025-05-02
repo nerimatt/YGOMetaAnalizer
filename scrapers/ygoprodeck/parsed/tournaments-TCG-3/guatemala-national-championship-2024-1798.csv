@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Sebastian Muralles,Snake-Eye,diabellstar-kashtira-snake-eye-488588
-1,2,Alberto Campaigniac,Snake-Eye,diabellstar-snake-eye-488589
-2,3,Brandon Morales,Voiceless Voice,branded-voiceless-voice-488591
-3,4,Arturo Castelion,Tenpai Dragon,tenpai-dragon-488590
-4,5,Oscar Lopez,Mannadium,kashtira-scareclaw-mannadium-488600
-5,6,Daniel Contreras,Snake-Eye,diabellstar-snake-eye-488597
-6,7,Roberto Cobos,Snake-Eye,diabellstar-snake-eye-488599
-7,8,Diego Laguardia,Voiceless Voice,voiceless-voice-488733
-8,9,Alejandra Puente,Plant Link,ragnaraika-plant-link-488534
-9,10,Jared Castro,Snake-Eye,
-10,11,Jose Aceytuno,Voiceless Voice,
-11,12,Jeanpaul Alfraro,Tenpai Dragon,tenpai-dragon-488048
-12,13,Herbert Chavarria,Infernoble Knight,
-13,14,Fernando Gomez,Centur-Ion,
-14,15,Fernando Padilla,Snake-Eye,
-15,16,Gary Estrada,Voiceless Voice,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Sebastian Muralles,Snake-Eye,diabellstar-kashtira-snake-eye-488588,$224.04
+1,2,Alberto Campaigniac,Snake-Eye,diabellstar-snake-eye-488589,$203.99
+2,3,Brandon Morales,Voiceless Voice,branded-voiceless-voice-488591,$206.41
+3,4,Arturo Castelion,Tenpai Dragon,tenpai-dragon-488590,$164.98
+4,5,Oscar Lopez,Mannadium,kashtira-scareclaw-mannadium-488600,$161.84
+5,6,Daniel Contreras,Snake-Eye,diabellstar-snake-eye-488597,$195.76
+6,7,Roberto Cobos,Snake-Eye,diabellstar-snake-eye-488599,$245.32
+7,8,Diego Laguardia,Voiceless Voice,voiceless-voice-488733,$204.01
+8,9,Alejandra Puente,Plant Link,ragnaraika-plant-link-488534,$177.48
+9,10,Jared Castro,Snake-Eye,,
+10,11,Jose Aceytuno,Voiceless Voice,,
+11,12,Jeanpaul Alfraro,Tenpai Dragon,tenpai-dragon-488048,$221.59
+12,13,Herbert Chavarria,Infernoble Knight,,
+13,14,Fernando Gomez,Centur-Ion,,
+14,15,Fernando Padilla,Snake-Eye,,
+15,16,Gary Estrada,Voiceless Voice,,

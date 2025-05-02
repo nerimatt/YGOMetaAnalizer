@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Lorenzo Muselli,Snake-Eye,diabellstar-kashtira-snake-eye-500766
-1,2,Diego Ganzerli,Snake-Eye,diabellstar-kashtira-snake-eye-500766
-2,3,Marco Parenti,Snake-Eye,diabellstar-kashtira-snake-eye-502541
-3,4,Raffaele Sirica,Snake-Eye,diabellstar-snake-eye-502588
-4,5,Aimi Michele,Snake-Eye,diabellstar-kashtira-snake-eye-501631
-5,6,Alberto Barzan,Fire King,diabellstar-snake-eye-fire-king-501056
-6,7,Gianluca Di Luigi,Tenpai Dragon,tenpai-dragon-501034
-7,8,Leonardo Falcioni,Labrynth,
-8,9,Flavio Palumbo,Snake-Eye,diabellstar-kashtira-snake-eye-502541
-9,10,Daniele Balbo,Snake-Eye,diabellstar-kashtira-snake-eye-502589
-10,11,Flaminio Rossi,Snake-Eye,
-11,12,Antonio Ferrone,Floowandereeze,floowandereeze-501023
-12,13,Federico Molin,Labrynth,labrynth-506677
-13,14,Fabio Padovani,Tenpai Dragon,
-14,15,Giuseppe Mincione,Tenpai Dragon,tenpai-dragon-500966
-15,16,Simone Salvucci,Salamangreat,salamangreat-506624
-16,17,Federico Connestari,Fire King,diabellstar-snake-eye-fire-king-506628
-17,18,Papa Antonio,Fire King,diabellstar-kashtira-snake-eye-fire-king-503418
-18,19,Adriano Mottola,Fire King,diabellstar-snake-eye-fire-king-506623
-19,20,Federico Santecchia,Fire King,diabellstar-snake-eye-fire-king-501630
-20,21,Leonardo Ughi,Snake-Eye,diabellstar-kashtira-snake-eye-500938
-21,22,Marco Aldrovandi,Fire King,
-22,23,Alberto Agnolon,Runick,stun-runick-506617
-23,24,Andrea Nusca,Despia,branded-despia-500239
-24,25,Gabriele Sgotti,Snake-Eye,
-25,26,Gaetano Pignalosa,Tenpai Dragon,
-26,27,Alessandro Cervigni,Salamangreat,salamangreat-501629
-27,28,Matteo Bombelli,Purrely,purrely-500772
-28,29,Eraldo Qoku,Labrynth,labrynth-501883
-29,30,Matteo Colagiorgio,Tenpai Dragon,tenpai-dragon-500764
-30,31,Gianluca Carluccio,,
-31,32,Francesco Spinelli,,
-32,33,Ivan Baldelli,Fire King,diabellstar-snake-eye-fire-king-500460
-33,34,Domenico Tievoli,Snake-Eye,diabellstar-kashtira-snake-eye-501628
-34,35,Luca Tocchio,Fire King,
-35,36,Tommaso Costati,Snake-Eye,diabellstar-kashtira-snake-eye-503376
-36,37,Simone Zoffoli,Snake-Eye,
-37,38,Riccardo Canale,Snake-Eye,
-38,39,Alexandru Crihana,Snake-Eye,diabellstar-kashtira-snake-eye-501625
-39,40,Giuseppe Marra,Snake-Eye,diabellstar-kashtira-snake-eye-501055
-40,41,Leonardo Manna,Fire King,
-41,42,Arber Kodra,Fire King,diabellstar-snake-eye-fire-king-506621
-42,43,Vannucchi Iacopo,Fire King,
-43,44,Luca Grassi,Fire King,diabellstar-snake-eye-fire-king-502577
-44,45,Gianluca Vagnoni,Fire King,
-45,46,Simone Gianino,Fire King,diabellstar-snake-eye-fire-king-501056
-46,47,Luigi Derlindati,Despia,
-47,48,Antonio Allocca,Despia,
-48,49,Alfredo Ambrosone,Runick,stun-runick-502857
-49,50,Michael Carillo,Snake-Eye,diabellstar-snake-eye-501534
-50,51,Alessandro Filoia,Rescue-ACE,diabellstar-rescue-ace-501577
-51,52,Luca Tempestini,Runick,stun-runick-501620
-52,53,Nicolò Mascolo,Drytron,voiceless-voice-drytron-505704
-53,54,Giuseppe Frosi,Snake-Eye,diabellstar-snake-eye-501039
-54,55,Giuseppe Tarsitano,Salamangreat,salamangreat-501542
-55,56,Francesco Simoncelli,Tenpai Dragon,tenpai-dragon-501057
-56,57,Davide Scimia,Tenpai Dragon,
-57,58,Ioan Adrian Pop,Kashtira,
-58,59,Pierangelo Campanelli,Tenpai Dragon,tenpai-dragon-502856
-59,60,Luca Rettaroli,Melodious,
-60,61,Diego Castronovo,Tenpai Dragon,tenpai-dragon-501016
-61,62,Giada Mori,Melodious,melodious-501049
-62,63,Stefano Cozzolino,,
-63,64,Filippo Cusin,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Lorenzo Muselli,Snake-Eye,diabellstar-kashtira-snake-eye-500766,$259.64
+1,2,Diego Ganzerli,Snake-Eye,diabellstar-kashtira-snake-eye-500766,$259.64
+2,3,Marco Parenti,Snake-Eye,diabellstar-kashtira-snake-eye-502541,$212.31
+3,4,Raffaele Sirica,Snake-Eye,diabellstar-snake-eye-502588,$243.00
+4,5,Aimi Michele,Snake-Eye,diabellstar-kashtira-snake-eye-501631,$272.01
+5,6,Alberto Barzan,Fire King,diabellstar-snake-eye-fire-king-501056,$187.84
+6,7,Gianluca Di Luigi,Tenpai Dragon,tenpai-dragon-501034,$296.42
+7,8,Leonardo Falcioni,Labrynth,,
+8,9,Flavio Palumbo,Snake-Eye,diabellstar-kashtira-snake-eye-502541,$212.31
+9,10,Daniele Balbo,Snake-Eye,diabellstar-kashtira-snake-eye-502589,$236.93
+10,11,Flaminio Rossi,Snake-Eye,,
+11,12,Antonio Ferrone,Floowandereeze,floowandereeze-501023,$102.40
+12,13,Federico Molin,Labrynth,labrynth-506677,$193.37
+13,14,Fabio Padovani,Tenpai Dragon,,
+14,15,Giuseppe Mincione,Tenpai Dragon,tenpai-dragon-500966,$167.40
+15,16,Simone Salvucci,Salamangreat,salamangreat-506624,$232.44
+16,17,Federico Connestari,Fire King,diabellstar-snake-eye-fire-king-506628,$159.27
+17,18,Papa Antonio,Fire King,diabellstar-kashtira-snake-eye-fire-king-503418,$210.40
+18,19,Adriano Mottola,Fire King,diabellstar-snake-eye-fire-king-506623,$212.17
+19,20,Federico Santecchia,Fire King,diabellstar-snake-eye-fire-king-501630,$169.07
+20,21,Leonardo Ughi,Snake-Eye,diabellstar-kashtira-snake-eye-500938,$218.06
+21,22,Marco Aldrovandi,Fire King,,
+22,23,Alberto Agnolon,Runick,stun-runick-506617,$99.01
+23,24,Andrea Nusca,Despia,branded-despia-500239,$155.84
+24,25,Gabriele Sgotti,Snake-Eye,,
+25,26,Gaetano Pignalosa,Tenpai Dragon,,
+26,27,Alessandro Cervigni,Salamangreat,salamangreat-501629,$219.22
+27,28,Matteo Bombelli,Purrely,purrely-500772,$93.38
+28,29,Eraldo Qoku,Labrynth,labrynth-501883,$208.24
+29,30,Matteo Colagiorgio,Tenpai Dragon,tenpai-dragon-500764,$185.51
+30,31,Gianluca Carluccio,,,
+31,32,Francesco Spinelli,,,
+32,33,Ivan Baldelli,Fire King,diabellstar-snake-eye-fire-king-500460,$233.79
+33,34,Domenico Tievoli,Snake-Eye,diabellstar-kashtira-snake-eye-501628,$255.41
+34,35,Luca Tocchio,Fire King,,
+35,36,Tommaso Costati,Snake-Eye,diabellstar-kashtira-snake-eye-503376,$192.90
+36,37,Simone Zoffoli,Snake-Eye,,
+37,38,Riccardo Canale,Snake-Eye,,
+38,39,Alexandru Crihana,Snake-Eye,diabellstar-kashtira-snake-eye-501625,$238.88
+39,40,Giuseppe Marra,Snake-Eye,diabellstar-kashtira-snake-eye-501055,$233.18
+40,41,Leonardo Manna,Fire King,,
+41,42,Arber Kodra,Fire King,diabellstar-snake-eye-fire-king-506621,$231.41
+42,43,Vannucchi Iacopo,Fire King,,
+43,44,Luca Grassi,Fire King,diabellstar-snake-eye-fire-king-502577,$223.47
+44,45,Gianluca Vagnoni,Fire King,,
+45,46,Simone Gianino,Fire King,diabellstar-snake-eye-fire-king-501056,$187.84
+46,47,Luigi Derlindati,Despia,,
+47,48,Antonio Allocca,Despia,,
+48,49,Alfredo Ambrosone,Runick,stun-runick-502857,$71.60
+49,50,Michael Carillo,Snake-Eye,diabellstar-snake-eye-501534,$161.58
+50,51,Alessandro Filoia,Rescue-ACE,diabellstar-rescue-ace-501577,$300.41
+51,52,Luca Tempestini,Runick,stun-runick-501620,$73.54
+52,53,Nicolò Mascolo,Drytron,voiceless-voice-drytron-505704,$211.36
+53,54,Giuseppe Frosi,Snake-Eye,diabellstar-snake-eye-501039,$214.56
+54,55,Giuseppe Tarsitano,Salamangreat,salamangreat-501542,$201.62
+55,56,Francesco Simoncelli,Tenpai Dragon,tenpai-dragon-501057,$246.43
+56,57,Davide Scimia,Tenpai Dragon,,
+57,58,Ioan Adrian Pop,Kashtira,,
+58,59,Pierangelo Campanelli,Tenpai Dragon,tenpai-dragon-502856,$174.56
+59,60,Luca Rettaroli,Melodious,,
+60,61,Diego Castronovo,Tenpai Dragon,tenpai-dragon-501016,$209.48
+61,62,Giada Mori,Melodious,melodious-501049,$101.40
+62,63,Stefano Cozzolino,,,
+63,64,Filippo Cusin,,,

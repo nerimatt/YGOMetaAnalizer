@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Jose Aramin,Tenpai Dragon,
-1,2,Juan Pablo Rebodello,Snake-Eye,diabellstar-snake-eye-495643
-2,3,Andres Alejandro Arredondo,Snake-Eye,diabellstar-kashtira-snake-eye-494566
-3,4,Francisco Osorio Bobadilla,Snake-Eye,diabellstar-snake-eye-494609
-4,5,Jose Ignacio Irulao,Despia,branded-despia-495747
-5,6,Carlos Vergara,Tenpai Dragon,tenpai-dragon-495803
-6,7,Felipe Munoz,Tenpai Dragon,tenpai-dragon-495642
-7,8,Benjamin Rene Canales Avila,Tenpai Dragon,tenpai-dragon-495626
-8,9,Sebastian Ignacio Toro Hidalgo,Tearlaments,lightsworn-horus-tearlaments-494966
-9,10,Leonel Ignacio Medina,Snake-Eye,diabellstar-kashtira-snake-eye-494407
-10,11,Exequiel Ignacio Addaro Garcia,Dinosaurs,transcendosaurus-dinosaurs-494087
-11,12,Jorge Aurelio Roncoroni,Runick,stun-runick-495641
-12,13,Franco Vargas,Snake-Eye,diabellstar-snake-eye-494113
-13,14,David Samuel Vallejos,Salamangreat,salamangreat-494349
-14,15,Martin Araya,Tenpai Dragon,tenpai-dragon-495755
-15,16,Alvaro Matias Barrientos,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Jose Aramin,Tenpai Dragon,,
+1,2,Juan Pablo Rebodello,Snake-Eye,diabellstar-snake-eye-495643,$194.22
+2,3,Andres Alejandro Arredondo,Snake-Eye,diabellstar-kashtira-snake-eye-494566,$249.88
+3,4,Francisco Osorio Bobadilla,Snake-Eye,diabellstar-snake-eye-494609,$205.12
+4,5,Jose Ignacio Irulao,Despia,branded-despia-495747,$162.50
+5,6,Carlos Vergara,Tenpai Dragon,tenpai-dragon-495803,$170.06
+6,7,Felipe Munoz,Tenpai Dragon,tenpai-dragon-495642,$192.09
+7,8,Benjamin Rene Canales Avila,Tenpai Dragon,tenpai-dragon-495626,$142.78
+8,9,Sebastian Ignacio Toro Hidalgo,Tearlaments,lightsworn-horus-tearlaments-494966,$240.36
+9,10,Leonel Ignacio Medina,Snake-Eye,diabellstar-kashtira-snake-eye-494407,$257.06
+10,11,Exequiel Ignacio Addaro Garcia,Dinosaurs,transcendosaurus-dinosaurs-494087,$72.76
+11,12,Jorge Aurelio Roncoroni,Runick,stun-runick-495641,$73.22
+12,13,Franco Vargas,Snake-Eye,diabellstar-snake-eye-494113,$252.33
+13,14,David Samuel Vallejos,Salamangreat,salamangreat-494349,$181.93
+14,15,Martin Araya,Tenpai Dragon,tenpai-dragon-495755,$215.97
+15,16,Alvaro Matias Barrientos,Tenpai Dragon,,

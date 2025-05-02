@@ -1,15 +1,15 @@
-,placement,player,archetype,deck_id
-0,1,Dino Spasovski,Tearlaments,tearlaments-303817
-1,2,Bohdan Temnyk,Tearlaments,danger-tearlaments-303862
-2,3,Daniel Peck,Tearlaments,danger-tearlaments-303931
-3,4,<unknown duelist>,,
-4,5,Isaac Lim,Tearlaments,p-u-n-k-tearlaments-303816
-5,6,Josh Lewis,Tearlaments,tearlaments-303986
-6,7,Brent Lewis,Spright,power-spell-spright-304241
-7,8,Levi Tijsen,Floowandereeze,floowandereeze-303923
-8,9,Poe Jiang,Spright,runick-spright-303826
-9,10,Jonah Singer,Spright,runick-spright-303827
-10,11,Lachlan Robertson,Spright,p-u-n-k-spright-303989
-11,12,Aaron D,Mathmech,mathmech-303851
-12,13,Charlie Walker,HERO,hero-304461
-13,14,<3 unknown Top 16 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Dino Spasovski,Tearlaments,tearlaments-303817,$107.63
+1,2,Bohdan Temnyk,Tearlaments,danger-tearlaments-303862,$75.75
+2,3,Daniel Peck,Tearlaments,danger-tearlaments-303931,$69.21
+3,4,<unknown duelist>,,,
+4,5,Isaac Lim,Tearlaments,p-u-n-k-tearlaments-303816,$100.26
+5,6,Josh Lewis,Tearlaments,tearlaments-303986,$95.36
+6,7,Brent Lewis,Spright,power-spell-spright-304241,$104.73
+7,8,Levi Tijsen,Floowandereeze,floowandereeze-303923,$64.20
+8,9,Poe Jiang,Spright,runick-spright-303826,$125.19
+9,10,Jonah Singer,Spright,runick-spright-303827,$129.00
+10,11,Lachlan Robertson,Spright,p-u-n-k-spright-303989,$79.68
+11,12,Aaron D,Mathmech,mathmech-303851,$67.70
+12,13,Charlie Walker,HERO,hero-304461,$71.88
+13,14,<3 unknown Top 16 duelists>,,,

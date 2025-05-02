@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Adrián Quintás,Kashtira,kashtira-327332
-1,2,Igor Braga,Kashtira,kashtira-327447
-2,3,Gustavo Melo,Superheavy Samurai,superheavy-samurai-327797
-3,4,Joao Cesar,Mathmech,mathmech-327798
-4,5,Gabriel Precatado,Spright,melffy-spright-327417
-5,6,Ian Azevedo,Kashtira,
-6,7,Antonio Pereira,Kashtira,kashtira-328034
-7,8,Bruno Souza,Mathmech,
-8,9,Eros Tahargo Serrano,Despia,branded-despia-327697
-9,10,Pablo Figueira,Spright,melffy-spright-327357
-10,11,Gleb Trubitool,Spright,
-11,12,Joao Cordeiro,Evil Eye,mathmech-evil-eye-327420
-12,13,Duarte Neves,Spright,melffy-spright-327429
-13,14,Mateo Arceo,Labrynth,labrynth-327355
-14,15,Goncalo Braganca,Kashtira,
-15,16,Tiago Magalhaes,Kashtira,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Adrián Quintás,Kashtira,kashtira-327332,$231.03
+1,2,Igor Braga,Kashtira,kashtira-327447,$202.64
+2,3,Gustavo Melo,Superheavy Samurai,superheavy-samurai-327797,$117.42
+3,4,Joao Cesar,Mathmech,mathmech-327798,$70.79
+4,5,Gabriel Precatado,Spright,melffy-spright-327417,$100.91
+5,6,Ian Azevedo,Kashtira,,
+6,7,Antonio Pereira,Kashtira,kashtira-328034,$232.83
+7,8,Bruno Souza,Mathmech,,
+8,9,Eros Tahargo Serrano,Despia,branded-despia-327697,$106.73
+9,10,Pablo Figueira,Spright,melffy-spright-327357,$114.07
+10,11,Gleb Trubitool,Spright,,
+11,12,Joao Cordeiro,Evil Eye,mathmech-evil-eye-327420,$127.53
+12,13,Duarte Neves,Spright,melffy-spright-327429,$104.92
+13,14,Mateo Arceo,Labrynth,labrynth-327355,$97.50
+14,15,Goncalo Braganca,Kashtira,,
+15,16,Tiago Magalhaes,Kashtira,,

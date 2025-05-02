@@ -1,30 +1,30 @@
-,placement,player,archetype,deck_id
-0,1,Hansel Aguero,Swordsoul,tenyi-swordsoul-296255
-1,2,Ryan Yu,Sky Striker,sky-striker-296259
-2,3,Pascal Manigat,Floowandereeze,perfection-floowandereeze-296263
-3,4,Elijah Green,Marincess,marincess-296286
-4,5,Hunter L.,Dragon Link,adventurer-p-u-n-k-dragon-link-296518
-5,6,Steven Santoli,Despia,branded-adventurer-despia-297867
-6,7,Chuong Nguyen,Synchro,adventurer-p-u-n-k-synchro-gs-297208
-7,8,William Candia,Dragon Link,adventurer-dragon-link-296951
-8,9,Joey Gonzalez,Plunder Patroll,adventurer-kaiju-plunder-patroll-296552
-9,10,Tom Sherard,Synchro,adventurer-p-u-n-k-synchro-gs-297887
-10,11,Charley Futch,Swordsoul,tenyi-swordsoul-297220
-11,12,Adrian S.,P.U.N.K,therion-p-u-n-k-296869
-12,13,Quinton Brown,Dragon Link,adventurer-dragon-link-296881
-13,14,Deylan Pitkin,Tri-Brigade,lyrilusc-tri-brigade-297181
-14,15,Oscar Velez,Floowandereeze,floowandereeze-296873
-15,16,<unknown duelist>,Despia,blind-second-branded-despia-297216
-16,17,Vince Campana,ABC,therion-adventurer-abc-296940
-17,18,Clifton Land,Despia,branded-predaplant-despia-296863
-18,19,Jesse Flores,Despia,branded-predaplant-despia-296365
-19,20,Hector O.,Dragon Link,adventurer-p-u-n-k-dragon-link-296509
-20,21,Alyse Davis,Dragon Link,adventurer-dragon-link-296306
-21,22,James Markowitz,Swordsoul,tenyi-swordsoul-296548
-22,23,Darian Hahn,Sky Striker,sky-striker-296566
-23,24,<4 unknown Top 32 duelists>,,
-24,25,Kobe Short,Zombie,adventurer-p-u-n-k-zombie-296837
-25,26,Jordan Nichols,Eldlich,shark-dogmatika-branded-eldlich-296829
-26,27,Miguel Soto,Tri-Brigade,p-u-n-k-tri-brigade-296310
-27,28,Cristian Urena,Synchro,adventurer-p-u-n-k-synchro-gs-296833
-28,29,Ridhwaan Rahman,Swordsoul,tenyi-swordsoul-296859
+,placement,player,archetype,deck_id,deck_cost
+0,1,Hansel Aguero,Swordsoul,tenyi-swordsoul-296255,$94.39
+1,2,Ryan Yu,Sky Striker,sky-striker-296259,$78.68
+2,3,Pascal Manigat,Floowandereeze,perfection-floowandereeze-296263,$78.17
+3,4,Elijah Green,Marincess,marincess-296286,$102.62
+4,5,Hunter L.,Dragon Link,adventurer-p-u-n-k-dragon-link-296518,$106.25
+5,6,Steven Santoli,Despia,branded-adventurer-despia-297867,$61.21
+6,7,Chuong Nguyen,Synchro,adventurer-p-u-n-k-synchro-gs-297208,$80.44
+7,8,William Candia,Dragon Link,adventurer-dragon-link-296951,$52.37
+8,9,Joey Gonzalez,Plunder Patroll,adventurer-kaiju-plunder-patroll-296552,$93.50
+9,10,Tom Sherard,Synchro,adventurer-p-u-n-k-synchro-gs-297887,$81.38
+10,11,Charley Futch,Swordsoul,tenyi-swordsoul-297220,$107.22
+11,12,Adrian S.,P.U.N.K,therion-p-u-n-k-296869,$113.73
+12,13,Quinton Brown,Dragon Link,adventurer-dragon-link-296881,$70.52
+13,14,Deylan Pitkin,Tri-Brigade,lyrilusc-tri-brigade-297181,$97.25
+14,15,Oscar Velez,Floowandereeze,floowandereeze-296873,$65.35
+15,16,<unknown duelist>,Despia,blind-second-branded-despia-297216,$49.91
+16,17,Vince Campana,ABC,therion-adventurer-abc-296940,$69.52
+17,18,Clifton Land,Despia,branded-predaplant-despia-296863,$41.88
+18,19,Jesse Flores,Despia,branded-predaplant-despia-296365,$72.55
+19,20,Hector O.,Dragon Link,adventurer-p-u-n-k-dragon-link-296509,$106.47
+20,21,Alyse Davis,Dragon Link,adventurer-dragon-link-296306,$71.93
+21,22,James Markowitz,Swordsoul,tenyi-swordsoul-296548,$117.99
+22,23,Darian Hahn,Sky Striker,sky-striker-296566,$82.30
+23,24,<4 unknown Top 32 duelists>,,,
+24,25,Kobe Short,Zombie,adventurer-p-u-n-k-zombie-296837,$99.37
+25,26,Jordan Nichols,Eldlich,shark-dogmatika-branded-eldlich-296829,$33.05
+26,27,Miguel Soto,Tri-Brigade,p-u-n-k-tri-brigade-296310,$86.08
+27,28,Cristian Urena,Synchro,adventurer-p-u-n-k-synchro-gs-296833,$82.05
+28,29,Ridhwaan Rahman,Swordsoul,tenyi-swordsoul-296859,$95.69

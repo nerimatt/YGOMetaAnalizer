@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Raymond Dai ,Exosister,exosister-304298
-1,2,Jesse Kotton,Tearlaments,danger-tearlaments-304305
-2,3,Dominic Couch,Tearlaments,p-u-n-k-danger-spright-tearlaments-304308
-3,4,Cristian Urena,Tearlaments,tearlaments-304306
-4,5,Pakawat Pamornsut,Tearlaments,p-u-n-k-danger-spright-tearlaments-304541
-5,6,Luke Parkes,Tearlaments,danger-tearlaments-304311
-6,7,Victor Lam,Tearlaments,tearlaments-304324
-7,8,Chancy Wigglestove,Spright,spright-304321
-8,9,Steven Santoli,Spright,evil-twin-runick-spright-304381
-9,10,Anthony Xu,Floowandereeze,perfection-floowandereeze-304368
-10,11,Thanh Nguyen,Spright,runick-spright-304420
-11,12,Jordan Gallacher,Tearlaments,danger-tearlaments-304311
-12,13,Esala Wathuthantrige,Tearlaments,danger-tearlaments-304305
-13,14,Adrian Gonzales,Spright,evil-twin-spright-304383
-14,15,Paulo Roberto Goncalves da Silva,Spright,spright-304523
-15,16,Mitchell Martin,Spright,spright-304413
-16,17,Michael Albanese,Tearlaments,p-u-n-k-danger-spright-tearlaments-304490
-17,18,Jose Carlo Carrilo Toscano,Tearlaments,danger-runick-tearlaments-304524
-18,19,Denis Nadas,Tearlaments,danger-spright-tearlaments-304521
-19,20,Jorge Luis Pagan Ostolaza,Spright,adventurer-spright-304522
-20,21,Robert Klonowski,Tearlaments,danger-tearlaments-304519
-21,22,Brian Kaiser,Spright,adventurer-spright-304517
-22,23,Simon He,Spright,adventurer-spright-304515
-23,24,Jake Quinsee,Spright,runick-spright-304480
-24,25,James Kim,Spright,runick-spright-304481
-25,26,Joseph Quigley,Floowandereeze,floowandereeze-304520
-26,27,Ruben Andres Penaranda,Spright,
-27,28,Isaiah Houston,Spright,spright-304473
-28,29,Collin Cleaves,Mathmech,mathmech-304465
-29,30,Calvin Chow,Spright,spright-304414
-30,31,Ryan Yu,Exosister,exosister-304416
-31,32,Kamal Crooks,Spright,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Raymond Dai ,Exosister,exosister-304298,$89.30
+1,2,Jesse Kotton,Tearlaments,danger-tearlaments-304305,$74.19
+2,3,Dominic Couch,Tearlaments,p-u-n-k-danger-spright-tearlaments-304308,$99.43
+3,4,Cristian Urena,Tearlaments,tearlaments-304306,$105.56
+4,5,Pakawat Pamornsut,Tearlaments,p-u-n-k-danger-spright-tearlaments-304541,$99.52
+5,6,Luke Parkes,Tearlaments,danger-tearlaments-304311,$88.81
+6,7,Victor Lam,Tearlaments,tearlaments-304324,$106.81
+7,8,Chancy Wigglestove,Spright,spright-304321,$113.99
+8,9,Steven Santoli,Spright,evil-twin-runick-spright-304381,$133.40
+9,10,Anthony Xu,Floowandereeze,perfection-floowandereeze-304368,$53.19
+10,11,Thanh Nguyen,Spright,runick-spright-304420,$119.03
+11,12,Jordan Gallacher,Tearlaments,danger-tearlaments-304311,$88.81
+12,13,Esala Wathuthantrige,Tearlaments,danger-tearlaments-304305,$74.19
+13,14,Adrian Gonzales,Spright,evil-twin-spright-304383,$145.16
+14,15,Paulo Roberto Goncalves da Silva,Spright,spright-304523,$103.16
+15,16,Mitchell Martin,Spright,spright-304413,$107.74
+16,17,Michael Albanese,Tearlaments,p-u-n-k-danger-spright-tearlaments-304490,$89.91
+17,18,Jose Carlo Carrilo Toscano,Tearlaments,danger-runick-tearlaments-304524,$68.76
+18,19,Denis Nadas,Tearlaments,danger-spright-tearlaments-304521,$71.06
+19,20,Jorge Luis Pagan Ostolaza,Spright,adventurer-spright-304522,$112.56
+20,21,Robert Klonowski,Tearlaments,danger-tearlaments-304519,$89.03
+21,22,Brian Kaiser,Spright,adventurer-spright-304517,$110.53
+22,23,Simon He,Spright,adventurer-spright-304515,$93.99
+23,24,Jake Quinsee,Spright,runick-spright-304480,$119.84
+24,25,James Kim,Spright,runick-spright-304481,$123.11
+25,26,Joseph Quigley,Floowandereeze,floowandereeze-304520,$59.31
+26,27,Ruben Andres Penaranda,Spright,,
+27,28,Isaiah Houston,Spright,spright-304473,$118.59
+28,29,Collin Cleaves,Mathmech,mathmech-304465,$85.10
+29,30,Calvin Chow,Spright,spright-304414,$116.13
+30,31,Ryan Yu,Exosister,exosister-304416,$89.30
+31,32,Kamal Crooks,Spright,,

@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,<unknown duelist>,,
-1,2,<unknown duelist>,,
-2,3,<unknown duelist>,,
-3,4,<unknown duelist>,,
-4,5,<unknown duelist>,,
-5,6,<unknown duelist>,,
-6,7,<unknown duelist>,,
-7,8,<unknown duelist>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,<unknown duelist>,,,
+1,2,<unknown duelist>,,,
+2,3,<unknown duelist>,,,
+3,4,<unknown duelist>,,,
+4,5,<unknown duelist>,,,
+5,6,<unknown duelist>,,,
+6,7,<unknown duelist>,,,
+7,8,<unknown duelist>,,,

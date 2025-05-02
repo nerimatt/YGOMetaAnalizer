@@ -1,24 +1,24 @@
-,placement,player,archetype,deck_id
-0,1,Andreas Vrellos,Zoodiac,zoodiac-413031
-1,2,Matteo Mordanini,Zoodiac,zoodiac-413032
-2,3,Joshua Schmidt,True Draco,demise-true-draco-413033
-3,4,Jonas Spreng,Zoodiac,zoodiac-413034
-4,5,Lorenzo Roma,Zoodiac,zoodiac-413039
-5,6,Themistoklis Gkyzis,Zoodiac,zoodiac-413040
-6,7,Soren Becker,Zoodiac,zoodiac-413035
-7,8,<unknown duelist>,,
-8,9,Patrick Hoffman,Zoodiac,zoodiac-413043
-9,10,Fisaa,Blue-Eyes,blue-eyes-413045
-10,11,Sebastian Wernicke,Chain Burn,chain-burn-413044
-11,12,Loan Cite-Mielle,Zoodiac,zoodiac-413042
-12,13,Nils Nowatzky,Zoodiac,zoodiac-413041
-13,14,<3 unknown Top 16 duelists>,,
-14,15,Maximilian Veinteoub,True Draco,demise-true-draco-413100
-15,16,Alexander Hultzsch,Zoodiac,kaiju-zoodiac-413046
-16,17,Giuseppe Mandile,Dinosaur,true-king-dinosaur-413098
-17,18,Michael Forner,True Draco,demise-true-draco-413101
-18,19,Sorrentino Pierluigi,Zoodiac,zoodiac-413099
-19,20,Marcel Burri,Zoodiac,zoodiac-413097
-20,21,Parkes Luke,Zoodiac,zoodiac-413102
-21,22,Jawad Chowdhury,Zoodiac,zoodiac-413103
-22,23,<8 unknown Top 32 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Andreas Vrellos,Zoodiac,zoodiac-413031,$66.95
+1,2,Matteo Mordanini,Zoodiac,zoodiac-413032,$57.58
+2,3,Joshua Schmidt,True Draco,demise-true-draco-413033,$85.00
+3,4,Jonas Spreng,Zoodiac,zoodiac-413034,$69.89
+4,5,Lorenzo Roma,Zoodiac,zoodiac-413039,$57.04
+5,6,Themistoklis Gkyzis,Zoodiac,zoodiac-413040,$64.38
+6,7,Soren Becker,Zoodiac,zoodiac-413035,$56.13
+7,8,<unknown duelist>,,,
+8,9,Patrick Hoffman,Zoodiac,zoodiac-413043,$58.04
+9,10,Fisaa,Blue-Eyes,blue-eyes-413045,$139.72
+10,11,Sebastian Wernicke,Chain Burn,chain-burn-413044,$59.82
+11,12,Loan Cite-Mielle,Zoodiac,zoodiac-413042,$61.42
+12,13,Nils Nowatzky,Zoodiac,zoodiac-413041,$65.56
+13,14,<3 unknown Top 16 duelists>,,,
+14,15,Maximilian Veinteoub,True Draco,demise-true-draco-413100,$92.93
+15,16,Alexander Hultzsch,Zoodiac,kaiju-zoodiac-413046,$47.78
+16,17,Giuseppe Mandile,Dinosaur,true-king-dinosaur-413098,$48.04
+17,18,Michael Forner,True Draco,demise-true-draco-413101,$82.59
+18,19,Sorrentino Pierluigi,Zoodiac,zoodiac-413099,$57.04
+19,20,Marcel Burri,Zoodiac,zoodiac-413097,$57.04
+20,21,Parkes Luke,Zoodiac,zoodiac-413102,$57.04
+21,22,Jawad Chowdhury,Zoodiac,zoodiac-413103,$57.04
+22,23,<8 unknown Top 32 duelists>,,,

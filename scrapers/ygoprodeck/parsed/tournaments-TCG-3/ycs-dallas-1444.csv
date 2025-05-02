@@ -1,16 +1,16 @@
-,placement,player,archetype,deck_id
-0,1,Billy Brake,Shaddoll,burning-abyss-artifact-shaddoll-446254
-1,2,Sehabi Kheireddine,Shaddoll,artifact-shaddoll-446255
-2,3,<2 unknown Top 4 duelists>,,
-3,4,Denny Yu,Burning Abyss,burning-abyss-446257
-4,5,<3 unknown Top 8 duelists>,,
-5,6,Chad Armijo,Shaddoll,artifact-shaddoll-446258
-6,7,Michael Vutam,Satellarknight,artifact-satellarknight-446318
-7,8,Zak Aossey,Burning Abyss,burning-abyss-446317
-8,9,<5 unknown Top 16 duelists>,,
-9,10,Dominique Roberts,Shaddoll,artifact-shaddoll-446321
-10,11,Brian Scott Ferguson,Burning Abyss,burning-abyss-446319
-11,12,Tahmid Zaman,Burning Abyss,burning-abyss-446324
-12,13,Michael Campos,Spellbook,spellbook-446322
-13,14,Jonathon Castillo Gomez,Shaddoll,shaddoll-446320
-14,15,<11 unknown Top 32 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Billy Brake,Shaddoll,burning-abyss-artifact-shaddoll-446254,$52.31
+1,2,Sehabi Kheireddine,Shaddoll,artifact-shaddoll-446255,$91.55
+2,3,<2 unknown Top 4 duelists>,,,
+3,4,Denny Yu,Burning Abyss,burning-abyss-446257,$91.51
+4,5,<3 unknown Top 8 duelists>,,,
+5,6,Chad Armijo,Shaddoll,artifact-shaddoll-446258,$69.28
+6,7,Michael Vutam,Satellarknight,artifact-satellarknight-446318,$92.45
+7,8,Zak Aossey,Burning Abyss,burning-abyss-446317,$47.03
+8,9,<5 unknown Top 16 duelists>,,,
+9,10,Dominique Roberts,Shaddoll,artifact-shaddoll-446321,$83.66
+10,11,Brian Scott Ferguson,Burning Abyss,burning-abyss-446319,$83.95
+11,12,Tahmid Zaman,Burning Abyss,burning-abyss-446324,$43.86
+12,13,Michael Campos,Spellbook,spellbook-446322,$86.54
+13,14,Jonathon Castillo Gomez,Shaddoll,shaddoll-446320,$75.81
+14,15,<11 unknown Top 32 duelists>,,,

@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Joshua Schmidt,Runick,bystial-runick-406772
-1,2,Anthony Lopes,Rescue-ACE,diabellstar-rescue-ace-406700
-2,3,Viktor Ivanov,Despia,
-3,4,Dinh Kha-Bui,Labrynth,labrynth-407245
-4,5,Danilo Siracusa,Tearlaments,ishizu-tearlaments-406150
-5,6,Pakawat Pamornsut,Infernoble Knight,diabellstar-infernoble-knight-407248
-6,7,Gabriel Netz,Labrynth,labrynth-406286
-7,8,Joo-Ho Ahn,Labrynth,labrynth-406477
-8,9,Edoardo Porta,Tearlaments,horus-ishizu-tearlaments-406288
-9,10,Giovanni Intravaia,Rescue-ACE,diabellstar-rescue-ace-407981
-10,11,Simon He,Mikanko,diabellstar-mikanko-406470
-11,12,Andreas Vrellos,Rescue-ACE,
-12,13,Matteo Giugni,Rescue-ACE,diabellstar-rescue-ace-406578
-13,14,Luka Forjan,Labrynth,
-14,15,Giorgos Styliadis,Purrely,purrely-407057
-15,16,Kevin Nephthys Semlali,Fire King,diabellstar-fire-king-407240
-16,17,Alessandro Guardia,Rikka,therion-sunavalon-rikka-407168
-17,18,Matteo Vincanzo Duraccio,Tearlaments,destiny-danger-tearlaments-407671
-18,19,Simone Rotorato,Tearlaments,horus-destiny-tearlaments-406580
-19,20,Francesco Spirito,Rescue-ACE,diabellstar-rescue-ace-406582
-20,21,Giuseppe Mincione,Purrely,spright-purrely-406574
-21,22,Andrea Sessa,Centur-Ion,bystial-centur-ion-407513
-22,23,Manuel Brocco,Centur-Ion,horus-centur-ion-406147
-23,24,Julius Schwarzkopf,Labrynth,unchained-labrynth-406211
-24,25,Alberto Di Teresa,Rescue-ACE,diabellstar-rescue-ace-407981
-25,26,Aleksandar Gerasimov,Rescue-ACE,
-26,27,Francesco Codianni,Labrynth,unchained-labrynth-406902
-27,28,Antonio Espinar Pineda,Vanquish Soul,vanquish-soul-406086
-28,29,Daniel Hartmann,Unchained,unchained-408112
-29,30,Christian Foldager,Purrely,purrely-407167
-30,31,Christofer Aldwin,Fire King,diabellstar-fire-king-406082
-31,32,Giannis Kolokas,Tearlaments,
-32,33,Simone Falanga,Tearlaments,horus-destiny-tearlaments-406480
-33,34,Henry Bancroft,Tearlaments,destiny-danger-tearlaments-406157
-34,35,Tony Di Bari ,Fire King,diabellstar-snake-eye-fire-king-406463
-35,36,Mattia Biliotti,Tearlaments,horus-destiny-tearlaments-406581
-36,37,Pierluigi Sorrentino,Tearlaments,horus-destiny-tearlaments-406426
-37,38,Marco Vezzani,Tearlaments,horus-destiny-tearlaments-407382
-38,39,Thibaut Pelcot,Rescue-ACE,
-39,40,Cristian Urena,Labrynth,unchained-labrynth-406212
-40,41,Matteo Altemura,Centur-Ion,superheavy-samurai-centur-ion-407376
-41,42,Jessica Robinson,Rescue-ACE,diabellstar-rescue-ace-406153
-42,43,Diego Ganzerli,Centur-Ion,bystial-centur-ion-407165
-43,44,Emilio Simonutti,Vanquish Soul,horus-vanquish-soul-407164
-44,45,Dennis Marchetti,Chimera,
-45,46,Zeki Shah,Fire King,diabellstar-fire-king-406081
-46,47,Davide Padovani,Purrely,spright-purrely-407172
-47,48,Guillaume Maron,Dragon Link,bystial-dragon-link-408736
-48,49,Konstantinos Stogiannos,Rescue-ACE,diabellstar-rescue-ace-407056
-49,50,Brice Bonneau,Rescue-ACE,
-50,51,Giannis Tato,Rescue-ACE,
-51,52,Matteo Rimondini,Rescue-ACE,diabellstar-rescue-ace-409948
-52,53,Ammad Raja,Rescue-ACE,diabellstar-rescue-ace-406898
-53,54,Michael Clazzer,Labrynth,unchained-labrynth-406900
-54,55,Lijun Wu,Unchained,unchained-406473
-55,56,Salvatore Vergari,Labrynth,
-56,57,Massimo Paradisi,Unchained,unchained-407979
-57,58,Danilo Munafo,Kashtira,kashtira-406698
-58,59,Jonte Makus,Unchained,
-59,60,Giuseppe Calabrese,Unchained,unchained-407980
-60,61,Yuri del Governatore,Unchained,unchained-407379
-61,62,Radu Balan,Chimera,dogmatika-branded-chimera-407170
-62,63,Daniel Heffernan,Mikanko,diabellstar-mikanko-407237
-63,64,Kristijan Mašić,Marincess,marincess-407507
+,placement,player,archetype,deck_id,deck_cost
+0,1,Joshua Schmidt,Runick,bystial-runick-406772,$273.28
+1,2,Anthony Lopes,Rescue-ACE,diabellstar-rescue-ace-406700,$123.09
+2,3,Viktor Ivanov,Despia,,
+3,4,Dinh Kha-Bui,Labrynth,labrynth-407245,$232.36
+4,5,Danilo Siracusa,Tearlaments,ishizu-tearlaments-406150,$169.91
+5,6,Pakawat Pamornsut,Infernoble Knight,diabellstar-infernoble-knight-407248,$169.79
+6,7,Gabriel Netz,Labrynth,labrynth-406286,$308.78
+7,8,Joo-Ho Ahn,Labrynth,labrynth-406477,$314.25
+8,9,Edoardo Porta,Tearlaments,horus-ishizu-tearlaments-406288,$202.66
+9,10,Giovanni Intravaia,Rescue-ACE,diabellstar-rescue-ace-407981,$221.58
+10,11,Simon He,Mikanko,diabellstar-mikanko-406470,$147.32
+11,12,Andreas Vrellos,Rescue-ACE,,
+12,13,Matteo Giugni,Rescue-ACE,diabellstar-rescue-ace-406578,$127.07
+13,14,Luka Forjan,Labrynth,,
+14,15,Giorgos Styliadis,Purrely,purrely-407057,$119.52
+15,16,Kevin Nephthys Semlali,Fire King,diabellstar-fire-king-407240,$163.20
+16,17,Alessandro Guardia,Rikka,therion-sunavalon-rikka-407168,$127.80
+17,18,Matteo Vincanzo Duraccio,Tearlaments,destiny-danger-tearlaments-407671,$120.03
+18,19,Simone Rotorato,Tearlaments,horus-destiny-tearlaments-406580,$221.97
+19,20,Francesco Spirito,Rescue-ACE,diabellstar-rescue-ace-406582,$182.35
+20,21,Giuseppe Mincione,Purrely,spright-purrely-406574,$103.97
+21,22,Andrea Sessa,Centur-Ion,bystial-centur-ion-407513,$382.19
+22,23,Manuel Brocco,Centur-Ion,horus-centur-ion-406147,$420.44
+23,24,Julius Schwarzkopf,Labrynth,unchained-labrynth-406211,$225.36
+24,25,Alberto Di Teresa,Rescue-ACE,diabellstar-rescue-ace-407981,$221.58
+25,26,Aleksandar Gerasimov,Rescue-ACE,,
+26,27,Francesco Codianni,Labrynth,unchained-labrynth-406902,$181.92
+27,28,Antonio Espinar Pineda,Vanquish Soul,vanquish-soul-406086,$211.88
+28,29,Daniel Hartmann,Unchained,unchained-408112,$137.18
+29,30,Christian Foldager,Purrely,purrely-407167,$200.49
+30,31,Christofer Aldwin,Fire King,diabellstar-fire-king-406082,$164.50
+31,32,Giannis Kolokas,Tearlaments,,
+32,33,Simone Falanga,Tearlaments,horus-destiny-tearlaments-406480,$237.73
+33,34,Henry Bancroft,Tearlaments,destiny-danger-tearlaments-406157,$157.53
+34,35,Tony Di Bari ,Fire King,diabellstar-snake-eye-fire-king-406463,$171.56
+35,36,Mattia Biliotti,Tearlaments,horus-destiny-tearlaments-406581,$217.91
+36,37,Pierluigi Sorrentino,Tearlaments,horus-destiny-tearlaments-406426,$204.35
+37,38,Marco Vezzani,Tearlaments,horus-destiny-tearlaments-407382,$225.85
+38,39,Thibaut Pelcot,Rescue-ACE,,
+39,40,Cristian Urena,Labrynth,unchained-labrynth-406212,$270.74
+40,41,Matteo Altemura,Centur-Ion,superheavy-samurai-centur-ion-407376,$307.45
+41,42,Jessica Robinson,Rescue-ACE,diabellstar-rescue-ace-406153,$180.49
+42,43,Diego Ganzerli,Centur-Ion,bystial-centur-ion-407165,$397.94
+43,44,Emilio Simonutti,Vanquish Soul,horus-vanquish-soul-407164,$280.37
+44,45,Dennis Marchetti,Chimera,,
+45,46,Zeki Shah,Fire King,diabellstar-fire-king-406081,$196.42
+46,47,Davide Padovani,Purrely,spright-purrely-407172,$98.11
+47,48,Guillaume Maron,Dragon Link,bystial-dragon-link-408736,$283.43
+48,49,Konstantinos Stogiannos,Rescue-ACE,diabellstar-rescue-ace-407056,$172.92
+49,50,Brice Bonneau,Rescue-ACE,,
+50,51,Giannis Tato,Rescue-ACE,,
+51,52,Matteo Rimondini,Rescue-ACE,diabellstar-rescue-ace-409948,$140.75
+52,53,Ammad Raja,Rescue-ACE,diabellstar-rescue-ace-406898,$146.27
+53,54,Michael Clazzer,Labrynth,unchained-labrynth-406900,$268.04
+54,55,Lijun Wu,Unchained,unchained-406473,$111.77
+55,56,Salvatore Vergari,Labrynth,,
+56,57,Massimo Paradisi,Unchained,unchained-407979,$228.10
+57,58,Danilo Munafo,Kashtira,kashtira-406698,$222.89
+58,59,Jonte Makus,Unchained,,
+59,60,Giuseppe Calabrese,Unchained,unchained-407980,$138.48
+60,61,Yuri del Governatore,Unchained,unchained-407379,$128.35
+61,62,Radu Balan,Chimera,dogmatika-branded-chimera-407170,$104.18
+62,63,Daniel Heffernan,Mikanko,diabellstar-mikanko-407237,$143.30
+63,64,Kristijan Mašić,Marincess,marincess-407507,$145.10

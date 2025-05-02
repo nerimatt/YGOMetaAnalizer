@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Loa Strandberg,Kashtira,kashtira-328247
-1,2,Chris Granström ,Superheavy Samurai,superheavy-samurai-328053
-2,3,Herman Hansson	,Labrynth,
-3,4,<unknown duelist>,,
-4,5,Rasmus Barberaren	,Kashtira,kashtira-328052
-5,6,Albin Ahrberg,Marincess,marincess-328082
-6,7,Johan Franzen,Labrynth,labrynth-328087
-7,8,<unknown duelist>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Loa Strandberg,Kashtira,kashtira-328247,$249.49
+1,2,Chris Granström ,Superheavy Samurai,superheavy-samurai-328053,$125.69
+2,3,Herman Hansson	,Labrynth,,
+3,4,<unknown duelist>,,,
+4,5,Rasmus Barberaren	,Kashtira,kashtira-328052,$251.58
+5,6,Albin Ahrberg,Marincess,marincess-328082,$82.60
+6,7,Johan Franzen,Labrynth,labrynth-328087,$143.23
+7,8,<unknown duelist>,,,

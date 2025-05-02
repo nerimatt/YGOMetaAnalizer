@@ -11,6 +11,9 @@ FORMAT = "TCG"
 TIER = "3"
 
 TOURNAMENTS_FOLDER = f"raw/tournaments-{FORMAT}-{TIER}/"
+PARSED_TOURNAMENTS_FOLDER = f"parsed/tournaments-{FORMAT}-{TIER}/"
+TOURNAMENTS_CSV = f"parsed/tournaments-{FORMAT}-{TIER}-six_months.csv"
+
 
 def generate_tournament_names_data():
     YCS_TCG_ENDPOINT = f"https://ygoprodeck.com/api/tournament/getTournaments.php?&tier={TIER}&format={FORMAT}"
@@ -22,7 +25,7 @@ def generate_tournament_names_data():
 
     df = pd.DataFrame(data = data)
     print(df)
-    df.to_csv(f"data/tournaments-{FORMAT}-{TIER}.csv")
+    df.to_csv(f"parsed/tournaments-{FORMAT}-{TIER}.csv")
 
     # with open(f"data/tournaments-{FORMAT}-{TIER}.json", "w") as jsonfile:
     #     json.dump(data, jsonfile, indent = 4)
@@ -60,7 +63,8 @@ def parse_all_tournament_html():
     tournaments_html = listdir(f"raw/tournaments-{FORMAT}-{TIER}/")
 
     for tournament in tournaments_html:
-        get_tournament_data_from_html(tournament.split(".")[0])
+        if ".html" in tournament:
+            get_tournament_data_from_html(tournament.split(".")[0])
 
 
 def get_tournament_data_from_html(slug):
@@ -102,7 +106,10 @@ def get_tournament_data_from_html(slug):
         if deck_name != None: deck_name = deck_name.get_text(strip = True)
 
         deck_id = person.get("href", None)
-        if deck_id != None: deck_id = deck_id.split("/")[-1]
+        deck_cost = None
+        if deck_id != None:
+            deck_id = deck_id.split("/")[-1]
+            deck_cost = person.find_all("span")[-1].get_text(strip = True)
 
         # NOTE: deck link is deck name, cluster decks together using deck_name
         # and contrast them with other decks if differ in deck_id
@@ -112,13 +119,14 @@ def get_tournament_data_from_html(slug):
             "player": name,
             "archetype": deck_name,
             "deck_id": deck_id,
+            "deck_cost": deck_cost
         })
 
 
     #print(json.dumps(data, indent = 4))
 
     df = pd.DataFrame(data = partecipants)
-    # print(df)
+    #print(df)
     df.to_csv(f"parsed/tournaments-{FORMAT}-{TIER}/{slug}.csv")
 
     file.close()
@@ -127,26 +135,62 @@ def get_tournament_data_from_html(slug):
 
 
 
+def download_deck_html(deck_id):
+    webpage = WEBSITE_CORE_LINK + "deck/" + str(deck_id)
 
-def get_deck_data(deck_id):
-    webpage = WEBSITE_CORE_LINK + "deck/" + deck_id
-    print(f"scraping {webpage}... ", end = "")
+    print(f"downloading deck html: {webpage}")
 
     session = HTMLSession()
     response = session.get(webpage)
 
     response.html.render(sleep = 3, keep_page = True, scrolldown = 1)
-    print(response.status_code)
 
-    soup = BeautifulSoup(response.html.html, "html.parser")
+    with open(f"raw/tournaments-{FORMAT}-{TIER}/decks/{deck_id}.html", "w") as htmlfile:
+        htmlfile.write(response.html.html)
+
+
+    session.close()
+
+def download_all_decks_html():
+    from math import isnan
+
+    tournaments_df = pd.read_csv(TOURNAMENTS_CSV)
+
+    for tournament in tournaments_df["slug"]:
+        tournament_df = pd.read_csv(f"{PARSED_TOURNAMENTS_FOLDER}{tournament}.csv")
+
+        for deck_id in tournament_df["deck_id"]:
+            if type(deck_id) != str and isnan(deck_id) or not deck_id:
+                print("skipping empty deck...")
+                continue
+
+            download_deck_html(deck_id)
+
+
+
+def get_deck_data_from_html(deck_id):
+    # webpage = WEBSITE_CORE_LINK + "deck/" + deck_id
+    # print(f"scraping {webpage}... ", end = "")
+
+    # session = HTMLSession()
+    # response = session.get(webpage)
+
+    # response.html.render(sleep = 3, keep_page = True, scrolldown = 1)
+    # print(response.status_code)
+
+    print(f"processing deck html: {deck_id}")
+
+    file = open(f"{TOURNAMENTS_FOLDER}decks/{deck_id}.html", "r")
+    soup = BeautifulSoup(file, "html.parser")
 
 
     def process_cards(cards_element_arr):
 
         tmp = [
             [
-                x.find(class_ = "master-duel-card").get("data-card"),
-                x.find(class_ = "master-duel-card").get("data-cardname")
+                # do not use class "Master duel card" because not all cards are in master duel
+                x.find(class_ = "lazy").get("data-card"),
+                x.find(class_ = "lazy").get("data-cardname")
             ]
             for x in cards_element_arr
         ]
@@ -176,23 +220,48 @@ def get_deck_data(deck_id):
     extra_df = pd.DataFrame(data = extra_deck)
     extra_df["deck_part"] = 1
 
-    side_deck = soup.find(id = "side_deck").find_all(class_ = "ygodeckcard")
-    side_deck = process_cards(side_deck)
+
+    side_deck = soup.find(id = "side_deck")
+    if side_deck != None:
+        side_deck = side_deck.find_all(class_ = "ygodeckcard")
+        side_deck = process_cards(side_deck)
+    else:
+        side_deck = [{"id": -1, "name": None, "copies": 0}] # NOTE: no side deck
+
     side_df = pd.DataFrame(data = side_deck)
     side_df["deck_part"] = 2
 
+
     df = pd.concat([main_df, extra_df, side_df])
-    print(df)
-    df.to_csv(f"data/decks/{deck_id}.csv")
+    # print(df)
+    df.to_csv(f"{PARSED_TOURNAMENTS_FOLDER}/decks/{deck_id}.csv")
 
 
-    session.close()
-    del session
+    # session.close()
+    # del session
+
+def parse_all_deck_html():
+    from math import isnan
+
+    tournaments_df = pd.read_csv(TOURNAMENTS_CSV)
+
+    for tournament in tournaments_df["slug"]:
+        tournament_df = pd.read_csv(f"{PARSED_TOURNAMENTS_FOLDER}{tournament}.csv")
+
+        for deck_id in tournament_df["deck_id"]:
+            if type(deck_id) != str and isnan(deck_id) or not deck_id:
+                print("skipping empty deck...")
+                continue
+
+            get_deck_data_from_html(deck_id)
 
 
 if __name__ == "__main__":
     # generate_tournament_names_data()
     # get_tournament_data_from_html("ycs-houston-2930")
-    parse_all_tournament_html()
+    # parse_all_tournament_html()
     # download_all_tournament_pages()
-    # get_deck_data("goblin-biker-memento-588729")
+    # download_deck_html("goblin-biker-memento-588729")
+    # download_all_decks_html()
+    # get_deck_data_from_html("maliss-569959")
+    parse_all_deck_html()

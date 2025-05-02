@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Rene Epigmenio Ybarra Trapote,Memento,memento-594434
-1,2,Christopher Alvarado De La O,Maliss,sky-striker-maliss-594709
-2,3,Roberto Lopez Arce,Maliss,sky-striker-maliss-594710
-3,4,Juan Diego Gonzalez,Ryzeal,ryzeal-594734
-4,5,Joseph Chou Jr.,Ryzeal,bystial-fiendsmith-ryzeal-594587
-5,6,Enzo Fiallos,Bystial,fiendsmith-bystial-594230
-6,7,Aaron Felipe Uribe Salazar,Memento,fiendsmith-memento-594592
-7,8,Esteban Jesus Mena Campos,Mitsurugi,ryzeal-mitsurugi-595218
-8,9,Luis Cristhian Villalpando Chavez,Maliss,fiendsmith-bystial-kashtira-maliss-595165
-9,10,Angel Arturo Borja Aquino,Bystial,maliss-fiendsmith-bystial-594584
-10,11,Cristian Urena,Mermail,atlantean-mermail-595695
-11,12,Yacine Sahli,Crystron,kashtira-crystron-594588
-12,13,Arturo Iradier Monsivais Zamora,Memento,
-13,14,Brian Roberto Zuñiga Villalpando,Ryzeal,fiendsmith-mathmech-ryzeal-594430
-14,15,Luis Alejandro Arias Jimenez,Blue-Eyes,primite-blue-eyes-594711
-15,16,Javier Torres Campos,Maliss,fiendsmith-maliss-594591
-16,17,Brandol Huerta Sanchez,Snake-Eye,
-17,18,Joseph Tello Wong,Fiendsmith,kashtira-fiendsmith-596293
-18,19,Omar Eduardo Meraz Saucedo,Memento,fiendsmith-memento-595634
-19,20,Carlos Ismael Estala Coronado,Blue-Eyes,primite-blue-eyes-594728
-20,21,Joaquin Lichtig ,Maliss,
-21,22,Hiram Montecillo Juarez,Mermail,atlantean-mermail-594708
-22,23,Etzael Ivan Sosa Hedding,Maliss,maliss-594437
-23,24,Ivan Alonso Mendez Hernandez,Snake-Eye,fiendsmith-azamina-kashtira-snake-eye-594671
-24,25,Rodrigo Ivan Herrera Bellizia,Blue-Eyes,primite-blue-eyes-594673
-25,26,Dario Rafael Mendoza Rodriguez,Maliss,
-26,27,Ricardo Francisco Vazquez Galindo,Blue-Eyes,primite-blue-eyes-594739
-27,28,Miguel Angel Altamirano Aguilar,Fiendsmith,kashtira-fiendsmith-594738
-28,29,Hermain Fernandez,White Forest,
-29,30,Gabriel Maldonado Martinez,Yubel,fiendsmith-yubel-594706
-30,31,Jorge Alberto Barreras Siqueiros,Crystron,
-31,32,Sergio Vargas,Salamangreat,salamangreat-594735
+,placement,player,archetype,deck_id,deck_cost
+0,1,Rene Epigmenio Ybarra Trapote,Memento,memento-594434,$466.26
+1,2,Christopher Alvarado De La O,Maliss,sky-striker-maliss-594709,$661.03
+2,3,Roberto Lopez Arce,Maliss,sky-striker-maliss-594710,$664.71
+3,4,Juan Diego Gonzalez,Ryzeal,ryzeal-594734,$558.06
+4,5,Joseph Chou Jr.,Ryzeal,bystial-fiendsmith-ryzeal-594587,$991.86
+5,6,Enzo Fiallos,Bystial,fiendsmith-bystial-594230,$1046.01
+6,7,Aaron Felipe Uribe Salazar,Memento,fiendsmith-memento-594592,$379.31
+7,8,Esteban Jesus Mena Campos,Mitsurugi,ryzeal-mitsurugi-595218,$611.48
+8,9,Luis Cristhian Villalpando Chavez,Maliss,fiendsmith-bystial-kashtira-maliss-595165,$749.24
+9,10,Angel Arturo Borja Aquino,Bystial,maliss-fiendsmith-bystial-594584,$980.06
+10,11,Cristian Urena,Mermail,atlantean-mermail-595695,$759.76
+11,12,Yacine Sahli,Crystron,kashtira-crystron-594588,$559.42
+12,13,Arturo Iradier Monsivais Zamora,Memento,,
+13,14,Brian Roberto Zuñiga Villalpando,Ryzeal,fiendsmith-mathmech-ryzeal-594430,$524.26
+14,15,Luis Alejandro Arias Jimenez,Blue-Eyes,primite-blue-eyes-594711,$466.58
+15,16,Javier Torres Campos,Maliss,fiendsmith-maliss-594591,$734.01
+16,17,Brandol Huerta Sanchez,Snake-Eye,,
+17,18,Joseph Tello Wong,Fiendsmith,kashtira-fiendsmith-596293,$898.51
+18,19,Omar Eduardo Meraz Saucedo,Memento,fiendsmith-memento-595634,$605.25
+19,20,Carlos Ismael Estala Coronado,Blue-Eyes,primite-blue-eyes-594728,$680.89
+20,21,Joaquin Lichtig ,Maliss,,
+21,22,Hiram Montecillo Juarez,Mermail,atlantean-mermail-594708,$627.18
+22,23,Etzael Ivan Sosa Hedding,Maliss,maliss-594437,$488.50
+23,24,Ivan Alonso Mendez Hernandez,Snake-Eye,fiendsmith-azamina-kashtira-snake-eye-594671,$435.58
+24,25,Rodrigo Ivan Herrera Bellizia,Blue-Eyes,primite-blue-eyes-594673,$477.32
+25,26,Dario Rafael Mendoza Rodriguez,Maliss,,
+26,27,Ricardo Francisco Vazquez Galindo,Blue-Eyes,primite-blue-eyes-594739,$501.22
+27,28,Miguel Angel Altamirano Aguilar,Fiendsmith,kashtira-fiendsmith-594738,$808.67
+28,29,Hermain Fernandez,White Forest,,
+29,30,Gabriel Maldonado Martinez,Yubel,fiendsmith-yubel-594706,$411.91
+30,31,Jorge Alberto Barreras Siqueiros,Crystron,,
+31,32,Sergio Vargas,Salamangreat,salamangreat-594735,$601.44

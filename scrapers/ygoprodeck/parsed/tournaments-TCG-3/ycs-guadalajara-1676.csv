@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Cristian Urena,Snake-Eye,diabellstar-snake-eye-475887
-1,2,Rodrigo Fernandez Galicia,Snake-Eye,diabellstar-kashtira-snake-eye-474299
-2,3,Jair Antonio Tadeo Contreras,Mannadium,scareclaw-mannadium-474369
-3,4,Jonathan Oswaldo Martinez Orduna,Voiceless Voice,voiceless-voice-474893
-4,5,Uhan Clarke,Fire King,diabellstar-snake-eye-fire-king-474900
-5,6,Jose Carlo Carrillo Toscano,Snake-Eye,diabellstar-snake-eye-474887
-6,7,Aditya Dharap,Snake-Eye,
-7,8,Miguel Alejandro Mercado Tellez,Voiceless Voice,voiceless-voice-474208
-8,9,Dominick Saul Ortega Coba,Snake-Eye,diabellstar-snake-eye-475495
-9,10,William Wei,Voiceless Voice,branded-voiceless-voice-476123
-10,11,Jose Antonio Castillo Aramundiz,Salamangreat,salamangreat-473541
-11,12,Juan Carlos Cruz Robles,Fire King,diabellstar-snake-eye-fire-king-474958
-12,13,Alan Ernesto Olvera Mendoza,Runick,stun-runick-473641
-13,14,Arturo Gabriel Torres Sanchez,Runick,stun-runick-480043
-14,15,Jose Alberto Saltillo Gachuz,Voiceless Voice,voiceless-voice-475499
-15,16,Daniel Coto Grosser,Voiceless Voice,
-16,17,Roberto Zavaleta Guzman,Fire King,diabellstar-snake-eye-fire-king-475500
-17,18,Daniel Alonso Osuna Orduno,Snake-Eye,
-18,19,Victor Eduardo Figueroa Sanchez,Fire King,diabellstar-snake-eye-fire-king-475768
-19,20,Carlos Jose Bernal Prieto,Snake-Eye,diabellstar-kashtira-snake-eye-475771
-20,21,Hani Jawhari,Fire King,
-21,22,Enzo Fiallos,Snake-Eye,
-22,23,Cesar Alberto Salinas Magana,Runick,stun-runick-473642
-23,24,Alan Omar Roman Villagomez,Voiceless Voice,branded-voiceless-voice-475878
-24,25,Guillermo Villicana Santillan,Floowandereeze,
-25,26,Alvaro Ramses Garcia Ortiz,Voiceless Voice,
-26,27,Sergio Ethan Vera Briseno,Fire King,diabellstar-snake-eye-fire-king-475881
-27,28,Aaron Felipe Uribe Salazar,Fire King,diabellstar-snake-eye-fire-king-476127
-28,29,Roberto Concepcion Parra Rodriguez,Snake-Eye,diabellstar-kashtira-snake-eye-475882
-29,30,Alan Eduardo Galicia Alvarez,Voiceless Voice,voiceless-voice-476128
-30,31,Juan Gustavo Salas Garcia,,
-31,32,Roberto Martinez Medina,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Cristian Urena,Snake-Eye,diabellstar-snake-eye-475887,$205.15
+1,2,Rodrigo Fernandez Galicia,Snake-Eye,diabellstar-kashtira-snake-eye-474299,$184.52
+2,3,Jair Antonio Tadeo Contreras,Mannadium,scareclaw-mannadium-474369,$228.86
+3,4,Jonathan Oswaldo Martinez Orduna,Voiceless Voice,voiceless-voice-474893,$250.72
+4,5,Uhan Clarke,Fire King,diabellstar-snake-eye-fire-king-474900,$150.90
+5,6,Jose Carlo Carrillo Toscano,Snake-Eye,diabellstar-snake-eye-474887,$181.36
+6,7,Aditya Dharap,Snake-Eye,,
+7,8,Miguel Alejandro Mercado Tellez,Voiceless Voice,voiceless-voice-474208,$246.11
+8,9,Dominick Saul Ortega Coba,Snake-Eye,diabellstar-snake-eye-475495,$194.56
+9,10,William Wei,Voiceless Voice,branded-voiceless-voice-476123,$165.22
+10,11,Jose Antonio Castillo Aramundiz,Salamangreat,salamangreat-473541,$210.55
+11,12,Juan Carlos Cruz Robles,Fire King,diabellstar-snake-eye-fire-king-474958,$247.78
+12,13,Alan Ernesto Olvera Mendoza,Runick,stun-runick-473641,$93.75
+13,14,Arturo Gabriel Torres Sanchez,Runick,stun-runick-480043,$76.30
+14,15,Jose Alberto Saltillo Gachuz,Voiceless Voice,voiceless-voice-475499,$213.53
+15,16,Daniel Coto Grosser,Voiceless Voice,,
+16,17,Roberto Zavaleta Guzman,Fire King,diabellstar-snake-eye-fire-king-475500,$257.86
+17,18,Daniel Alonso Osuna Orduno,Snake-Eye,,
+18,19,Victor Eduardo Figueroa Sanchez,Fire King,diabellstar-snake-eye-fire-king-475768,$184.68
+19,20,Carlos Jose Bernal Prieto,Snake-Eye,diabellstar-kashtira-snake-eye-475771,$224.98
+20,21,Hani Jawhari,Fire King,,
+21,22,Enzo Fiallos,Snake-Eye,,
+22,23,Cesar Alberto Salinas Magana,Runick,stun-runick-473642,$119.25
+23,24,Alan Omar Roman Villagomez,Voiceless Voice,branded-voiceless-voice-475878,$198.50
+24,25,Guillermo Villicana Santillan,Floowandereeze,,
+25,26,Alvaro Ramses Garcia Ortiz,Voiceless Voice,,
+26,27,Sergio Ethan Vera Briseno,Fire King,diabellstar-snake-eye-fire-king-475881,$163.30
+27,28,Aaron Felipe Uribe Salazar,Fire King,diabellstar-snake-eye-fire-king-476127,$236.54
+28,29,Roberto Concepcion Parra Rodriguez,Snake-Eye,diabellstar-kashtira-snake-eye-475882,$235.35
+29,30,Alan Eduardo Galicia Alvarez,Voiceless Voice,voiceless-voice-476128,$215.04
+30,31,Juan Gustavo Salas Garcia,,,
+31,32,Roberto Martinez Medina,,,

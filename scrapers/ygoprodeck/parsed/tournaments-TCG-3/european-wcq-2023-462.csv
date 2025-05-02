@@ -1,56 +1,56 @@
-,placement,player,archetype,deck_id
-0,1,Jessica Robinson ,Rikka,therion-sunavalon-rikka-333903
-1,2,Christian Thomas,Kashtira,kashtira-334101
-2,3,Joo-Ho Ahn,Labrynth,labrynth-333811
-3,4,Oliver Newton,Kashtira,kashtira-333913
-4,5,Gabriel Netz,Dragon Link,bystial-dragon-link-333830
-5,6,Eldin Sadiki,Despia,branded-despia-333915
-6,7,Baptiste Derouin,Kashtira,kashtira-334020
-7,8,Jonas Koschel,Labrynth,labrynth-333810
-8,9,Philipp Gastberger,Spright,evil-twin-runick-spright-333829
-9,10,Marco Parenti,Rikka,therion-sunavalon-rikka-513777
-10,11,David Erpen,Fur Hire,runick-spright-fur-hire-334126
-11,12,Petros Rousos,Trains,earth-machine-333718
-12,13,Manuel Scharfegger,Mathmech,spirit-mathmech-333923
-13,14,Ammad Raja,Kashtira,kashtira-513783
-14,15,Alex Pavlenko,Kashtira,
-15,16,Rasmus Egerod Leth,Floowandereeze,floowandereeze-333818
-16,17,Felix Ho ,Rikka,therion-sunavalon-rikka-334032
-17,18,Kai Horenburg,Rikka,
-18,19,Lorenzo Roma,Spright,
-19,20,Andre Delury,Vanquish Soul,kashtira-vanquish-soul-334013
-20,21,Gabriel Soussi,Fur Hire,
-21,22,Matteo de G.,Despia,
-22,23,Ryhan Jabri,Kashtira,
-23,24,Firat Karatas,Kashtira,kashtira-334957
-24,25,Mario Argiro,Floowandereeze,floowandereeze-334212
-25,26,Adrian Dursun,Purrely,purrely-333719
-26,27,Jake O'Brien,Vanquish Soul,vanquish-soul-333821
-27,28,George Styliades,Spright,melffy-spright-334375
-28,29,Trung Hieu Nguyen,Kashtira,
-29,30,Christos A.,,
-30,31,Marco P.,,
-31,32,Simone I.,,
-32,33,Il Mago di Oz,Spright,evil-twin-runick-spright-334033
-33,34,Christian Andersen,Spright,evil-twin-runick-spright-513688
-34,35,Ben Kreutzkamp,Spright,evil-twin-runick-spright-334108
-35,36,Kalil St Ange,Tri-Brigade,spright-tri-brigade-334022
-36,37,Cormac Adams,Dragon Link,bystial-dragon-link-333830
-37,38,Esteban Re,Thunder Dragon,bystial-thunder-dragon-513643
-38,39,Henri Dopheide,Dragon Link,bystial-dragon-link-513666
-39,40,Luka Forjan,Despia,branded-despia-334966
-40,41,Conor Zhou,Dragon Link,
-41,42,Bostjan Kociper,Dragon Link,bystial-dragon-link-513685
-42,43,Gino Meister,Bystial,synchron-bystial-333919
-43,44,Joshua Lawson,Kashtira,kashtira-334230
-44,45,Pierre Burgals,Kashtira,kashtira-334021
-45,46,Eugenio Massi,Kashtira,kashtira-334227
-46,47,Nicola Villamagna,Kashtira,kashtira-513695
-47,48,Dimiter Ivanov,Kashtira,kashtira-334226
-48,49,Eugene,Kashtira,kashtira-334474
-49,50,Alessio Cefola,Kashtira,kashtira-334224
-50,51,Emre Kizilates,Floowandereeze,floowandereeze-333693
-51,52,Dinh-Kha Bui,Labrynth,labrynth-334216
-52,53,Pierluigi Sorrentino,Floowandereeze,
-53,54,Tristan Remond,Kashtira,
-54,55,<10 unknown Top 64 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Jessica Robinson ,Rikka,therion-sunavalon-rikka-333903,$115.30
+1,2,Christian Thomas,Kashtira,kashtira-334101,$225.63
+2,3,Joo-Ho Ahn,Labrynth,labrynth-333811,$135.79
+3,4,Oliver Newton,Kashtira,kashtira-333913,$188.36
+4,5,Gabriel Netz,Dragon Link,bystial-dragon-link-333830,$218.53
+5,6,Eldin Sadiki,Despia,branded-despia-333915,$113.33
+6,7,Baptiste Derouin,Kashtira,kashtira-334020,$166.94
+7,8,Jonas Koschel,Labrynth,labrynth-333810,$175.74
+8,9,Philipp Gastberger,Spright,evil-twin-runick-spright-333829,$115.73
+9,10,Marco Parenti,Rikka,therion-sunavalon-rikka-513777,$236.60
+10,11,David Erpen,Fur Hire,runick-spright-fur-hire-334126,$96.05
+11,12,Petros Rousos,Trains,earth-machine-333718,$107.46
+12,13,Manuel Scharfegger,Mathmech,spirit-mathmech-333923,$94.19
+13,14,Ammad Raja,Kashtira,kashtira-513783,$259.26
+14,15,Alex Pavlenko,Kashtira,,
+15,16,Rasmus Egerod Leth,Floowandereeze,floowandereeze-333818,$78.16
+16,17,Felix Ho ,Rikka,therion-sunavalon-rikka-334032,$108.16
+17,18,Kai Horenburg,Rikka,,
+18,19,Lorenzo Roma,Spright,,
+19,20,Andre Delury,Vanquish Soul,kashtira-vanquish-soul-334013,$212.11
+20,21,Gabriel Soussi,Fur Hire,,
+21,22,Matteo de G.,Despia,,
+22,23,Ryhan Jabri,Kashtira,,
+23,24,Firat Karatas,Kashtira,kashtira-334957,$161.14
+24,25,Mario Argiro,Floowandereeze,floowandereeze-334212,$59.80
+25,26,Adrian Dursun,Purrely,purrely-333719,$185.53
+26,27,Jake O'Brien,Vanquish Soul,vanquish-soul-333821,$269.73
+27,28,George Styliades,Spright,melffy-spright-334375,$156.98
+28,29,Trung Hieu Nguyen,Kashtira,,
+29,30,Christos A.,,,
+30,31,Marco P.,,,
+31,32,Simone I.,,,
+32,33,Il Mago di Oz,Spright,evil-twin-runick-spright-334033,$117.58
+33,34,Christian Andersen,Spright,evil-twin-runick-spright-513688,$86.72
+34,35,Ben Kreutzkamp,Spright,evil-twin-runick-spright-334108,$111.60
+35,36,Kalil St Ange,Tri-Brigade,spright-tri-brigade-334022,$172.86
+36,37,Cormac Adams,Dragon Link,bystial-dragon-link-333830,$218.53
+37,38,Esteban Re,Thunder Dragon,bystial-thunder-dragon-513643,$237.12
+38,39,Henri Dopheide,Dragon Link,bystial-dragon-link-513666,$267.50
+39,40,Luka Forjan,Despia,branded-despia-334966,$77.65
+40,41,Conor Zhou,Dragon Link,,
+41,42,Bostjan Kociper,Dragon Link,bystial-dragon-link-513685,$318.76
+42,43,Gino Meister,Bystial,synchron-bystial-333919,$259.30
+43,44,Joshua Lawson,Kashtira,kashtira-334230,$206.74
+44,45,Pierre Burgals,Kashtira,kashtira-334021,$193.61
+45,46,Eugenio Massi,Kashtira,kashtira-334227,$195.79
+46,47,Nicola Villamagna,Kashtira,kashtira-513695,$215.89
+47,48,Dimiter Ivanov,Kashtira,kashtira-334226,$191.88
+48,49,Eugene,Kashtira,kashtira-334474,$209.09
+49,50,Alessio Cefola,Kashtira,kashtira-334224,$199.20
+50,51,Emre Kizilates,Floowandereeze,floowandereeze-333693,$66.87
+51,52,Dinh-Kha Bui,Labrynth,labrynth-334216,$145.42
+52,53,Pierluigi Sorrentino,Floowandereeze,,
+53,54,Tristan Remond,Kashtira,,
+54,55,<10 unknown Top 64 duelists>,,,

@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Herman Hansson,Melodious,melodious-493723
-1,2,Anders Wallerius,Rescue-ACE,diabellstar-snake-eye-rescue-ace-494399
-2,3,Erikas Z.,Snake-Eye,diabellstar-kashtira-snake-eye-493724
-3,4,<unknown duelist>,Snake-Eye,
-4,5,Silent BW,Blackwing,blackwing-501634
-5,6, Eddi Ramsgård,Tenpai Dragon,tenpai-dragon-494838
-6,7,Johan Frazze Franzén,Labrynth,labrynth-494402
-7,8,<unknown duelist>,Tenpai Dragon,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Herman Hansson,Melodious,melodious-493723,$129.02
+1,2,Anders Wallerius,Rescue-ACE,diabellstar-snake-eye-rescue-ace-494399,$231.41
+2,3,Erikas Z.,Snake-Eye,diabellstar-kashtira-snake-eye-493724,$255.26
+3,4,<unknown duelist>,Snake-Eye,,
+4,5,Silent BW,Blackwing,blackwing-501634,$105.86
+5,6, Eddi Ramsgård,Tenpai Dragon,tenpai-dragon-494838,$190.80
+6,7,Johan Frazze Franzén,Labrynth,labrynth-494402,$223.85
+7,8,<unknown duelist>,Tenpai Dragon,,

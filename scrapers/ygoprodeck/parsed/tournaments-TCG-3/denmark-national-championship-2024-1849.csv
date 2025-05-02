@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Alexander Andersen,Tenpai Dragon,tenpai-dragon-493769
-1,2,<unknown duelist>,Plant Link,
-2,3,Marcus Jin,Voiceless Voice,melodious-voiceless-voice-493761
-3,4,Claire Bendtsen,Labrynth,labrynth-493783
-4,5,Frederik Holm,Tenpai Dragon,tenpai-dragon-496198
-5,6,<unknown duelist>,Snake-Eye,
-6,7,<unknown duelist>,Snake-Eye,
-7,8,<unknown duelist>,Salamangreat,
-8,9,Alish Akyol,Kashtira,kashtira-493738
-9,10,<unknown duelist>,Snake-Eye,
-10,11,<unknown duelist>,Floowandereeze,
-11,12,<unknown duelist>,Tenpai Dragon,
-12,13,<unknown duelist>,Plant Link,
-13,14,<unknown duelist>,Marincess,
-14,15,<unknown duelist>,Kashtira,
-15,16,<unknown duelist>,Melodious,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Alexander Andersen,Tenpai Dragon,tenpai-dragon-493769,$253.05
+1,2,<unknown duelist>,Plant Link,,
+2,3,Marcus Jin,Voiceless Voice,melodious-voiceless-voice-493761,$168.83
+3,4,Claire Bendtsen,Labrynth,labrynth-493783,$226.22
+4,5,Frederik Holm,Tenpai Dragon,tenpai-dragon-496198,$263.74
+5,6,<unknown duelist>,Snake-Eye,,
+6,7,<unknown duelist>,Snake-Eye,,
+7,8,<unknown duelist>,Salamangreat,,
+8,9,Alish Akyol,Kashtira,kashtira-493738,$204.76
+9,10,<unknown duelist>,Snake-Eye,,
+10,11,<unknown duelist>,Floowandereeze,,
+11,12,<unknown duelist>,Tenpai Dragon,,
+12,13,<unknown duelist>,Plant Link,,
+13,14,<unknown duelist>,Marincess,,
+14,15,<unknown duelist>,Kashtira,,
+15,16,<unknown duelist>,Melodious,,

@@ -1,9 +1,9 @@
-,placement,player,archetype,deck_id
-0,1,Yatin Patel,Rikka,
-1,2,Josh Whiting,Spright,
-2,3,Leon Vo,Spright,
-3,4,Jordon Joyce,Kashtira,
-4,5,Brandon Joyce,Despia,
-5,6,Michael Peters,Spright,
-6,7,Dylan Tongue,Kashtira,
-7,8,Isaac Chegwidden,Kashtira,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Yatin Patel,Rikka,,
+1,2,Josh Whiting,Spright,,
+2,3,Leon Vo,Spright,,
+3,4,Jordon Joyce,Kashtira,,
+4,5,Brandon Joyce,Despia,,
+5,6,Michael Peters,Spright,,
+6,7,Dylan Tongue,Kashtira,,
+7,8,Isaac Chegwidden,Kashtira,,

@@ -1,6 +1,6 @@
-,placement,player,archetype,deck_id
-0,1,Matthew Brady,Swordsoul,tenyi-swordsoul-281801
-1,2,<unknown duelist>,,
-2,3,Vladis Baranovskis,Despia,branded-adventurer-despia-281819
-3,4,James Lundy,Floowandereeze,floowandereeze-282776
-4,5,<4 unknown Top 8 duelists>,,
+,placement,player,archetype,deck_id,deck_cost
+0,1,Matthew Brady,Swordsoul,tenyi-swordsoul-281801,$106.38
+1,2,<unknown duelist>,,,
+2,3,Vladis Baranovskis,Despia,branded-adventurer-despia-281819,$66.85
+3,4,James Lundy,Floowandereeze,floowandereeze-282776,$87.07
+4,5,<4 unknown Top 8 duelists>,,,

@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,,,
-1,2,Kamal Crooks-Valdez,Snake-Eye,
-2,3,Pakawat Pamornsut,Snake-Eye,diabellstar-snake-eye-444991
-3,4,Ruben Penaranda,Snake-Eye,
-4,5,,,
-5,6,Carlos Andres Perez Padilla,Fire King,
-6,7,Jhon David Guerrero Sanchez,Fire King,diabellstar-snake-eye-fire-king-471136
-7,8,Santiago Marin Lopez,Fire King,
-8,9,,,
-9,10,Aaron McInnes        ,Fire King,diabellstar-snake-eye-fire-king-443590
-10,11,Sebastian Muralles,Fire King,
-11,12,Steven Santoli,Voiceless Voice,branded-voiceless-voice-446539
-12,13,,,
-13,14,Eduardo Daniel Cortes Moreno,Voiceless Voice,voiceless-voice-442402
-14,15,Guillermo Benjamin Morales,Snake-Eye,diabellstar-snake-eye-444190
-15,16,Jose Alberto Saltillo Gachuz,Voiceless Voice,voiceless-voice-442401
-16,17,,,
-17,18,Hansel Aguero,Snake-Eye,diabellstar-snake-eye-443597
-18,19,John Wilkin,Snake-Eye,diabellstar-snake-eye-443595
-19,20,Simon He,Snake-Eye,diabellstar-snake-eye-443594
-20,21,,,
-21,22,Alastair Lopez Gonzalez,Fire King,diabellstar-snake-eye-fire-king-446718
-22,23,Ethan Alejandro Islas Martinez,Snake-Eye,diabellstar-snake-eye-447378
-23,24,Geovanny Herve Romero Aviles,Snake-Eye,diabellstar-snake-eye-447380
-24,25,,,
-25,26,Carlos Ariel De Gracia Garcia,Fire King,diabellstar-snake-eye-fire-king-442685
-26,27,Franklin Joel Santos Ortega,Voiceless Voice,branded-voiceless-voice-442798
-27,28,Victor Raul Vasquez Ayala,Snake-Eye,diabellstar-snake-eye-442799
-28,29,,,
-29,30,Alex David Mosquera Morales,Snake-Eye,diabellstar-snake-eye-442800
-30,31,Carlos Julio Ceballos Cedeno,Fire King,
-31,32,Luis David Cada Aguilera,Fire King,
-32,33,,,
-33,34,Cristian Urena        ,Snake-Eye,
-34,35,Luka Forjan        ,Snake-Eye,diabellstar-snake-eye-446712
-35,36,Walter Jule        ,Snake-Eye,
-36,37,,,
-37,38,Angus Raymond ,Fire King,diabellstar-snake-eye-fire-king-444186
-38,39,Blake Morrison,Fire King,diabellstar-snake-eye-fire-king-444185
-39,40,Royal Maher Ghazzawi,Floowandereeze,floowandereeze-444189
-40,41,,,
-41,42,Fabian Arturo Cabezas Madrigal,Despia,
-42,43,Jose Daniel Picado Hidalgo,Snake-Eye,
-43,44,Joshua Gabriel Artavia Mora,Snake-Eye,
-44,45,,,
-45,46,Alan Omar Roman Villagomez,Kashtira,
-46,47,Cesar Alberto Salinas Magana,Fire King,diabellstar-snake-eye-fire-king-446587
-47,48,Edgar Jhair Cabanas Gonzalez,Snake-Eye,diabellstar-snake-eye-446541
-48,49,,,
-49,50,Francisco Andres Osorio Bobadilla,Snake-Eye,diabellstar-snake-eye-443602
-50,51,Joaquin Alfonso Lichtig,Despia,branded-despia-443365
-51,52,Jose Antonio Castillo Aramundiz,Kashtira,kashtira-443366
-52,53,,,
-53,54,Christopher LeBlanc        ,Fire King,
-54,55,Hani Jawhari        ,Fire King,
-55,56,Hisam Jawhari        ,Fire King,
-56,57,,,
-57,58,Pedro Gontow       ,Fire King,diabellstar-snake-eye-fire-king-442404
-58,59,Pedro Henrique Nogueira        ,Fire King,diabellstar-snake-eye-fire-king-442818
-59,60,Rafael Mariano Reich        ,Fire King,diabellstar-snake-eye-fire-king-442824
-60,61,,,
-61,62,Daniel Shogan,Fire King,
-62,63,Tayveon Crowley,Fire King,diabellstar-snake-eye-fire-king-444181
-63,64,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-442802
+,placement,player,archetype,deck_id,deck_cost
+0,1,,,,
+1,2,Kamal Crooks-Valdez,Snake-Eye,,
+2,3,Pakawat Pamornsut,Snake-Eye,diabellstar-snake-eye-444991,$190.38
+3,4,Ruben Penaranda,Snake-Eye,,
+4,5,,,,
+5,6,Carlos Andres Perez Padilla,Fire King,,
+6,7,Jhon David Guerrero Sanchez,Fire King,diabellstar-snake-eye-fire-king-471136,$196.95
+7,8,Santiago Marin Lopez,Fire King,,
+8,9,,,,
+9,10,Aaron McInnes        ,Fire King,diabellstar-snake-eye-fire-king-443590,$169.62
+10,11,Sebastian Muralles,Fire King,,
+11,12,Steven Santoli,Voiceless Voice,branded-voiceless-voice-446539,$196.05
+12,13,,,,
+13,14,Eduardo Daniel Cortes Moreno,Voiceless Voice,voiceless-voice-442402,$220.59
+14,15,Guillermo Benjamin Morales,Snake-Eye,diabellstar-snake-eye-444190,$171.07
+15,16,Jose Alberto Saltillo Gachuz,Voiceless Voice,voiceless-voice-442401,$211.73
+16,17,,,,
+17,18,Hansel Aguero,Snake-Eye,diabellstar-snake-eye-443597,$199.39
+18,19,John Wilkin,Snake-Eye,diabellstar-snake-eye-443595,$170.86
+19,20,Simon He,Snake-Eye,diabellstar-snake-eye-443594,$170.86
+20,21,,,,
+21,22,Alastair Lopez Gonzalez,Fire King,diabellstar-snake-eye-fire-king-446718,$181.69
+22,23,Ethan Alejandro Islas Martinez,Snake-Eye,diabellstar-snake-eye-447378,$174.72
+23,24,Geovanny Herve Romero Aviles,Snake-Eye,diabellstar-snake-eye-447380,$187.59
+24,25,,,,
+25,26,Carlos Ariel De Gracia Garcia,Fire King,diabellstar-snake-eye-fire-king-442685,$168.16
+26,27,Franklin Joel Santos Ortega,Voiceless Voice,branded-voiceless-voice-442798,$176.62
+27,28,Victor Raul Vasquez Ayala,Snake-Eye,diabellstar-snake-eye-442799,$179.94
+28,29,,,,
+29,30,Alex David Mosquera Morales,Snake-Eye,diabellstar-snake-eye-442800,$169.16
+30,31,Carlos Julio Ceballos Cedeno,Fire King,,
+31,32,Luis David Cada Aguilera,Fire King,,
+32,33,,,,
+33,34,Cristian Urena        ,Snake-Eye,,
+34,35,Luka Forjan        ,Snake-Eye,diabellstar-snake-eye-446712,$200.95
+35,36,Walter Jule        ,Snake-Eye,,
+36,37,,,,
+37,38,Angus Raymond ,Fire King,diabellstar-snake-eye-fire-king-444186,$166.90
+38,39,Blake Morrison,Fire King,diabellstar-snake-eye-fire-king-444185,$166.90
+39,40,Royal Maher Ghazzawi,Floowandereeze,floowandereeze-444189,$102.24
+40,41,,,,
+41,42,Fabian Arturo Cabezas Madrigal,Despia,,
+42,43,Jose Daniel Picado Hidalgo,Snake-Eye,,
+43,44,Joshua Gabriel Artavia Mora,Snake-Eye,,
+44,45,,,,
+45,46,Alan Omar Roman Villagomez,Kashtira,,
+46,47,Cesar Alberto Salinas Magana,Fire King,diabellstar-snake-eye-fire-king-446587,$161.30
+47,48,Edgar Jhair Cabanas Gonzalez,Snake-Eye,diabellstar-snake-eye-446541,$189.50
+48,49,,,,
+49,50,Francisco Andres Osorio Bobadilla,Snake-Eye,diabellstar-snake-eye-443602,$199.89
+50,51,Joaquin Alfonso Lichtig,Despia,branded-despia-443365,$125.17
+51,52,Jose Antonio Castillo Aramundiz,Kashtira,kashtira-443366,$256.59
+52,53,,,,
+53,54,Christopher LeBlanc        ,Fire King,,
+54,55,Hani Jawhari        ,Fire King,,
+55,56,Hisam Jawhari        ,Fire King,,
+56,57,,,,
+57,58,Pedro Gontow       ,Fire King,diabellstar-snake-eye-fire-king-442404,$158.20
+58,59,Pedro Henrique Nogueira        ,Fire King,diabellstar-snake-eye-fire-king-442818,$159.76
+59,60,Rafael Mariano Reich        ,Fire King,diabellstar-snake-eye-fire-king-442824,$147.53
+60,61,,,,
+61,62,Daniel Shogan,Fire King,,
+62,63,Tayveon Crowley,Fire King,diabellstar-snake-eye-fire-king-444181,$168.91
+63,64,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-442802,$165.81

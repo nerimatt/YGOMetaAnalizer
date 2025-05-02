@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Cameron Neal,Snake-Eye,diabellstar-snake-eye-477776
-1,2,Jack Zhou,Labrynth,labrynth-477783
-2,3,Austin Wesley Colling,Snake-Eye,diabellstar-kashtira-snake-eye-477784
-3,4,Levi James Dudley,Fire King,diabellstar-snake-eye-fire-king-477785
-4,5,Aaron Christopher McInnes,Snake-Eye,diabellstar-kashtira-snake-eye-478809
-5,6,Eric Töpel,Despia,branded-despia-479533
-6,7,Christopher Jordan LeBlanc,Snake-Eye,diabellstar-snake-eye-478183
-7,8,Jeffrey Michael Jones,Snake-Eye,diabellstar-snake-eye-478855
-8,9,Joseph Thomas Bellafiore,Fire King,diabellstar-snake-eye-fire-king-481414
-9,10,Aditya Dharap,Snake-Eye,diabellstar-kashtira-snake-eye-478809
-10,11,Patrick Jefferson Hoban,Snake-Eye,
-11,12,William Russell Candia,Snake-Eye,diabellstar-kashtira-snake-eye-478424
-12,13,Clifton Scott Land,Despia,branded-despia-478818
-13,14,William Conner Wesley,Runick,stun-runick-478186
-14,15,Douglas Alexander Haddad,Plunder Patroll,runick-plunder-patroll-478007
-15,16,Evan Manuel Palenzuela,Floowandereeze,floowandereeze-477841
-16,17,David Saul Hernandez,Fire King,diabellstar-snake-eye-fire-king-478814
-17,18,Matthew Jesse McRae,Snake-Eye,diabellstar-scareclaw-snake-eye-477842
-18,19,Edward Kim,Snake-Eye,diabellstar-kashtira-snake-eye-477954
-19,20,Aaron Chase Furman,Runick,stun-runick-478986
-20,21,Jorge Joel Pagan,Runick,stun-runick-485268
-21,22,Daniel De Meza ,Snake-Eye,diabellstar-snake-eye-478326
-22,23,Sean Michael Kilian,Snake-Eye,diabellstar-snake-eye-478546
-23,24,Gabriel Idris Braithwaite,Snake-Eye,diabellstar-snake-eye-477836
-24,25,Ignacio Andres Galarza,Snake-Eye,diabellstar-snake-eye-479094
-25,26,Cristian Urena,Snake-Eye,diabellstar-snake-eye-478419
-26,27,Bryan Michael Angiuoli,Snake-Eye,diabellstar-snake-eye-478329
-27,28,Justin Chase Russell,Snake-Eye,diabellstar-snake-eye-479528
-28,29,Jesus Manuel Arroyo,Kashtira,heatsoul-kashtira-478185
-29,30,Joshua Ryan Levine,Purrely,purrely-478012
-30,31,Altravius Durrell Crittenden,Voiceless Voice,voiceless-voice-478812
-31,32,Thomas Veeramani,Voiceless Voice,voiceless-voice-477570
+,placement,player,archetype,deck_id,deck_cost
+0,1,Cameron Neal,Snake-Eye,diabellstar-snake-eye-477776,$240.34
+1,2,Jack Zhou,Labrynth,labrynth-477783,$186.20
+2,3,Austin Wesley Colling,Snake-Eye,diabellstar-kashtira-snake-eye-477784,$239.38
+3,4,Levi James Dudley,Fire King,diabellstar-snake-eye-fire-king-477785,$191.37
+4,5,Aaron Christopher McInnes,Snake-Eye,diabellstar-kashtira-snake-eye-478809,$220.26
+5,6,Eric Töpel,Despia,branded-despia-479533,$166.21
+6,7,Christopher Jordan LeBlanc,Snake-Eye,diabellstar-snake-eye-478183,$181.16
+7,8,Jeffrey Michael Jones,Snake-Eye,diabellstar-snake-eye-478855,$223.96
+8,9,Joseph Thomas Bellafiore,Fire King,diabellstar-snake-eye-fire-king-481414,$221.58
+9,10,Aditya Dharap,Snake-Eye,diabellstar-kashtira-snake-eye-478809,$220.26
+10,11,Patrick Jefferson Hoban,Snake-Eye,,
+11,12,William Russell Candia,Snake-Eye,diabellstar-kashtira-snake-eye-478424,$200.80
+12,13,Clifton Scott Land,Despia,branded-despia-478818,$134.26
+13,14,William Conner Wesley,Runick,stun-runick-478186,$96.66
+14,15,Douglas Alexander Haddad,Plunder Patroll,runick-plunder-patroll-478007,$79.03
+15,16,Evan Manuel Palenzuela,Floowandereeze,floowandereeze-477841,$114.22
+16,17,David Saul Hernandez,Fire King,diabellstar-snake-eye-fire-king-478814,$223.55
+17,18,Matthew Jesse McRae,Snake-Eye,diabellstar-scareclaw-snake-eye-477842,$160.62
+18,19,Edward Kim,Snake-Eye,diabellstar-kashtira-snake-eye-477954,$266.43
+19,20,Aaron Chase Furman,Runick,stun-runick-478986,$73.58
+20,21,Jorge Joel Pagan,Runick,stun-runick-485268,$98.18
+21,22,Daniel De Meza ,Snake-Eye,diabellstar-snake-eye-478326,$219.08
+22,23,Sean Michael Kilian,Snake-Eye,diabellstar-snake-eye-478546,$206.23
+23,24,Gabriel Idris Braithwaite,Snake-Eye,diabellstar-snake-eye-477836,$193.87
+24,25,Ignacio Andres Galarza,Snake-Eye,diabellstar-snake-eye-479094,$205.96
+25,26,Cristian Urena,Snake-Eye,diabellstar-snake-eye-478419,$217.78
+26,27,Bryan Michael Angiuoli,Snake-Eye,diabellstar-snake-eye-478329,$258.96
+27,28,Justin Chase Russell,Snake-Eye,diabellstar-snake-eye-479528,$199.80
+28,29,Jesus Manuel Arroyo,Kashtira,heatsoul-kashtira-478185,$201.76
+29,30,Joshua Ryan Levine,Purrely,purrely-478012,$132.25
+30,31,Altravius Durrell Crittenden,Voiceless Voice,voiceless-voice-478812,$255.51
+31,32,Thomas Veeramani,Voiceless Voice,voiceless-voice-477570,$248.94

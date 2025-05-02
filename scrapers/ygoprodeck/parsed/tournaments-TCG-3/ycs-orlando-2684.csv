@@ -1,65 +1,65 @@
-,placement,player,archetype,deck_id
-0,1,Tayveon Crowley,Ryzeal,fiendsmith-ryzeal-564481
-1,2,Benjamin Tamarkin,Mitsurugi,ryzeal-mitsurugi-564482
-2,3,Julien Kehon,Ryzeal,fiendsmith-ryzeal-564485
-3,4,Jeffrey Jones,Maliss,maliss-564483
-4,5,Gabriel Braithwaite,Maliss,bystial-maliss-567312
-5,6,Ethan Crowe,Ryzeal,
-6,7,Clifton Land,Ryzeal,fiendsmith-ryzeal-564601
-7,8,Darmond Dixon,Ryzeal,ryzeal-564878
-8,9,Derek Mead,Tenpai Dragon,sky-striker-tenpai-dragon-564593
-9,10,Manan Bhandari,Mitsurugi,ryzeal-mitsurugi-564543
-10,11,Michael Gold Jr.,Maliss,fiendsmith-maliss-565300
-11,12,David Flores,Ryzeal,fiendsmith-ryzeal-564577
-12,13,Dante Silano,Ryzeal,fiendsmith-ryzeal-564541
-13,14,Jose Santiago Torres,Ryzeal,fiendsmith-ryzeal-565292
-14,15,Aditya Dharap,Maliss,maliss-567569
-15,16,Adrian Gonzalez,Ryzeal,ryzeal-564573
-16,17,George Lucas Sacco,Ryzeal,fiendsmith-ryzeal-564859
-17,18,Brandon Chang,Mermail,atlantean-mermail-565057
-18,19,Mitchell Martin,Ryzeal,
-19,20,David Golightly,Fiendsmith,kashtira-fiendsmith-564603
-20,21,Denis Nadas,Ryzeal,fiendsmith-ryzeal-565055
-21,22,Colin Goodrich,Ryzeal,fiendsmith-ryzeal-565305
-22,23,Levi Dudley,Ryzeal,
-23,24,Christopher Cushman,Maliss,bystial-maliss-565907
-24,25,Jesse Kotton,Mitsurugi,ryzeal-mitsurugi-565298
-25,26,Carlos Perozo Moreno,Ryzeal,fiendsmith-ryzeal-564595
-26,27,Adriel Pierre,Ryzeal,fiendsmith-ryzeal-565056
-27,28,Hisam Jawhari,Ryzeal,fiendsmith-ryzeal-566977
-28,29,Logan Kite,Maliss,maliss-564849
-29,30,Minh Le Pham,Maliss,maliss-567314
-30,31,Robert Weathers,Maliss,maliss-564871
-31,32,Alexander Jarvis,Maliss,maliss-565279
-32,33,Rolando Matos,Ryzeal,
-33,34,Trevor McInnes,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-565306
-34,35,Carlos Marrero Cortina,Mitsurugi,ryzeal-dogmatika-mitsurugi-564534
-35,36,Johnson Griggs,Ryzeal,bystial-fiendsmith-ryzeal-567574
-36,37,Sebastian Sanchez,Primite,fiendsmith-bystial-primite-564426
-37,38,Bailey Peters,Ryzeal,bystial-fiendsmith-ryzeal-565119
-38,39,Jean Perez Alonzo,Maliss,bystial-maliss-564587
-39,40,Cristian Urena,Bystial,fiendsmith-bystial-569195
-40,41,Logan Johnson,Ryzeal,fiendsmith-ryzeal-564860
-41,42,Stephen Klaus,Mermail,atlantean-mermail-564442
-42,43,Matthew Vanden-Heuvel,Maliss,
-43,44,Mi Windus,Ryzeal,fiendsmith-ryzeal-565283
-44,45,Shawn Rai,Ryzeal,
-45,46,Duncan Tucker,Maliss,
-46,47,John Wilkin,Ryzeal,fiendsmith-ryzeal-565919
-47,48,Justin Russell,Ryzeal,
-48,49,Carlos Baez Velez,Maliss,fiendsmith-maliss-565916
-49,50,Steven Trifunoski,Mitsurugi,ryzeal-mitsurugi-564598
-50,51,Nathan Shimada,Mitsurugi,ryzeal-mitsurugi-572450
-51,52,Sebastian Todd,Bystial,
-52,53,Julian Cresto,Ryzeal,fiendsmith-ryzeal-564539
-53,54,Daniel Coto Grosser,Mitsurugi,ryzeal-mitsurugi-569957
-54,55,Mario De Micco,Bystial,fiendsmith-bystial-564843
-55,56,Giancarlo Valdez Tolentino,Ryzeal,fiendsmith-ryzeal-565061
-56,57,Minsu Park,Maliss,maliss-564849
-57,58,Richard An,Maliss,maliss-565911
-58,59,James Valentino,Maliss,maliss-564581
-59,60,Steven Santoli,Ryzeal,ryzeal-565769
-60,61,Michael Walters,Maliss,maliss-565302
-61,62,Andrew Williams,Maliss,maliss-565228
-62,63,Luka Kovac,Ryzeal,ryzeal-564845
-63,64,Michael Ehresman,Maliss,maliss-564443
+,placement,player,archetype,deck_id,deck_cost
+0,1,Tayveon Crowley,Ryzeal,fiendsmith-ryzeal-564481,$1001.88
+1,2,Benjamin Tamarkin,Mitsurugi,ryzeal-mitsurugi-564482,$951.03
+2,3,Julien Kehon,Ryzeal,fiendsmith-ryzeal-564485,$1122.55
+3,4,Jeffrey Jones,Maliss,maliss-564483,$918.71
+4,5,Gabriel Braithwaite,Maliss,bystial-maliss-567312,$539.44
+5,6,Ethan Crowe,Ryzeal,,
+6,7,Clifton Land,Ryzeal,fiendsmith-ryzeal-564601,$1134.93
+7,8,Darmond Dixon,Ryzeal,ryzeal-564878,$813.08
+8,9,Derek Mead,Tenpai Dragon,sky-striker-tenpai-dragon-564593,$307.17
+9,10,Manan Bhandari,Mitsurugi,ryzeal-mitsurugi-564543,$939.37
+10,11,Michael Gold Jr.,Maliss,fiendsmith-maliss-565300,$989.56
+11,12,David Flores,Ryzeal,fiendsmith-ryzeal-564577,$1124.29
+12,13,Dante Silano,Ryzeal,fiendsmith-ryzeal-564541,$1083.64
+13,14,Jose Santiago Torres,Ryzeal,fiendsmith-ryzeal-565292,$1173.33
+14,15,Aditya Dharap,Maliss,maliss-567569,$606.58
+15,16,Adrian Gonzalez,Ryzeal,ryzeal-564573,$699.11
+16,17,George Lucas Sacco,Ryzeal,fiendsmith-ryzeal-564859,$1173.30
+17,18,Brandon Chang,Mermail,atlantean-mermail-565057,$687.07
+18,19,Mitchell Martin,Ryzeal,,
+19,20,David Golightly,Fiendsmith,kashtira-fiendsmith-564603,$989.70
+20,21,Denis Nadas,Ryzeal,fiendsmith-ryzeal-565055,$1166.82
+21,22,Colin Goodrich,Ryzeal,fiendsmith-ryzeal-565305,$1138.04
+22,23,Levi Dudley,Ryzeal,,
+23,24,Christopher Cushman,Maliss,bystial-maliss-565907,$659.04
+24,25,Jesse Kotton,Mitsurugi,ryzeal-mitsurugi-565298,$955.22
+25,26,Carlos Perozo Moreno,Ryzeal,fiendsmith-ryzeal-564595,$1171.40
+26,27,Adriel Pierre,Ryzeal,fiendsmith-ryzeal-565056,$1032.16
+27,28,Hisam Jawhari,Ryzeal,fiendsmith-ryzeal-566977,$1114.23
+28,29,Logan Kite,Maliss,maliss-564849,$776.31
+29,30,Minh Le Pham,Maliss,maliss-567314,$550.75
+30,31,Robert Weathers,Maliss,maliss-564871,$797.01
+31,32,Alexander Jarvis,Maliss,maliss-565279,$799.31
+32,33,Rolando Matos,Ryzeal,,
+33,34,Trevor McInnes,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-565306,$813.20
+34,35,Carlos Marrero Cortina,Mitsurugi,ryzeal-dogmatika-mitsurugi-564534,$766.45
+35,36,Johnson Griggs,Ryzeal,bystial-fiendsmith-ryzeal-567574,$928.05
+36,37,Sebastian Sanchez,Primite,fiendsmith-bystial-primite-564426,$1335.30
+37,38,Bailey Peters,Ryzeal,bystial-fiendsmith-ryzeal-565119,$1061.14
+38,39,Jean Perez Alonzo,Maliss,bystial-maliss-564587,$722.60
+39,40,Cristian Urena,Bystial,fiendsmith-bystial-569195,$958.79
+40,41,Logan Johnson,Ryzeal,fiendsmith-ryzeal-564860,$865.17
+41,42,Stephen Klaus,Mermail,atlantean-mermail-564442,$846.23
+42,43,Matthew Vanden-Heuvel,Maliss,,
+43,44,Mi Windus,Ryzeal,fiendsmith-ryzeal-565283,$1078.34
+44,45,Shawn Rai,Ryzeal,,
+45,46,Duncan Tucker,Maliss,,
+46,47,John Wilkin,Ryzeal,fiendsmith-ryzeal-565919,$1190.11
+47,48,Justin Russell,Ryzeal,,
+48,49,Carlos Baez Velez,Maliss,fiendsmith-maliss-565916,$850.00
+49,50,Steven Trifunoski,Mitsurugi,ryzeal-mitsurugi-564598,$956.08
+50,51,Nathan Shimada,Mitsurugi,ryzeal-mitsurugi-572450,$769.79
+51,52,Sebastian Todd,Bystial,,
+52,53,Julian Cresto,Ryzeal,fiendsmith-ryzeal-564539,$1020.62
+53,54,Daniel Coto Grosser,Mitsurugi,ryzeal-mitsurugi-569957,$934.06
+54,55,Mario De Micco,Bystial,fiendsmith-bystial-564843,$953.08
+55,56,Giancarlo Valdez Tolentino,Ryzeal,fiendsmith-ryzeal-565061,$1194.53
+56,57,Minsu Park,Maliss,maliss-564849,$776.31
+57,58,Richard An,Maliss,maliss-565911,$770.00
+58,59,James Valentino,Maliss,maliss-564581,$798.53
+59,60,Steven Santoli,Ryzeal,ryzeal-565769,$379.92
+60,61,Michael Walters,Maliss,maliss-565302,$792.99
+61,62,Andrew Williams,Maliss,maliss-565228,$946.63
+62,63,Luka Kovac,Ryzeal,ryzeal-564845,$584.51
+63,64,Michael Ehresman,Maliss,maliss-564443,$590.38

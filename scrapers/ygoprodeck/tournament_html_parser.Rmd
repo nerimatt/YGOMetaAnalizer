@@ -1,19 +1,34 @@
 # transform html files scraped with python to usable csv
 
+
+remove those without a winner
 ```{r}
-library("xml2")
-getwd()
+tournaments = read.csv("parsed/tournaments-TCG-3.csv")
+tournaments = tournaments[tournaments$winner != "",]
 ```
 
-```{r}
-tournament = "ycs-houston-2930"
-html = read_html(paste("./raw/tournaments-TCG-3/", tournament, ".html", sep = ""))
-```
 
-partecipants_elem = soup.find_all(class_ = "tournament_table_row")
-
+filter only tournaments from 6 months ago
 ```{r}
 
-partecipants_elem = html_find_all(html, '//*[@class="tournament_table_row"]')
+tournaments$event_date = as.Date(tournaments$event_date)
+
+
+library("lubridate")
+
+six_months_ago = Sys.Date() %m-% months(6)
+tournaments_six_months = tournaments[tournaments$event_date >= six_months_ago,]
 ```
+
+remove team events
+```{r}
+
+tournaments_six_months = tournaments_six_months[!grepl("Team", tournaments_six_months$name),]
+```
+
+
+```{r}
+write.csv(tournaments_six_months, "parsed/tournaments-TCG-3-six_months.csv")
+```
+
 

@@ -1,17 +1,17 @@
-,placement,player,archetype,deck_id
-0,1,Renzo Vanini,Tenpai Dragon,tenpai-dragon-488475
-1,2,Luis Huamanchumo,Purrely,purrely-487874
-2,3,Piero Vallejo Arata,Kashtira,
-3,4,Bruno Paredes,Tenpai Dragon,tenpai-dragon-487881
-4,5,Ronald Guera,Fire King,
-5,6,Jose Alejandro Guzman,Infernoid,diabellstar-snake-eye-infernoid-488815
-6,7,Sebastian Serna,Kashtira,heatsoul-kashtira-487873
-7,8,Gabriel Estrella,Labrynth,labrynth-488813
-8,9,Francisco Christiansen Cafiero,Fur Hire,
-9,10,Julio Trelles,Despia,branded-despia-487880
-10,11,Jesus Marcelo Flores,Snake-Eye,
-11,12,Alvaro Aramburu ,Plant Link,ragnaraika-plant-link-488814
-12,13,Antonio Reatigui,Voiceless Voice,branded-voiceless-voice-489327
-13,14,Diego Orlando Romero,Tenpai Dragon,tenpai-dragon-487883
-14,15,Gustavo Francisco Rami,Floowandereeze,floowandereeze-489884
-15,16,Victor Calle,Voiceless Voice,voiceless-voice-489329
+,placement,player,archetype,deck_id,deck_cost
+0,1,Renzo Vanini,Tenpai Dragon,tenpai-dragon-488475,$229.82
+1,2,Luis Huamanchumo,Purrely,purrely-487874,$149.34
+2,3,Piero Vallejo Arata,Kashtira,,
+3,4,Bruno Paredes,Tenpai Dragon,tenpai-dragon-487881,$114.12
+4,5,Ronald Guera,Fire King,,
+5,6,Jose Alejandro Guzman,Infernoid,diabellstar-snake-eye-infernoid-488815,$163.17
+6,7,Sebastian Serna,Kashtira,heatsoul-kashtira-487873,$214.60
+7,8,Gabriel Estrella,Labrynth,labrynth-488813,$157.13
+8,9,Francisco Christiansen Cafiero,Fur Hire,,
+9,10,Julio Trelles,Despia,branded-despia-487880,$161.29
+10,11,Jesus Marcelo Flores,Snake-Eye,,
+11,12,Alvaro Aramburu ,Plant Link,ragnaraika-plant-link-488814,$153.91
+12,13,Antonio Reatigui,Voiceless Voice,branded-voiceless-voice-489327,$209.65
+13,14,Diego Orlando Romero,Tenpai Dragon,tenpai-dragon-487883,$146.96
+14,15,Gustavo Francisco Rami,Floowandereeze,floowandereeze-489884,$112.08
+15,16,Victor Calle,Voiceless Voice,voiceless-voice-489329,$246.62

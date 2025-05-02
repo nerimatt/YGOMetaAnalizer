@@ -1,33 +1,33 @@
-,placement,player,archetype,deck_id
-0,1,Rafael Mariano Reich,Snake-Eye,diabellstar-kashtira-snake-eye-484662
-1,2,Ruben Penaranda,Snake-Eye,diabellstar-melodious-snake-eye-542701
-2,3,Jose Carlo Carrillo Toscano,Snake-Eye,
-3,4,Christopher LeBlanc,Snake-Eye,diabellstar-snake-eye-484524
-4,5,Pedro Henrique Nogueira,Snake-Eye,diabellstar-melodious-snake-eye-484525
-5,6,Paulo Roberto Goncalves da Silva,Snake-Eye,
-6,7,Everton Lucas Goncalves,Tenpai Dragon,tenpai-dragon-485265
-7,8,Carlos Augusto Vieira,Melodious,melodious-484374
-8,9,Emre Kizilates,Floowandereeze,floowandereeze-485107
-9,10,Matheus Hiraga,Voiceless Voice,voiceless-voice-484875
-10,11,Adriano Silva Vasconcelos,Tenpai Dragon,tenpai-dragon-484378
-11,12,Mateus Moreno Fernandes,Snake-Eye,diabellstar-kashtira-snake-eye-484375
-12,13,Luciano Jeronimo Bregion,Fire King,diabellstar-snake-eye-fire-king-484918
-13,14,Fabio Guimaraes,Despia,branded-despia-485029
-14,15,Theo Alexandre Maia,Tenpai Dragon,tenpai-dragon-484380
-15,16,Joao Lima Wilhoit,Tenpai Dragon,tenpai-dragon-484376
-16,17,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-485106
-17,18,Marcus Patel,Snake-Eye,diabellstar-snake-eye-484528
-18,19,Hani Jawhari,Snake-Eye,
-19,20,Gabriel Netz Benakouche,Snake-Eye,diabellstar-snake-eye-484527
-20,21,Leon Dowe-Ranger,Horus,stun-horus-484384
-21,22,Cristian Urena,Snake-Eye,
-22,23,Vinicius Curcio,Snake-Eye,diabellstar-snake-eye-484367
-23,24,Felipe Bisserier Zapata,Snake-Eye,
-24,25,Lucas Simao da Silva,Purrely,purrely-485468
-25,26,Matias Lopez Raffaele,Voiceless Voice,
-26,27,Jesse Kotton,Labrynth,labrynth-485119
-27,28,Bruno Rodrigues Faria,Dark World,danger-dark-world-484371
-28,29,Daniel Alves Lima Santos,Snake-Eye,diabellstar-snake-eye-484388
-29,30,Sergio Domingos Ximenes,Voiceless Voice,branded-voiceless-voice-484663
-30,31,Douglas Pretto,Voiceless Voice,
-31,32,Franco Persano,Voiceless Voice,voiceless-voice-484665
+,placement,player,archetype,deck_id,deck_cost
+0,1,Rafael Mariano Reich,Snake-Eye,diabellstar-kashtira-snake-eye-484662,$207.67
+1,2,Ruben Penaranda,Snake-Eye,diabellstar-melodious-snake-eye-542701,$196.16
+2,3,Jose Carlo Carrillo Toscano,Snake-Eye,,
+3,4,Christopher LeBlanc,Snake-Eye,diabellstar-snake-eye-484524,$220.94
+4,5,Pedro Henrique Nogueira,Snake-Eye,diabellstar-melodious-snake-eye-484525,$181.41
+5,6,Paulo Roberto Goncalves da Silva,Snake-Eye,,
+6,7,Everton Lucas Goncalves,Tenpai Dragon,tenpai-dragon-485265,$214.00
+7,8,Carlos Augusto Vieira,Melodious,melodious-484374,$133.08
+8,9,Emre Kizilates,Floowandereeze,floowandereeze-485107,$109.61
+9,10,Matheus Hiraga,Voiceless Voice,voiceless-voice-484875,$226.85
+10,11,Adriano Silva Vasconcelos,Tenpai Dragon,tenpai-dragon-484378,$162.96
+11,12,Mateus Moreno Fernandes,Snake-Eye,diabellstar-kashtira-snake-eye-484375,$206.42
+12,13,Luciano Jeronimo Bregion,Fire King,diabellstar-snake-eye-fire-king-484918,$228.31
+13,14,Fabio Guimaraes,Despia,branded-despia-485029,$146.57
+14,15,Theo Alexandre Maia,Tenpai Dragon,tenpai-dragon-484380,$139.75
+15,16,Joao Lima Wilhoit,Tenpai Dragon,tenpai-dragon-484376,$173.44
+16,17,Yacine Sahli,Fire King,diabellstar-snake-eye-fire-king-485106,$173.29
+17,18,Marcus Patel,Snake-Eye,diabellstar-snake-eye-484528,$222.48
+18,19,Hani Jawhari,Snake-Eye,,
+19,20,Gabriel Netz Benakouche,Snake-Eye,diabellstar-snake-eye-484527,$222.41
+20,21,Leon Dowe-Ranger,Horus,stun-horus-484384,$254.17
+21,22,Cristian Urena,Snake-Eye,,
+22,23,Vinicius Curcio,Snake-Eye,diabellstar-snake-eye-484367,$181.72
+23,24,Felipe Bisserier Zapata,Snake-Eye,,
+24,25,Lucas Simao da Silva,Purrely,purrely-485468,$167.34
+25,26,Matias Lopez Raffaele,Voiceless Voice,,
+26,27,Jesse Kotton,Labrynth,labrynth-485119,$202.38
+27,28,Bruno Rodrigues Faria,Dark World,danger-dark-world-484371,$42.69
+28,29,Daniel Alves Lima Santos,Snake-Eye,diabellstar-snake-eye-484388,$173.05
+29,30,Sergio Domingos Ximenes,Voiceless Voice,branded-voiceless-voice-484663,$209.46
+30,31,Douglas Pretto,Voiceless Voice,,
+31,32,Franco Persano,Voiceless Voice,voiceless-voice-484665,$174.48
