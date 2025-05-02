@@ -58,12 +58,17 @@ def get_tournament_page_html(slug):
 
 
 def parse_all_tournament_html():
-    from os import listdir
+    # from os import listdir
 
-    tournaments_html = listdir(f"raw/tournaments-{FORMAT}-{TIER}/")
+    # tournaments_html = listdir(f"raw/tournaments-{FORMAT}-{TIER}/")
 
-    for tournament in tournaments_html:
-        if ".html" in tournament:
+    # for tournament in tournaments_html:
+    #     if ".html" in tournament:
+    #         get_tournament_data_from_html(tournament.split(".")[0])
+
+    tournaments_df = pd.read_csv(TOURNAMENTS_CSV)
+
+    for tournament in tournaments_df["slug"]:
             get_tournament_data_from_html(tournament.split(".")[0])
 
 
@@ -109,7 +114,7 @@ def get_tournament_data_from_html(slug):
         deck_cost = None
         if deck_id != None:
             deck_id = deck_id.split("/")[-1]
-            deck_cost = person.find_all("span")[-1].get_text(strip = True)
+            deck_cost = person.find_all("span")[-1].get_text(strip = True).replace("$", "")
 
         # NOTE: deck link is deck name, cluster decks together using deck_name
         # and contrast them with other decks if differ in deck_id
@@ -259,9 +264,9 @@ def parse_all_deck_html():
 if __name__ == "__main__":
     # generate_tournament_names_data()
     # get_tournament_data_from_html("ycs-houston-2930")
-    # parse_all_tournament_html()
+    parse_all_tournament_html()
     # download_all_tournament_pages()
     # download_deck_html("goblin-biker-memento-588729")
     # download_all_decks_html()
     # get_deck_data_from_html("maliss-569959")
-    parse_all_deck_html()
+    # parse_all_deck_html()

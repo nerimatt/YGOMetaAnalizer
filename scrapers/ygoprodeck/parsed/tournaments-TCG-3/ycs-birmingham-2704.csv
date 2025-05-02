@@ -1,65 +1,65 @@
 ,placement,player,archetype,deck_id,deck_cost
-0,1,Dinh-Kha Bui,Fire King,fire-king-568820,$751.02
-1,2,Shanxiao Wan,Maliss,maliss-571323,$964.77
-2,3,Marvin Kammerer,Ryzeal,ryzeal-568770,$750.75
-3,4,Nils Svensson,Mermail,atlantean-mermail-568694,$886.18
-4,5,Danilo Siracusa,Maliss,maliss-567683,$818.72
-5,6,Jérémy Servary,Ryzeal,ryzeal-572109,$719.94
-6,7,Thomas Parsons,Ryzeal,ryzeal-569819,$886.46
-7,8,Dominik Strunz,White Forest,fiendsmith-azamina-white-forest-568378,$895.48
-8,9,Konrad Müller,Mitsurugi,ryzeal-dogmatika-mitsurugi-568374,$833.46
-9,10,Théo D. Ruiz,Memento,fiendsmith-memento-568380,$729.47
-10,11,Joo-Ho Ahn,Mitsurugi,ryzeal-mitsurugi-567782,$1033.79
-11,12,Khaled Kbies,Memento,fiendsmith-memento-570857,$862.16
-12,13,Davide Giannoccaro,Memento,goblin-biker-memento-569193,$591.04
-13,14,Jan Hornig,Ryzeal,fiendsmith-ryzeal-570360,$1045.55
-14,15,Noël Hamel,Ryzeal,fiendsmith-ryzeal-569831,$995.33
+0,1,Dinh-Kha Bui,Fire King,fire-king-568820,751.02
+1,2,Shanxiao Wan,Maliss,maliss-571323,964.77
+2,3,Marvin Kammerer,Ryzeal,ryzeal-568770,750.75
+3,4,Nils Svensson,Mermail,atlantean-mermail-568694,886.18
+4,5,Danilo Siracusa,Maliss,maliss-567683,818.72
+5,6,Jérémy Servary,Ryzeal,ryzeal-572109,719.94
+6,7,Thomas Parsons,Ryzeal,ryzeal-569819,886.46
+7,8,Dominik Strunz,White Forest,fiendsmith-azamina-white-forest-568378,895.48
+8,9,Konrad Müller,Mitsurugi,ryzeal-dogmatika-mitsurugi-568374,833.46
+9,10,Théo D. Ruiz,Memento,fiendsmith-memento-568380,729.47
+10,11,Joo-Ho Ahn,Mitsurugi,ryzeal-mitsurugi-567782,1033.79
+11,12,Khaled Kbies,Memento,fiendsmith-memento-570857,862.16
+12,13,Davide Giannoccaro,Memento,goblin-biker-memento-569193,591.04
+13,14,Jan Hornig,Ryzeal,fiendsmith-ryzeal-570360,1045.55
+14,15,Noël Hamel,Ryzeal,fiendsmith-ryzeal-569831,995.33
 15,16,Jonas Rau,Ryzeal,,
-16,17,Alberto Barzan,Ryzeal,ryzeal-569114,$760.15
-17,18,Ryan Ross,Ryzeal,fiendsmith-ryzeal-568471,$781.76
+16,17,Alberto Barzan,Ryzeal,ryzeal-569114,760.15
+17,18,Ryan Ross,Ryzeal,fiendsmith-ryzeal-568471,781.76
 18,19,Basilis Tsimploulis,Despia,,
-19,20,Matthew Collins,Mermail,atlantean-mermail-568320,$715.03
+19,20,Matthew Collins,Mermail,atlantean-mermail-568320,715.03
 20,21,Jaro Schaab,Ryzeal,,
-21,22,Anthony Lopes,Ryzeal,fiendsmith-ryzeal-569952,$1107.37
-22,23,Marco Riese,Ryzeal,fiendsmith-ryzeal-570440,$1099.66
-23,24,Cristian Urena,Bystial,fiendsmith-bystial-569196,$987.29
+21,22,Anthony Lopes,Ryzeal,fiendsmith-ryzeal-569952,1107.37
+22,23,Marco Riese,Ryzeal,fiendsmith-ryzeal-570440,1099.66
+23,24,Cristian Urena,Bystial,fiendsmith-bystial-569196,987.29
 24,25,Richard Mortlock,Maliss,,
-25,26,Cormac Adams,Ryzeal,ryzeal-568053,$773.54
-26,27,Adrian Wößner,Ryzeal,ryzeal-568701,$380.43
-27,28,Damien Valla,Maliss,maliss-569956,$1054.40
-28,29,Carl-Philipp Blaschke,Ryzeal,ryzeal-568467,$804.08
-29,30,Oden Chaikin-rush,Maliss,maliss-567707,$569.27
-30,31,Alexandre Xu,Mitsurugi,ryzeal-mitsurugi-569100,$957.96
+25,26,Cormac Adams,Ryzeal,ryzeal-568053,773.54
+26,27,Adrian Wößner,Ryzeal,ryzeal-568701,380.43
+27,28,Damien Valla,Maliss,maliss-569956,1054.40
+28,29,Carl-Philipp Blaschke,Ryzeal,ryzeal-568467,804.08
+29,30,Oden Chaikin-rush,Maliss,maliss-567707,569.27
+30,31,Alexandre Xu,Mitsurugi,ryzeal-mitsurugi-569100,957.96
 31,32,Ben Thornton,Maliss,,
-32,33,Alfie Jenkin,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-568056,$424.24
-33,34,David Atienza,Mitsurugi,ryzeal-dogmatika-mitsurugi-568372,$840.99
-34,35,Jack Verma,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-568473,$711.88
-35,36,Kristoffer Nielsen,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-569814,$1020.21
-36,37,Giuseppe Marra,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-569192,$915.57
-37,38,Lorenzo Muselli,Mitsurugi,ryzeal-dogmatika-mitsurugi-567621,$628.05
-38,39,Richard Schaber,Bystial,fiendsmith-bystial-568386,$876.84
+32,33,Alfie Jenkin,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-568056,424.24
+33,34,David Atienza,Mitsurugi,ryzeal-dogmatika-mitsurugi-568372,840.99
+34,35,Jack Verma,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-568473,711.88
+35,36,Kristoffer Nielsen,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-569814,1020.21
+36,37,Giuseppe Marra,Tenpai Dragon,bystial-fiendsmith-tenpai-dragon-569192,915.57
+37,38,Lorenzo Muselli,Mitsurugi,ryzeal-dogmatika-mitsurugi-567621,628.05
+38,39,Richard Schaber,Bystial,fiendsmith-bystial-568386,876.84
 39,40,Roselle Thorkildsen,Ryzeal,,
-40,41,Marco Parenti,Ryzeal,fiendsmith-ryzeal-569829,$1051.76
+40,41,Marco Parenti,Ryzeal,fiendsmith-ryzeal-569829,1051.76
 41,42,Cameron Waddoups,Maliss,,
-42,43,Elle Brennan,Memento,goblin-biker-memento-569199,$217.55
-43,44,Timoti Baggio,Ryzeal,fiendsmith-ryzeal-568468,$1035.62
+42,43,Elle Brennan,Memento,goblin-biker-memento-569199,217.55
+43,44,Timoti Baggio,Ryzeal,fiendsmith-ryzeal-568468,1035.62
 44,45,Ryan Amassier,Maliss,,
-45,46,Jordan Gallacher,Mitsurugi,ryzeal-mitsurugi-567697,$976.46
+45,46,Jordan Gallacher,Mitsurugi,ryzeal-mitsurugi-567697,976.46
 46,47,Pasha Gandomcar,Memento,,
-47,48,Tom Kleinegräber,Maliss,maliss-568315,$851.94
-48,49,Kostis Girtsekis,Ryzeal,ryzeal-572456,$728.89
-49,50,Beau Southern ,Maliss,maliss-571600,$964.96
-50,51,Matteo Anelli,Ryzeal,ryzeal-568465,$745.19
-51,52,Alexandre Petitjean,Maliss,maliss-572671,$993.89
+47,48,Tom Kleinegräber,Maliss,maliss-568315,851.94
+48,49,Kostis Girtsekis,Ryzeal,ryzeal-572456,728.89
+49,50,Beau Southern ,Maliss,maliss-571600,964.96
+50,51,Matteo Anelli,Ryzeal,ryzeal-568465,745.19
+51,52,Alexandre Petitjean,Maliss,maliss-572671,993.89
 52,53,Gabriel Nill,Ryzeal,,
-53,54,Dan Kiernan,Maliss,maliss-570356,$942.76
-54,55,Ben Kreutzkamp,Ryzeal,ryzeal-568314,$757.08
-55,56,Gabriel Netz,Ryzeal,ryzeal-568054,$685.32
-56,57,Cesare Di Giansante,Ryzeal,ryzeal-569115,$749.62
-57,58,Bart Ladru,Maliss,maliss-569197,$1068.64
+53,54,Dan Kiernan,Maliss,maliss-570356,942.76
+54,55,Ben Kreutzkamp,Ryzeal,ryzeal-568314,757.08
+55,56,Gabriel Netz,Ryzeal,ryzeal-568054,685.32
+56,57,Cesare Di Giansante,Ryzeal,ryzeal-569115,749.62
+57,58,Bart Ladru,Maliss,maliss-569197,1068.64
 58,59,Gabriel Soussi,Maliss,,
-59,60,Jack Stocks,Maliss,bystial-maliss-571320,$679.88
-60,61,Kyle Wallace,Crystron,crystron-567679,$216.15
-61,62,Elmahdi Zoubi,Ryzeal,ryzeal-569119,$790.02
+59,60,Jack Stocks,Maliss,bystial-maliss-571320,679.88
+60,61,Kyle Wallace,Crystron,crystron-567679,216.15
+61,62,Elmahdi Zoubi,Ryzeal,ryzeal-569119,790.02
 62,63,Evgeni Ganev,Maliss,,
-63,64,Thomas Ferrari,Ryzeal,ryzeal-569117,$731.29
+63,64,Thomas Ferrari,Ryzeal,ryzeal-569117,731.29
