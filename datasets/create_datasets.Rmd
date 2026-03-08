@@ -1,0 +1,143 @@
+# create datasets
+
+from parsed ygoprodeck csv files clump them together
+
+
+tournaments column as:
+id, name, country, event-date, winner, format, slug, player_count, is_approximate_player_count
+```{r}
+TOURNAMENTS_FOLDER = "tournaments-TCG-3/"
+TOURNAMENTS_FILENAME = "tournaments-TCG-3-six_months.csv"
+CSV_PARSED_FOLDER = "./parsed/"
+
+TOURNAMENTS = read.csv(paste(CSV_PARSED_FOLDER, TOURNAMENTS_FILENAME, sep = "")) # READ ONLY
+TOURNAMENTS$X = NULL
+```
+
+paste all tournaments together, add column for the tournament id
+```{r}
+TOURNAMENTS_DATASET = data.frame()
+for (tournament in TOURNAMENTS$slug) {
+    tournament_csv = read.csv(paste(CSV_PARSED_FOLDER, TOURNAMENTS_FOLDER, tournament, ".csv", sep = ""))
+    tournament_csv$X = NULL
+    tournament_csv["slug"] = tournament
+    
+    TOURNAMENTS_DATASET = rbind(TOURNAMENTS_DATASET, tournament_csv) # vstack
+}
+```
+
+
+
+# create encoded datasets
+maliss -> 0
+...
+ryzeal -> 3
+
+"DATASET-encoded-archetypes.csv"
+
+```{r}
+archetypes = TOURNAMENTS_DATASET$archetype
+archetypes = archetypes[!duplicated(archetypes)]
+print(archetypes)
+
+archetypes_info = data.frame(
+  "archetype" = archetypes,
+  "archetype_encoding" = 0:(length(archetypes) - 1),
+  "archetype_power_level" = 0
+)
+```
+
+added column encoding of archetype, its order is lost tho
+
+```{r}
+TOURNAMENTS_DATASET = merge(TOURNAMENTS_DATASET, archetypes_info, by = "archetype")
+```
+
+```{r}
+write.csv(TOURNAMENTS_DATASET, paste("DATASET-", TOURNAMENTS_FILENAME, sep = ""))
+write.csv(archetypes_info, "DATASET-archetypes-info.csv")
+```
+
+
+# rank tier of deck (t1,t2) 1...10
+
+"Memento"
+"Maliss"
+"Ryzeal"
+"Bystial"
+"Mitsurugi"
+"Mermail"
+"Crystron"
+"Blue-Eyes"
+"Snake-Eye"
+"Fiendsmith"
+"White Forest"
+"Yubel"
+"Salamangreat"
+"Labrynth"
+"Odion"
+"Rescue-ACE"
+"Tenpai Dragon"
+"Fire King"
+"Phantom Knights"
+"Despia"
+"Stun"           
+"Primite"
+"Voiceless Voice"
+"Orcust"
+"Ritual Beast"
+"Chimera"
+"Kashtira"
+"Centur-Ion"
+"Unchained"
+"Exodia"
+"Dragon Link"
+"Floowandereeze"
+"Traptrix"
+
+```{r}
+DECK_TIERS = read.csv("./datasets/deck_powerlevel.csv", sep = "")
+```
+
+# put all deck cards in single dataset
+```{r}
+library(dplyr)
+
+# Set the path to the directory containing your CSV files
+path <- "./parsed/tournaments-TCG-3/decks/"  # replace with your actual path
+
+# Get the list of CSV files in the directory
+file_list <- list.files(path, pattern = "\\.csv$", full.names = TRUE)
+
+# Read and merge all CSVs with an additional 'deck_id' column
+DECKS_CSV <- lapply(file_list, function(file) {
+  df <- read.csv(file)
+  df$deck_id <- tools::file_path_sans_ext(basename(file)) # remove ".csv"
+  return(df)
+}) %>%
+  bind_rows()  # Merge all into a single data frame
+
+# View result
+head(DECKS_CSV)
+```
+merge archetype in deck
+# DOESNT WORK
+```{r}
+# Step 1: Keep only one archetype per deck_id (first occurrence)
+tournament_archetypes <- TOURNAMENTS_DATASET %>%
+  filter(!is.na(deck_id)) %>%
+  distinct(deck_id, .keep_all = TRUE) %>%
+  dplyr::select(deck_id, archetype)
+
+# Step 2: Join to add archetype to decks
+DECKS_CSV <- DECKS_CSV %>%
+  left_join(tournament_archetypes, by = "deck_id")
+
+```
+
+
+```{r}
+write.csv(DECKS_CSV, "DATASET-decks-TCG-3-six_months.csv")
+```
+
+

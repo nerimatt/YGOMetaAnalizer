@@ -1,0 +1,108 @@
+# tournament analysis
+
+```{r}
+TOURNAMENTS_FILENAME = "./datasets/DATASET-tournaments-TCG-3-six_months.csv"
+
+TOURNAMENTS_DATASET = read.csv(TOURNAMENTS_FILENAME)
+TOURNAMENTS_DATASET$X = NULL
+```
+
+## the Maliss case
+
+despite being in the current strongest decks, maliss seems to never be able to win a ycs (explain that is very important tournament)
+(on the contrary of ryzeal)
+why is that? a deck that costs so much struggles to win?
+
+```{r}
+tb = data.frame(table(TOURNAMENTS_DATASET$archetype)) # get frequence of each deck
+
+library(ggplot2)
+
+# Basic piechart
+ggplot(tb, aes(x="", y=Freq, fill=Var1)) +
+  geom_bar(stat="identity", width=1, color="white") +
+  coord_polar("y", start=0) +
+  
+  theme_void() # remove background, grid, numeric labels
+
+
+
+winners = TOURNAMENTS_DATASET[TOURNAMENTS_DATASET$placement == "1",]
+
+tb = data.frame(table(winners$archetype)) # get frequence of each deck
+
+library(ggplot2)
+
+# Basic piechart
+ggplot(tb, aes(x="", y=Freq, fill=Var1)) +
+  geom_bar(stat="identity", width=1, color="white") +
+  coord_polar("y", start=0) +
+  
+  theme_void() # remove background, grid, numeric labels
+```
+
+# possible analysis
+
+```{r}
+library(ggplot2)
+
+ggplot(TOURNAMENTS_DATASET, aes(x = deck_cost, y = placement)) +
+    geom_point(color = "blue") +
+    labs(title = "placement vs deck cost",
+       x = "deck cost", y = "placement") +
+    geom_smooth(method = "lm", se = TRUE, color = "red") +
+    theme_minimal()
+
+
+```
+
+
+```{r}
+costo_medio_placement <- TOURNAMENTS_DATASET %>%
+
+  group_by(placement) %>%
+
+  summarise(mean_cost = mean(deck_cost, na.rm = TRUE)) %>%
+
+  arrange(placement)
+
+print(costo_medio_placement)
+
+```
+
+```{r}
+
+
+#analisi 1: anova per vedere se esite una relazione
+
+# Ipotesi nulla: il costo medio è lo stesso per tutti i piazzamenti.
+
+# Se p < 0.05, rifiuti l’ipotesi nulla ⇒ almeno un gruppo ha un costo significativamente diverso.
+
+anova_result <- aov(deck_cost ~ as.factor(placement), data = TOURNAMENTS_DATASET)
+
+summary(anova_result)
+
+```
+
+we cannot reject null hyp, deck cost and placements are not correlated
+
+```{r}
+# Da cosa dipende il piazzamento?
+
+# Modello lineare: placement in funzione dell'archetipo
+
+TOURNAMENTS_DATASET$placement <- as.numeric(as.character(TOURNAMENTS_DATASET$placement))
+
+lm_model <- lm(placement ~ archetype, data = TOURNAMENTS_DATASET)
+
+summary(lm_model)
+plot(lm_model)
+```
+```{r}
+log_mod <- lm(placement ~ archetype, data = TOURNAMENTS_DATASET)
+
+summary(log_mod)
+plot(log_mod)
+```
+

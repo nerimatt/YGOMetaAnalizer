@@ -1,0 +1,109 @@
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+
+# Carica i dati
+decks <- read.csv("./datasets/DATASET-decks-TCG-3-six_months.csv")
+tournaments <- read.csv("./datasets/DATASET-tournaments-TCG-3-six_months.csv")
+
+# Calcola statistiche di composizione per ogni deck
+deck_stats <- decks %>%
+  group_by(deck_id) %>%
+  summarise(
+    num_unique_cards = n_distinct(name),
+    avg_copies = mean(copies),
+    var_copies = var(copies),
+    archetype = first(archetype)
+  )
+
+# Unisci con i risultati del torneo (per confronto con performance)
+deck_stats <- left_join(deck_stats, tournaments %>% dplyr::select(deck_id, placement), by = "deck_id")
+
+# Visualizza la distribuzione della varietà dei mazzi
+ggplot(deck_stats, aes(x = num_unique_cards)) +
+  geom_histogram(binwidth = 1, fill = "steelblue") +
+  theme_minimal() +
+  labs(title = "number of different cards per deck", x = "n different cards", y = "number of decks")
+
+# Relazione tra numero di carte uniche e piazzamento
+ggplot(deck_stats, aes(x = num_unique_cards, y = placement)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(title = "different cards vs placement", x = "n different cards", y = "placement (lower is better)")
+
+
+regr = lm(deck_stats$placement ~ deck_stats$num_unique_cards)
+summary(regr)
+```
+#NOTE test carte uniche nel deck con normale
+
+```{r}
+regr = lm(deck_stats$placement ~ deck_stats$num_unique_cards + deck_stats$archetype)
+summary(regr)
+```
+
+
+r^2 is still low, unexplained data like good of players
+
+piu la gente ha carte uniche, piu si posiziona meglio (avoida once per turn quindi ha piu play, more unpredictable)
+
+
+trova lista di top 20 staple
+```{r}
+most_used_cards <- decks %>%
+  group_by(name) %>%
+  summarise(count = n()) %>%
+  arrange(desc(count)) %>%
+  head(20)
+```
+
+```{r}
+library(tidyverse)
+library(reshape2)
+
+# Carica il file esportato
+df <- most_used_cards
+
+# =======================
+# BARPLOT PER ARCHETYPE
+# =======================
+
+# Riorganizza i dati in formato long per il barplot
+df_long <- df %>%
+  dplyr::select(card, starts_with("Top8.Decks"), everything()) %>%
+  pivot_longer(cols = -(1:5), names_to = "Archetype", values_to = "Top8_Count") %>%
+  filter(Top8_Count > 0)
+
+# Grafico a barre
+ggplot(df_long, aes(x = reorder(Card, Top8_Count), y = Top8_Count, fill = Archetype)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 20 Carte nei Top 8 per Archetype",
+       x = "Carta", y = "Numero di Mazzi Top 8") +
+  theme_minimal()
+
+# =======================
+# HEATMAP
+# =======================
+
+# Prepara i dati per la heatmap
+heatmap_data <- df_long %>%
+  pivot_wider(names_from = Archetype, values_from = Top8_Count, values_fill = 0)
+
+# Converti in matrice per ggplot
+heatmap_melt <- melt(heatmap_data, id.vars = "Card")
+
+# Heatmap con valori
+ggplot(heatmap_melt, aes(x = variable, y = reorder(Card, desc(Card)), fill = value)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient(low = "white", high = "red") +
+  geom_text(aes(label = value), size = 3) +
+  labs(title = "Heatmap: Presenza Carte Top 20 nei Top 8 per Archetype",
+       x = "Archetype", y = "Carta") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+

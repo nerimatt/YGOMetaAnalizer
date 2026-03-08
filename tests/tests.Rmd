@@ -1,0 +1,45 @@
+
+```{r}
+TOURNAMENTS_FILENAME = "../datasets/DATASET-tournaments-TCG-3-six_months.csv"
+
+TOURNAMENTS_DATASET = read.csv(TOURNAMENTS_FILENAME)
+TOURNAMENTS_DATASET$X = NULL
+```
+
+```{r}
+hist(TOURNAMENTS_DATASET$deck_cost, breaks = 30)
+
+library(ggplot2)
+
+ggplot(TOURNAMENTS_DATASET, aes(x=deck_cost))+
+  geom_histogram(color="darkblue", fill="lightblue")
+
+```
+```{r}
+tb = data.frame(table(TOURNAMENTS_DATASET$archetype)) # get frequence of each deck
+
+library(ggplot2)
+
+# Basic piechart
+ggplot(tb, aes(x="", y=Freq, fill=Var1)) +
+  geom_bar(stat="identity", width=1, color="white") +
+  coord_polar("y", start=0) +
+  
+  theme_void() # remove background, grid, numeric labels
+```
+
+get all winners and do piechart of archetipe
+```{r}
+winners = TOURNAMENTS_DATASET[TOURNAMENTS_DATASET$placement == "1",]
+
+tb = data.frame(table(winners$archetype)) # get frequence of each deck
+
+library(ggplot2)
+
+# Basic piechart
+ggplot(tb, aes(x="", y=Freq, fill=Var1)) +
+  geom_bar(stat="identity", width=1, color="white") +
+  coord_polar("y", start=0) +
+  
+  theme_void() # remove background, grid, numeric labels
+```

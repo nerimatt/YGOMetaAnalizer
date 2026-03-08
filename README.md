@@ -1,6 +1,6 @@
 # meta analizer
 
-statistical analisis of decks in tournaments
+statistical analisis of decks in tournaments, [CANVA PRESENTATION](https://www.canva.com/design/DAGtKcTGeOc/5FY177RACaiUog7vJlSibA/edit?utm_content=DAGtKcTGeOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## idea
 - ycs results, does buying a more expensive (strong deck) make you win more? ryzeal used by 40 percent of people but only 2 in top 8
@@ -8,7 +8,7 @@ statistical analisis of decks in tournaments
     and compare to ocg (and maybe other formats)
     also show how unfari some staple are and raise winrate
 
-anche graph of partecipants and if they have won a lot
+also graph of partecipants and if they have won a lot
 
 does buying a more expensive (strong deck) make you win more?
 
@@ -21,6 +21,7 @@ percentage of decks used in months and last banlist: https://www.yugiohmeta.com/
 
 ## usage of data
 
+ALL DATA USED IS FROM TOURNAMENTS IN THE LAST 6 MONTHS
 
 <t3 da analizzare poi (e in stesso modo)
 

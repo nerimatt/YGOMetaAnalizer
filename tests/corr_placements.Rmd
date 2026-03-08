@@ -1,0 +1,178 @@
+```{r}
+file_path <- "../datasets/DATASET-tournaments-TCG-3-six_months.csv"
+
+ 
+
+ 
+
+library(readr)    # per read_delim
+
+library(dplyr)    # per manipolazione dati
+
+ 
+
+
+TOURNAMENTS_FILENAME = "../datasets/DATASET-tournaments-TCG-3-six_months.csv"
+
+tournaments = read.csv(TOURNAMENTS_FILENAME)
+tournaments$X = NULL
+
+```
+ 
+```{r}
+
+# tolgo dove costi sono mancanti
+
+tournaments <- tournaments[!is.na(tournaments$deck_id), ]
+
+ 
+
+ 
+
+# mi assicuro che il campo "cost" e placement siano numerici (sostituisci con il nome corretto se diverso)
+
+tournaments$cost <- as.numeric(tournaments$deck_cost)
+
+ 
+
+tournaments$placement <- as.numeric(as.character(tournaments$placement))
+
+ 
+
+ 
+
+# Calcola il costo medio per placement
+
+costo_medio_placement <- tournaments %>%
+
+  group_by(placement) %>%
+
+  summarise(costo_medio = mean(cost, na.rm = TRUE)) %>%
+
+  arrange(placement)
+
+ 
+
+# Visualizza il risultato
+
+print(costo_medio_placement)
+
+```
+
+```{r}
+
+
+#analisi 1: anova per vedere se esite una relazione
+
+# Ipotesi nulla: il costo medio è lo stesso per tutti i piazzamenti.
+
+# Se p < 0.05, rifiuti l’ipotesi nulla ⇒ almeno un gruppo ha un costo significativamente diverso.
+
+anova_result <- aov(cost ~ as.factor(placement), data = tournaments)
+
+summary(anova_result)
+
+```
+
+ 
+
+```{r}
+# grafico
+
+library(ggplot2)
+
+ 
+
+ggplot(tournaments, aes(x = placement, y = cost)) +
+
+  geom_jitter(width = 0.3, alpha = 0.4, color = "steelblue") +
+
+  geom_smooth(method = "lm", se = TRUE, color = "firebrick") +
+
+  labs(
+
+    title = "Relazione tra piazzamento e costo del deck",
+
+    x = "Piazzamento (numerico)",
+
+    y = "Costo del deck"
+
+  ) +
+
+  theme_minimal()
+
+```
+
+ 
+```{r}
+
+
+ 
+
+#regressione
+
+mod <- lm(cost ~ placement, data = tournaments)
+
+summary(mod)
+
+ 
+```
+ 
+
+```{r}
+
+
+
+#Regressione ordinale
+
+library(MASS)
+
+ 
+
+# Assicurati che placement sia ordinato
+
+tournaments$placement <- as.ordered(tournaments$placement)
+
+ 
+
+# Regressione logistica ordinale
+
+model_ord <- polr(placement ~ cost, data = tournaments, Hess = TRUE)
+
+summary(model_ord)
+
+ 
+```
+ 
+
+ 
+```{r}
+
+
+
+# Da cosa dipende il piazzamento?
+
+# Modello lineare: placement in funzione dell'archetipo
+
+tournaments$placement <- as.numeric(as.character(tournaments$placement))
+
+lm_model <- lm(placement ~ archetype, data = tournaments)
+
+summary(lm_model)
+
+
+``` 
+
+ 
+```{r}
+
+
+# Regressione logistica ordinale
+
+tournaments$archetype <- as.factor(tournaments$archetype)
+tournaments$placement <- as.factor(tournaments$placement)
+model_ord <- polr(placement ~ archetype, data = tournaments, Hess = TRUE)
+
+summary(model_ord)
+```
+

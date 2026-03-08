@@ -1,12 +1,12 @@
-"","X","id","name","country","event_date","winner","format","slug","player_count","is_approximate_player_count"
-"7",6,2972,"YCS Mexico City","Mexico",2025-04-19,"Rene Epigmenio Ybarra Trapote","TCG","ycs-mexico-city-2972",1432,0
-"8",7,2930,"YCS Houston","United States",2025-04-05,"Pascal Manigat","TCG","ycs-houston-2930",1496,0
-"9",8,2891,"YCS Buenos Aires","Argentina",2025-03-29,"Luca Daniel Garcia Gonzalez","TCG","ycs-buenos-aires-2891",792,0
-"12",11,2783,"YCS Sydney","Australia",2025-03-01,"Frederick Cammell","TCG","ycs-sydney-2783",896,0
-"13",12,2704,"YCS Birmingham","United Kingdom",2025-02-08,"Dinh-Kha Bui","TCG","ycs-birmingham-2704",2496,0
-"14",13,2703,"Latin America Remote Duel YCS","Brazil",2025-02-08,"Carlos Rafael Mejia Guardian","TCG","latin-america-remote-duel-ycs-2703",294,0
-"15",14,2684,"YCS Orlando","United States",2025-02-01,"Tayveon Crowley","TCG","ycs-orlando-2684",2274,0
-"16",15,2473,"YCS Anaheim","United States",2024-12-07,"Steven Trifunoski","TCG","ycs-anaheim-2473",1429,0
-"17",16,2407,"YCS Bologna","Italy",2024-11-23,"Matthieu Bricard","TCG","ycs-bologna-2407",2504,0
-"18",17,2385,"NA Remote Duel YCS","United States",2024-11-09,"Mario De Micco","TCG","na-remote-duel-ycs-2385",429,0
-"19",18,2362,"YCS Guayaquil","Ecuador",2024-11-02,"Landon Oliver","TCG","ycs-guayaquil-2362",330,0
+"","id","name","country","event_date","winner","format","slug","player_count","is_approximate_player_count"
+"1",2972,"YCS Mexico City","Mexico","2025-04-19","Rene Epigmenio Ybarra Trapote","TCG","ycs-mexico-city-2972",1432,0
+"2",2930,"YCS Houston","United States","2025-04-05","Pascal Manigat","TCG","ycs-houston-2930",1496,0
+"3",2891,"YCS Buenos Aires","Argentina","2025-03-29","Luca Daniel Garcia Gonzalez","TCG","ycs-buenos-aires-2891",792,0
+"4",2783,"YCS Sydney","Australia","2025-03-01","Frederick Cammell","TCG","ycs-sydney-2783",896,0
+"5",2704,"YCS Birmingham","United Kingdom","2025-02-08","Dinh-Kha Bui","TCG","ycs-birmingham-2704",2496,0
+"6",2703,"Latin America Remote Duel YCS","Brazil","2025-02-08","Carlos Rafael Mejia Guardian","TCG","latin-america-remote-duel-ycs-2703",294,0
+"7",2684,"YCS Orlando","United States","2025-02-01","Tayveon Crowley","TCG","ycs-orlando-2684",2274,0
+"8",2473,"YCS Anaheim","United States","2024-12-07","Steven Trifunoski","TCG","ycs-anaheim-2473",1429,0
+"9",2407,"YCS Bologna","Italy","2024-11-23","Matthieu Bricard","TCG","ycs-bologna-2407",2504,0
+"10",2385,"NA Remote Duel YCS","United States","2024-11-09","Mario De Micco","TCG","na-remote-duel-ycs-2385",429,0
+"11",2362,"YCS Guayaquil","Ecuador","2024-11-02","Landon Oliver","TCG","ycs-guayaquil-2362",330,0
